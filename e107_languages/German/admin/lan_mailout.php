@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system German Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/09/16 12:45:46
+|
+|        $Author: Yak $
++---------------------------------------------------------------+
+*/
 define("CORE_DATE_ORDER", "DMY");
 define("LAN_MAILOUT_01", "Von Namen");
 define("LAN_MAILOUT_02", "Von Email");
@@ -44,7 +49,6 @@ define("LAN_MAILOUT_38", "Abbrechen");
 define("LAN_MAILOUT_39", "E-Mail an");
 define("LAN_MAILOUT_40", "Sie müssen zu <b>.htaccess</b> in <b>e107.htaccess</b> umbenennen");
 define("LAN_MAILOUT_41", "vor dem Senden von dieser Seite.");
-define("LAN_MAILOUT_42", "Warnung");
 define("LAN_MAILOUT_43", "Benutzername");
 define("LAN_MAILOUT_44", "Benutzer-Login");
 define("LAN_MAILOUT_45", "Benutzer-Email");
@@ -86,7 +90,6 @@ define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Verwenden Sie SSL für Gmail/Googlemail)");
 define("LAN_MAILOUT_95", "Verwenden Sie VERP für Massensendungen");
-define("LAN_MAILOUT_96", "keine");
 define("LAN_MAILOUT_97", "Mailer-Ergebnisse");
 define("LAN_MAILOUT_98", "Verwaiste Einträge");
 define("LAN_MAILOUT_99", "Bestätigen Sie 'Wiederholen' Mailing");
@@ -123,7 +126,6 @@ define("LAN_MAILOUT_129", "Verfalldatum");
 define("LAN_MAILOUT_130", "Erstellungsdatum");
 define("LAN_MAILOUT_131", "Senden gestartet");
 define("LAN_MAILOUT_132", "Komplette senden");
-define("LAN_MAILOUT_133", "Quelle");
 define("LAN_MAILOUT_134", "Priorität");
 define("LAN_MAILOUT_136", "Mailout-Status");
 define("LAN_MAILOUT_137", "E-Mail-Ref");
@@ -244,9 +246,20 @@ define("LAN_MAILOUT_254", "Blick auf Vorlagen basierende e-Mail");
 define("LAN_MAILOUT_255", "Auf Vorlagen basierende E-Mail, ID:");
 define("LAN_MAILOUT_256", "Rückkehr");
 define("LAN_MAILOUT_257", "Generierte Vorlage");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Senden");
 define("LAN_HOLD", "Halten");
 define("LAN_MAILOUT_260", "Benutzertyp");
-define("LAN_BASIC", "Grundlegende");
-define("LAN_ADVANCED", "Erweiterte");
+define("LAN_MAILOUT_261", "SMTP Port");
+define("LAN_MAILOUT_262", "Vorlagenvorschau");
+define("LAN_MAILOUT_263", "Gesamtzahl der Empfänger");
+define("LAN_MAILOUT_264", "Einbetten von Medien");
+define("LAN_MAILOUT_265", "Ausstehend");
+define("LAN_MAILOUT_266", "Max. Aktive");
+define("LAN_MAILOUT_267", "Generiere öffentliche / private Schlüssel");
+define("LAN_MAILOUT_268", "Nur Entwicklermodus");
+define("LAN_MAILOUT_269", "Später senden");
+define("LAN_MAILOUT_270", "Testen der SMTP-Verbindung");
+define("LAN_MAILOUT_271", "Authentifizierung fehlgeschlagen mit Benutzername ([x]) und Passwort ([y]):");
+
+
+?>

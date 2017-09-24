@@ -1,0 +1,18 @@
+
+Q>	Ich habe ein Banner im Admin-Bereich angelegt aber dieser erscheint nicht - warum?
+A>	Das Theme das benutzt wird muss erst eingestellt werden, um ein Banner darzustellen. Öffnen Sie im Ordner des Theme (z.B. ../e107_themes/soar/) die Datei "theme.php" und versichern Sie sich, dass dort {BANNER} oder {BANNER=ihrekampagne} in dem Bereich "$HEADER" steht.
+
+Q>	Wie setze ich zwei Sets von Bannern in unterschiedlichen Bereichen ein?
+A>	Sie können eine Banner Gruppe (Set) unter dem Stichwort 'Kampagne' gruppieren und dann so einstellen, dass sie unter einer bestimmten Kampagne sichtbar sind. Z.B. haben Sie zwei Kampagnen namens "Kamp_1" und "Kamp_2". Stellen Sie jetzt im theme.php {BANNER=Kamp_1} im Bereich $HEADER ein, so ist diese dort zu sehen. Die andere stellen Sie in einen anderen Bereich {BANNER=Kamp_2}, so ist dieser nur dort zu sehen. Mit der Einstellung {BANNER} (ohne 'Kampagne' Name!) in Ihrem theme.php wird aus allen Kampagnen jeweils eine Zufallsauswahl angezeigt.
+
+Q>	Wofür steht "Kundenanmeldung" und "Kunden Passwort"?
+A>	Sie können für jeden Banner-Kunden ein "login" und ein "Passwort" definieren. Diese können dann über http://www.ihreseite.com/banners.php nach ihrem login Informationen über die Performance der Bannerwerbung abrufen.
+
+Q>	Wie kann ich einen 'vertikalen' Bannertyp in einen Menüpunkt einbinden?
+A>	Zuerst definieren sie die Kampagne für Ihren Tower-Typ Banner. Damit werden sie von den horizontalen Bannern separiert...
+	1. Klicken Sie im Admin Bereich auf Banner.
+	2. Fügen Sie Ihren Tower Typ Banner hier ein und versichern Sie sich, dass Sie einen NEUEN Namen für Ihre Kampagne festlegen, z.B. "Towers"
+	3. Nun wechseln in den Bereich Menüs und aktivieren Sie das Banner_menu in einer Ihrer Menübereiche (im "soar" Standardtheme wäre das nur im 'Bereich 1' möglich).
+	4. Klicken Sie auf konfigurieren im Menüpunkt.
+	5. Geben Sie die überschrift ein (default ist 'Advertisment' gesetzt). Dann geben Sie den Namen Ihrer Kampagne ein, den Sie zuvor definiert haben.
+	6. Verlassen Sie nun den Admin Bereich und Sie sehen auf Ihrer Webseite den vertikalen Banner in dem Bereich, für den sie ihn definiert haben.

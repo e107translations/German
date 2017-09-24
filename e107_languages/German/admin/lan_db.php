@@ -1,104 +1,128 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("DBLAN_1", "Zentrale Einstellungen, die in der Datenbank gesichert werden.");
-define("DBLAN_4", "Wählen Sie aus, um die Gültigkeit von e107 Datenbank überprüfen");
-define("DBLAN_5", "Gueltigkeit der Datenbank");
-define("DBLAN_6", "Wählen Sie Ihre e107-Datenbank optimieren");
-define("DBLAN_7", "Optimierung der SQL-Datenbank");
-define("DBLAN_8", "Wählen Sie Ihre zentrale Einstellungen sichern");
-define("DBLAN_9", "Sicherung-Kern");
-define("DBLAN_10", "Datenbank-Dienstprogramme");
-define("DBLAN_11", "MySQL-Datenbank");
-define("DBLAN_12", "optimiert");
-define("DBLAN_15", "Wählen Sie für jede verfügbare Db-Updates überprüfen");
-define("DBLAN_16", "Nach Updates suchen");
-define("DBLAN_17", "Firma Name");
-define("DBLAN_18", "Pref-Wert");
-define("DBLAN_19", "Wählen Sie zum Öffnen des Editors 'Einstellungen' (nur für fortgeschrittene Benutzer)");
-define("DBLAN_20", "'Einstellungen'-Editor");
-define("DBLAN_22", "Plugin-Ansicht und -Scan");
-define("DBLAN_23", "-Überprüfung abgeschlossen");
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_languages/German/admin/lan_db.php $ 
+|     $Revision: 115 $
+|     $Date: 2010-09-26 06:00:45 +0200 (So, 26. Sep 2010) $
+|     $Id: lan_db.php 115 2010-09-26 04:00:45Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("DBLAN_1", "Grundeinstellungen in der Datenbank gesichert.");
+define("DBLAN_4", "Klicken Sie den Button um die Gültigkeit Ihrer e107 Datenbank zu prüfen.");
+define("DBLAN_5", "Gültigkeit der Datenbank überprüfen");
+define("DBLAN_6", "Klicken Sie den Button um Ihre e107 Datenbank zu optimieren.");
+define("DBLAN_7", "SQL Datenbank optimieren");
+define("DBLAN_8", "Klicken Sie den Button um Ihre Grundeinstellungen zu sichern.");
+define("DBLAN_9", "Grundeinstellungen sichern");
+define("DBLAN_10", "Datenbank Werkzeuge");
+define("DBLAN_11", "mySQL Datenbank [x] optimiert");
+define("DBLAN_15", "Klicken Sie hier um zu prüfen ob Datenbankupdates verfügbar sind.");
+define("DBLAN_16", "Nach Updates suchen.");
+define("DBLAN_17", "Voreinstellung- Name");
+define("DBLAN_18", "Voreinstellung- Wert");
+define("DBLAN_19", "Bitte den Button klicken um den Voreinstellungseditor zu öffnen (nur für geübte Benutzer)");
+define("DBLAN_20", "Voreinstellungseditor");
+define("DBLAN_22", "Plugin: Ansicht und Scan");
+define("DBLAN_23", "Scan abgeschlossen");
 define("DBLAN_25", "Verzeichnis");
-define("DBLAN_26", "Enthalten Add-ons");
+define("DBLAN_26", "Zusätzlich eingefügte, installierte Addons");
 define("DBLAN_27", "Installiert");
-define("DBLAN_28", "Wählen Sie Scan Plugin Verzeichnisse für Änderungen");
-define("DBLAN_29", "Plugin-Verzeichnisse Scannen");
-define("DBLAN_30", "Wenn ein Addon einen Fehler angezeigt wird, überprüfen Sie Zeichen außerhalb der PHP öffnen/schließen Markierungen.");
-define("DBLAN_31", "Übergeben");
-define("DBLAN_33", "Unzugänglich");
-define("DBLAN_34", "Nicht geprüft");
-define("DBLAN_35", "Wählen Sie, um die Gültigkeit von e107-Datenbank-Datensätzen zu überprüfen");
-define("DBLAN_36", "Datenbank-Datensatz Gueltigkeit");
-define("DBLAN_37", "Wählen Sie die Tabelle(n) validieren");
-define("DBLAN_38", "Start überprüfen");
-define("DBLAN_39", "Datenbank-Datensatz-Validierung");
-define("DBLAN_40", "Rekord-Überprüfung:");
+define("DBLAN_28", "Bitte den Button klicken um Pluginverzeichnisse nach Änderungen zu durchsuchen");
+define("DBLAN_29", "Pluginverzeichnisse scannen");
+define("DBLAN_30", " (Falls ein Eintrag einen Fehler anzeigt, überprüfen Sie bitte dass sich auserhalb des öffnenden/schliessenden PHP-tags keine Zeichen befinden)");
+define("DBLAN_31", "Überprüfung erfolgreich");
+define("DBLAN_33", "Nicht erreichbar/überprüfbar");
+define("DBLAN_34", "Nicht überprüft");
+define("DBLAN_35", "Klicken Sie auf die Schaltfläche, um die Gültigkeit der Benutzer Tabelle zu prüfen");
+define("DBLAN_36", "Benutzer Tabelle überprüfen");
+define("DBLAN_37", "Tabelle(n) auswählen zum überprüfen");
+define("DBLAN_38", "Starte verifizierung");
+define("DBLAN_39", "Datenbankaufzeichnung überprüfung");
+define("DBLAN_40", "Aufzeichnung überprüfung");
 define("DBLAN_41", "Tabelle");
-define("DBLAN_43", "Bemerkung");
-define("DBLAN_45", "ID wurde nicht gefunden!");
-define("DBLAN_46", "Tabelle nicht gefunden!");
-define("DBLAN_49", "Keine Datensätze in der Tabelle präsentieren nichts so überprüfen");
-define("DBLAN_50", "SQL Datensatz Validierung");
-define("DBLAN_51", "Ausführen ausgewählt");
-define("DBLAN_52", "Duplikate Löschen");
-define("DBLAN_53", "Bitte wählen Sie die Aktion.");
-define("DBLAN_54", "Keine Validierungsfehler gefunden.");
-define("DBLAN_55", "Kurzwahlnummer/überschreiben Verzeichnis für neue Kurzwahlnummern Scannen auswählen");
-define("DBLAN_56", "Scan überschreiben Verzeichnis");
-define("DBLAN_57", "Legen Sie auf Shortcode Override-Liste");
-define("DBLAN_58", "Websitedaten exportieren");
-define("DBLAN_59", "Website-Daten importieren");
-define("DBLAN_60", "Dateisicherung abgeschlossen!");
-define("DBLAN_61", "Sicherung der Datenbank wird gestartet...");
-define("DBLAN_62", "Vollständige Datenbanksicherung!");
-define("DBLAN_63", "Volle Standortsicherung abgeschlossen.");
-define("DBLAN_64", "Überprüfen der Datenbank Charset");
-define("DBLAN_65", "Überprüfen Sie Charset");
-define("DBLAN_66", "Korrekte Datei- und Verzeichnisberechtigungen");
-define("DBLAN_67", "Dauerwellen zu korrigieren");
+define("DBLAN_43", "Anmerkung");
+define("DBLAN_45", "ID nicht gefunden");
+define("DBLAN_46", "Tabelle nicht gefunden");
+define("DBLAN_49", "Keine Aufzeichnung vorhanden in der Tabelle, daher keine überprüfung");
+define("DBLAN_50", "SQL Aufzeichnung überprüfung");
+define("DBLAN_51", "Ausgewählte ausführen");
+define("DBLAN_52", "Lösche Doppelte");
+define("DBLAN_53", "Bitte wähle Aktion");
+define("DBLAN_54", "Keine Überprüfungsfehler gefunden");
+define("DBLAN_55", "Wählen Sie aus, um shortcode/überschreiben Verzeichnis für neuen shortcodes zu scannen");
+define("DBLAN_56", "scanne überschriebenes Verzeichnis");
+define("DBLAN_57", "Shortcode überschrieben Liste setze nach");
+define("DBLAN_58", "Exportiere Seitendaten");
+define("DBLAN_59", "Importiere Seitendaten");
+define("DBLAN_60", "Dateisicherung komplett");
+define("DBLAN_61", "Starte Datenbanksicherung");
+define("DBLAN_62", "Datenbanksicherung komplett");
+define("DBLAN_63", "Vollständige Seitensicherung komplett");
+define("DBLAN_64", "Überprüfe Datenbankzeichensätze");
+define("DBLAN_65", "Überprüfe Zeichesatz");
+define("DBLAN_66", "Korrekte Datei und Verzeichnis Berechtigungen");
+define("DBLAN_67", "Korrekte Perms");
 define("DBLAN_68", "Sicherung der Datenbank, Dateien und Ordner");
-define("DBLAN_69", "Backup-Standort");
-define("DBLAN_70", "Dadurch wird ein Datenbank-Dump und eine gezippte Backup alle übrige Plugins, das Websitedesign, Ihre Mediendateien und Systemprotokolle erstellt.");
+define("DBLAN_69", "Sicherung der Seite");
+define("DBLAN_70", "Erstellung einer Datenbankauszug und eine gezippte Sicherung aller nicht - Kern plugins , Ihre Seiten Theme zu erstellen , Ihre Mediendateien und Systemprotokolle");
 define("DBLAN_71", "Bitte warten...");
-define("DBLAN_72", "Ordner und Datei-Berechtigungen wurden aktualisiert");
+define("DBLAN_72", "Ordner und Dateirechte wurden aktualisiert.");
 define("DBLAN_73", "Korrektur von Datei- und Verzeichnisberechtigungen");
-define("DBLAN_74", "Verbindung zum server");
-define("DBLAN_75", "Datenbank erstellen");
-define("DBLAN_76", "Datenbank auswählen");
-define("DBLAN_77", "Kern-Sql-Datei konnte nicht gelesen werden.");
+define("DBLAN_74", "verbinde zum Server");
+define("DBLAN_75", "Erstelle Datenbank");
+define("DBLAN_76", "ausgewählte Datenbank");
+define("DBLAN_77", "Kann die Kern-SQL- Datei nicht lesen");
 define("DBLAN_78", "Tabelle");
-define("DBLAN_79", "Motor");
-define("DBLAN_80", "Sortierung");
+define("DBLAN_79", "Engine");
+define("DBLAN_80", "Datenabgleich");
 define("DBLAN_81", "Status");
-define("DBLAN_82", "Diese Funktion werden alle Tabellen in Ihrer Datenbank dauerhaft ändern. ([Datenbank])");
-define("DBLAN_83", "Es ist [b] [/ b] dringend empfohlen, dass Sie zuerst sichern Sie Ihre Datenbank und Ihre Website in den Wartungsmodus wechseln.");
-define("DBLAN_84", "Bitte beachten Sie:");
-define("DBLAN_85", "Konvertierungsprozess kann bis zu einer Minute oder viel viel mehr abhängig von der Größe Ihrer Datenbank dauern.");
-define("DBLAN_86", "Die Konvertierung funktioniert nicht mit serialisierten Arrays.");
-define("DBLAN_87", "Achten Sie darauf, dass Sie alle Schritte des Aktualisierungsvorgangs zuerst befolgt haben.");
-define("DBLAN_88", "Kern-Prefs werden während der Konvertierung durch Möglichkeit der Korruption ignoriert.");
+define("DBLAN_82", "Diese Funktion wird alle Tabellen in Ihrer Datenbank dauerhaft modifizieren. ([Datenbank])");
+define("DBLAN_83", "Es wird [b] HOCH [/ b] empfohlen, dass Sie zuerst ein Backup Ihrer Datenbank und schalten Sie Ihre Website in den Wartungsmodus .");
+define("DBLAN_84", "Bitte Anmerken");
+define("DBLAN_85", "Der Umwandlungsprozess kann bis zu eine Minute oder viel länger andauern. Es ist abhängig von der Größe Ihrer Datenbank.");
+define("DBLAN_86", "Die Konvertierung arbeitet nicht mit Serializationbereiche");
+define("DBLAN_87", "Seien Sie sicher, dass Sie alle Schritte des Aktualisierungsvorgangs zunächst gefolgt sind.");
+define("DBLAN_88", "Kerneinstellung wird während des Umwandlungsprozesses wegen der Möglichkeit der Korruption ignoriert.");
 define("DBLAN_89", "Datenbank konvertieren");
-define("DBLAN_90", "Nicht - UTF8-Tabellen konvertieren");
+define("DBLAN_90", "keine-UTF8 Tabellen");
 define("DBLAN_91", "Bitte warten...");
-define("DBLAN_92", "Ihre Tabellen verwenden den richtigen Zeichensatz.");
-define("DBLAN_93", "Datenbank-konvertierter erfolgreich auf UTF-8.");
-define("DBLAN_94", "Bitte stellen Sie sicher, dass Sie die folgende Zeile in der Datei e107_config.php:");
-define("DBLAN_95", "Export-Optionen");
+define("DBLAN_92", "Ihre Tabellen verwenden die richtige Codierung.");
+define("DBLAN_93", "Datenbank Konvertierung nach UTF-8 war erfolgreich");
+define("DBLAN_94", "Bitte stellen Sie sicher, dass Sie die folgende Zeile in Ihre e107_config.php Datei haben :");
+define("DBLAN_95", "Exportierungs Optionen");
 define("DBLAN_97", "Tabellen");
 define("DBLAN_98", "Zeilen");
-define("DBLAN_99", "Daten der Tabelle:");
-define("DBLAN_100", "Pfade und Paket Images und Xml zu konvertieren:");
-define("DBLAN_101", "Export-Datei");
-define("DBLAN_102", "Export-Optionen");
-define("DBLAN_103", "Eingefügt");
-define("DBLAN_104", "Fehler beim Einfügen");
-define("DBLAN_105", "Batch-Kurzwahlnummern:");
-define("DBLAN_106", "(leer)");
-define("DBLAN_107", "[Ordner] ist nicht beschreibbar.");
-define("DBLAN_108", "Erstellt:");
-define("DBLAN_109", "Kopiert:");
-define("DBLAN_110", "Konnte nicht kopieren:");
+define("DBLAN_99", "Tabellendaten");
+define("DBLAN_100", "Pfade und Paketbildern in xml konvertieren:");
+define("DBLAN_101", "Exportiere Datei");
+define("DBLAN_102", "Exportierungs Optionen");
+define("DBLAN_103", "eingefügt");
+define("DBLAN_104", "einfügen fehlgeschlagen");
+define("DBLAN_105", "Batch shortcodes:");
+define("DBLAN_106", "leer");
+define("DBLAN_107", "[Ordner] ist nicht beschreibbar");
+define("DBLAN_108", "erstellt:");
+define("DBLAN_109", "Wurde kopiert");
+define("DBLAN_110", "Konnte nicht kopieren");
+define("DBLAN_111", "Tabellen scheinen in Ordnung zu sein !");
+define("DBLAN_112", "Sync mit Github");
+define("DBLAN_113", "Überschreiben von Dateien");
+define("DBLAN_114", "Nur Entwicklermodus");
+define("DBLAN_115", "Überschreibt  Lokale Dateien mit den neuesten von GitHub.");
+define("DBLAN_116", "Dies wird die neueste ZIP-Datei von Github herunterladen.");
+define("DBLAN_117", "und dann entpacke es , überschreibt alle vorhandenen Dateien , die sich auf den Server befinden. Es wird jeder Ordner der in der e107_config.php gesetzt ist");
+define("DBLAN_118", "Konnte .zip Datei nicht herunterladen");
+define("DBLAN_119", "Datensicherung");
+define("DBLAN_120", "Starten der Datensicherung");
+define("DBLAN_121", "verschiebe [x] nach [y].");
+
+
+?>

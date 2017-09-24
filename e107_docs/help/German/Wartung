@@ -1,0 +1,6 @@
+﻿
+Q>	Wofür steht der Bereich Wartung?
+A>	Mit der Aktivierung des Feldes "Aktiviere Wartungsstatus" können Sie Ihre Seite für Dritte unsichtbar machen, wenn Sie Updates installieren oder andere Arbeiten an Ihrer Homepage durchführen, die Ihre Benutzer nicht sehen sollen. Nur der Hauptadministrator kann auf die Seite im Wartungsmodus zugreifen.
+
+Q>	Hilfe, ich habe den Wartungsmodus aktiviert und komme jetzt nicht mehr auf meine Site? Wie kann ich meine Website wieder aktivieren?
+A>	Geben Sie in der Browser Adressleiste folgendes ein: http://yoursite.com/e107_admin.php/admin.php und loggen Sie sich dann von dort ein.

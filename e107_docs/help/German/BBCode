@@ -1,0 +1,11 @@
+﻿
+Q>	Was ist BBCode?
+A>	Ein BBCode ist eine Abkürzung für ein HTML-Tag, z.B. geben Sie &#91;b] Ich bin Fettschrift! &#91;/b] in jeder beliebigen Textbox in Ihrem Adminbereich ein, so wird der Text innerhalb &#91;b] und &#91;/b] fett dargestellt. So erscheint dann der Button [b] Ich bin Fettschrift! [/b] auf Ihrem Bildschirm.
+Q>	Aber wofür nutze ich das?
+A>	Dies erspart Ihnen HTML-Tags zu nutzen. Selbstverständlich können Sie wie gewohnt HTML-Tags benutzen, aber die Anwendung von BBCode beschleunigt Ihre Texteingaben.
+
+Q>	Wenn Ich auf den Button klick erscheint der Text am Ende des Dokuments, wieso?
+A>	Durch einen Bug im Internet Explorer, der dazu führen kann, dass der Browser abstürzt, wenn Sie versuchen den Code per klick an der gewünschten Stelle zu platzieren. Aus Gründen der Kompatibilität wird der Code deshalb am Ende des Textes eingefügt.
+
+Q>	Welche BBCodes kann ich nutzen?
+A>	Gehen Sie mit Ihrer Maus über einen beliebigen Button und Sie sehen, dass darüber ein kurze Erläuterung erscheint. Es gibt weitere  Codes für Links (&#91;url] www.ihreDomain.de &#91;/url]) und E-Mail (&#91;email] &#91;/email]) usw., trotzdem können Sie weiterhin HMTL Befehle nutzen! Alle Internetadressen und E-Mails die Sie eigeben werden automatisch in klickbare Hyperlinks umgewandelt.

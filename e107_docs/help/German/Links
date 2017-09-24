@@ -1,0 +1,6 @@
+﻿
+Q>	Wie kann ich ein Link erstellen, so dass er im Hauptmenü erscheint?
+A>	Alle Links in der Kategorie "Main" werden automatisch im Hauptmenü erscheienen. Alle anderen Kategorien erscheinen auf der Seite Links.
+
+Q>	Wofür ist der Link Buttontext?
+A>	Es erlaubt Ihnen, vor dem Link ein klickbarer Button einzusetzen. Lassen Sie das Feld leer, so erscheint ein weißes Bildchen erscheint. Sie können diese Buttons auch selbst erstellen und unter ../e107_images/link_icons/ abspeichern. Bitte beachten Sie dabei, dass die Bilder nicht zu groß sind.

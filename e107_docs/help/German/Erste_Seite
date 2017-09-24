@@ -1,0 +1,9 @@
+﻿
+Q>	Wofür ist dieser Bereich gedacht?
+A>	Dieses Menü stellt die Auswahl einer individuellen Startseite für Ihre Homepage dar. Als Standard ist die Seite news.php eingestellt.
+
+Q>	Welche Seiten kann ich sonst als Startseite wählen?
+A>	Grundsätzlich alle. Sie können entweder Forum, Download, Links oder anderes auswählen. Alternativ können Sie die Seite auch in das dafür vorgesehene Feld eingeben, z.B. ..e107/start/abcdefg.php
+
+Q>	Wie richte ich einen Splashscreen ein?
+A>	Tragen Sie die Adresse des Splashscreen und markieren die Checkbox "nur Splashscreen". Die Seite wird als Startseite für 10 Sekunden angezeigt und anschlie§end automatisch auf Ihre News Seite verlinkt.

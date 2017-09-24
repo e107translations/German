@@ -1,48 +1,30 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("NFLAN_03", "Konfigurieren von newsfeeds");
-define("NFLAN_04", "Newsfeeds-Plugin wurde erfolgreich installiert. Um Newsfeeds hinzufügen und konfigurieren, zur wichtigsten Administrationsseite zurückzukehren Sie, und klicken Sie auf das Symbol 'Newsfeeds' im Abschnitt Plugin.");
-define("NFLAN_07", "Vorhandene Newsfeeds");
-define("NFLAN_08", "Newsfeeds-Titelseite");
-define("NFLAN_09", "Newsfeed erstellen");
-define("NFLAN_10", "URL für den RSS-feed.");
+/*
+ * e107 website system
+ *
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Plugin - newsfeeds
+ *
+ * $URL$
+ * $Id$
+ *
+*/
 define("NFLAN_11", "Pfad zum Bild");
 define("NFLAN_12", "Aktivierung");
-define("NFLAN_13", "Nirgendwo (inaktiv)");
-define("NFLAN_14", "Im Menü nur");
-define("NFLAN_17", "Geben Sie 'Standard', um das Bild in den Feed definiert verwenden. Wenn Sie ein eigenes Bild verwenden möchten, geben Sie die vollständigen Pfad. Freilassen Sie für kein Bild.");
+define("NFLAN_13", "Nirgends (inaktiv)");
+define("NFLAN_14", "Nur im Menü");
 define("NFLAN_18", "Aktualisierungsintervall in Sekunden");
-define("NFLAN_19", "z.B. 3600: Newsfeed wird stündlich aktualisiert");
-define("NFLAN_20", "Auf Newsfeed Hauptseite");
-define("NFLAN_21", "Seite im Menü und newsfeed");
-define("NFLAN_22", "Wählen Sie den Speicherort des Newsfeeds angezeigt.");
-define("NFLAN_26", "Update-Intervall");
-define("NFLAN_37", "Kurze Beschreibung des Feed. Geben Sie 'Standard', um die Beschreibung definiert im Feed verwenden");
-define("NFLAN_41", "Keine Newsfeeds noch definiert");
-define("NFLAN_42", "<b>»</b> <u>Feed Name:</u>
-	Der identifizierende Namen des Futters kann alles sein, die Sie mögen.<br><br>
-	<b>»</b> <u>URL zum Rss-feed:</u>
-	Die Adresse des Rss-feeds<br><br>
-	<b>»</b> <u>Pfad zum Bild:</u>
-	Wenn das Futter ein Bild definiert hat, geben Sie 'Standard', um es zu verwenden. Um ein eigenes Bild zu verwenden, geben Sie den vollständigen Pfad zu ihm. Freilassen Sie, kein Bild, überhaupt zu benutzen.<br><br>
-	<b>»</b> <u>Beschreibung:</u>
-	Geben Sie eine kurze Beschreibung des Futters, oder 'Default' um die Bezeichnung definiert im Futter (sofern vorhanden).<br><br>
-	<b>»</b> <u>Aktualisierungsintervall in Sekunden:</u>
-	Die Anzahl der Sekunden, die vergehen, bevor der Feed, z. B. 1800: 30 Minuten, 3600 aktualisiert wird: eine Stunde.<br><br>
-	<b>»</b> <u>Aktivierung:</u>
-	Wo soll die Futtermittel Ergebnisse angezeigt werden, um RSS-Feeds im Menü zu sehen, die Sie das Newsfeeds-Menü auf der <a href=''.e_ADMIN.'menus.php'>Seite des Menüs</a>zu aktivieren müssen.<br><br>Eine gute Liste der verfügbaren Feeds finden Sie unter <a href='http://www.syndic8.com/' rel='external'>syndic8.com</a> oder <a href='http://feedfinder.feedster.com/index.php' rel='external'>feedster.com</a>");
-define("NFLAN_43", "Newsfeed-Hilfe");
-define("NFLAN_44", "zum Ansehen hier klicken");
-define("NFLAN_45", "Anzahl der Elemente im Menü anzeigen");
-define("NFLAN_46", "Anzahl der Artikel auf Startseite anzeigen");
-define("NFLAN_47", "0 oder leer, um alle anzeigen");
-define("NFLAN_49", "Nicht in der Lage, unserialize Rss-Daten - wird nicht dem standard Syntax verwendet.");
-define("LAN_AL_NEWSFD_01", "News-Feed erstellt");
-define("LAN_AL_NEWSFD_02", "Nachrichten-Feed aktualisiert");
-define("LAN_AL_NEWSFD_03", "News-Feed gelöscht");
-define("LAN_AL_NEWSFD_04", "");
-define("LAN_AL_NEWSFD_05", "");
+define("NFLAN_19", "z.B., 3600: Newsfeeds werden jede Stunde aktualisiert");
+define("NFLAN_20", "Nur auf der Newsfeedhauptseite");
+define("NFLAN_21", "In beiden Menüs und der Newsfeedseite");
+define("NFLAN_26", "Aktualisierungsintervall");
+define("NFLAN_43", "Newsfeed Hilfe");
+define("NFLAN_42", "[h=4] Newsfeed-Titel [/ h] Geben Sie einen Namen ein, um den Newsfeed genau zu identifizieren. [h=4] URL zu RSS Feed [/h] Der RSS-Anbieter gibt Ihnen eine Webadresse (URL) für den Newsfeed.[h=4] Pfad zum Bild [/h] Wenn der Provider ein zu verwendendes Bild festlegt, geben Sie "default" ein, um es zu verwenden oder wählen Sie ein eigenes Bild, indem Sie die Adresse eingeben.Leer lassen, um überhaupt kein Bild zu verwenden.[h=4] Beschreibung [/h]Geben Sie eine kurze Beschreibung für den Feed ein, oder 'default', um die im Feed definierte Beschreibung zu verwenden (falls vorhanden).[h=4] Aktualisierungsintervall [/h]Geben Sie die Anzahl der Sekunden ein, bevor der Feed aktualisiert wird.Zum Beispiel 1800 = 30 Minuten, 3600 = 1 Stunde, 86400 = 1 Tag.[h=4] Aktivierung [/h]Newsfeeds können nur im Menü oder auf der Newsfeedseite angezeigt werden.Geben Sie die Details ein, an denen Feeds angezeigt werden sollen.Um Newsfeeds in e107-Menüs zu sehen, müssen Sie das Menü [b] Newsfeeds aktivieren[b/]In [link=".e_ADMIN." Menus.php] Menü-Manager [/ link]. [h=4]Tip[/h]Hier sind viele feed direcotries im Web, versuchen [link = https: //www.dmoz.org/Computer/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external] dmoz [/ link] oder [link = http: // Www.feedster.com/ external] feedster.com [/ link]");
+define("NFLAN_45", "Anzahl der Einträge im MenüNumber of items to show in menu");
+define("NFLAN_46", "Anzahl der Einträge auf der HautpseiteNumber of items to show on main page");
+
+
+?>

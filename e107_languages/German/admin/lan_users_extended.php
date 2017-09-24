@@ -1,47 +1,58 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("EXTLAN_1", "Name");
-define("EXTLAN_2", "Vorschau");
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_languages/German/admin/lan_users_extended.php $ 
+|     $Revision: 156 $
+|     $Date: 2011-09-28 19:57:27 +0200 (Mi, 28. Sep 2011) $
+|     $Id: lan_users_extended.php 156 2011-09-28 17:57:27Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("EXTLAN_1", "Name:");
+define("EXTLAN_2", "Typ");
 define("EXTLAN_3", "Werte");
-define("EXTLAN_4", "Req würde");
-define("EXTLAN_5", "Geltenden");
-define("EXTLAN_6", "Lesezugriff");
-define("EXTLAN_7", "Schreibzugriff");
+define("EXTLAN_4", "Erforderlich");
+define("EXTLAN_5", "Anwendbar");
+define("EXTLAN_6", "Leseberechtigung");
+define("EXTLAN_7", "Schreibberechtigung");
 define("EXTLAN_8", "Aktion");
 define("EXTLAN_9", "Erweiterte Benutzerfelder");
-define("EXTLAN_10", "Feldname");
-define("EXTLAN_11", "Dies ist der Name des Feldes in der Tabelle gespeichert es muss eindeutig von allen anderen sein, und dürfen nicht in den wichtigsten User-Tabelle verwendet werden");
-define("EXTLAN_12", "Feldtext");
-define("EXTLAN_13", "Dies ist der angezeigte Name des Feldes im gerenderten Seiten");
-define("EXTLAN_14", "Feldtyp");
-define("EXTLAN_15", "Feld Text enthalten");
-define("EXTLAN_16", "Default-Wert");
-define("EXTLAN_17", "Geben Sie jeden möglichen Wert in jeder Zeile<br>DB-Tabelle finden Sie unter Hilfe.");
+define("EXTLAN_10", "Feld Name");
+define("EXTLAN_11", "Name des Feldes, der in der Datenbank gesetzt wird. Muss sich von bestehenden Feldnamen unterscheiden und darf nicht in der Haupt-User-Tabelle verwendet werden");
+define("EXTLAN_12", "Feld Text");
+define("EXTLAN_13", "Angezeigter Name des Feldes auf der generierten Seite");
+define("EXTLAN_14", "Feld Typ");
+define("EXTLAN_15", "Feld Typ Parameter");
+define("EXTLAN_16", "Gesetzer Wert");
+define("EXTLAN_17", "Trage die Werte getrennt durch Komma ein, z.B. value1,value2 usw <br /> Für DB Tabellen bitte das Format benutzen: dbtable,field-value,field-name.");
 define("EXTLAN_18", "Erforderlich");
-define("EXTLAN_19", "Benutzer müssen Sie in dieses Feld einen Wert eingeben, wenn Sie ihre Einstellungen aktualisieren.");
-define("EXTLAN_20", "Bestimmt, welche Benutzer auf diesem Feld angewendet wird.");
-define("EXTLAN_21", "Dadurch wird bestimmt, wer dieses Feld in ihren Usersettings sehen wird.");
-define("EXTLAN_22", "Dadurch wird bestimmt, wer den Wert in der Benutzerseite anzeigen kann<br>Hinweis: Diese Einstellung auf 'Schreibgeschützt' für Admin und das Mitglied nur sichtbar machen.");
-define("EXTLAN_23", "Fügen erweiterter Bereich hinzu");
-define("EXTLAN_24", "Update erweiterte Feldeigenschaften");
-define("EXTLAN_25", "nach unten");
-define("EXTLAN_26", "nach oben");
+define("EXTLAN_19", "Für Benutzer wird es erforderlich sein hier einen Wert einzugeben, wenn Sie Ihre Einstellungen aktualisieren.");
+define("EXTLAN_20", "Legt fest welchen Benutzern dieses Feld angezeigt wird.");
+define("EXTLAN_21", "Legt fest, wer dieses Feld in seinen Einstellungen sieht.");
+define("EXTLAN_22", "Legt fest, wer den Wert auf der Benutzerseite angezeigt bekommt. <br />HINWEIS: Setzen Sie hier 'Nur lesen' wird es nur Admins und Mitgliedern angezeigt.");
+define("EXTLAN_23", "Erweitertes Benutzerfeld hinzufügen");
+define("EXTLAN_24", "Erweitertes Benutzerfeld aktualisieren");
+define("EXTLAN_25", "Nach unten");
+define("EXTLAN_26", "Nach oben");
 define("EXTLAN_27", "Löschen bestätigen");
-define("EXTLAN_28", "Keine erweiterten Felder definiert");
+define("EXTLAN_28", "Nichts definiert");
 define("EXTLAN_29", "Erweiterte Benutzerfelder gespeichert.");
-define("EXTLAN_30", "Erweiterte Feld gelöscht");
-define("EXTLAN_31", "Kategoriebezeichnung");
-define("EXTLAN_32", "Dies ist die Beschriftung des Feldes wie gezeigt auf Seite Benutzereinstellungen. Sprache-Konstanten sind zulässig.");
-define("EXTLAN_33", "'Abbrechen' Bearbeiten");
+define("EXTLAN_30", "Erweitertes Benutzerfeld gelöscht");
+define("EXTLAN_31", "Erweitertes Benutzerfeld Menü");
+define("EXTLAN_32", "Dies ist die Bezeichnung des Feldes das auf der Benutzereinstellungsseite angezeigt wird . Sprach Konstanten sind erlaubt.");
+define("EXTLAN_33", "Bearbeiten aufheben");
 define("EXTLAN_34", "Erweiterte Felder");
 define("EXTLAN_35", "Kategorien");
-define("EXTLAN_36", "Keine zugewiesenen Kategorie");
-define("EXTLAN_37", "Keine Kategorien definiert");
-define("EXTLAN_38", "Kategorienamen");
+define("EXTLAN_36", "Keine zugehörigen Kategorien");
+define("EXTLAN_37", "Keine Kategorien festgelegt");
+define("EXTLAN_38", "Kategorie Name");
 define("EXTLAN_39", "Kategorie hinzufügen");
 define("EXTLAN_40", "Kategorie erstellt");
 define("EXTLAN_41", "Kategorie gelöscht");
@@ -51,45 +62,55 @@ define("EXTLAN_44", "Kategorie");
 define("EXTLAN_45", "Neues Feld hinzufügen");
 define("EXTLAN_46", "Hilfe");
 define("EXTLAN_47", "Neuen Parameter hinzufügen");
-define("EXTLAN_48", "Fügen Sie neuen Wert");
-define("EXTLAN_49", "Benutzer ausblenden");
-define("EXTLAN_50", "Einstellung auf yes wird der Benutzer dieses Werts von nicht-Admins verstecken kann");
-define("EXTLAN_51", "Alle gültigen w3c-Parameter kann hier eingetragen werden<br>z.B. <b> <i>Klasse = 'Tbox' Größe '40' Maxlength = '80' =</i></b>");
-define("EXTLAN_52", "Regex-Bestätigungs-code");
-define("EXTLAN_53", "Geben Sie den Regex-Code, der müssen aufeinander abgestimmt werden und es einen gültigen Eintrag machen<br>** Regex Trennzeichen sind erforderlich **");
-define("EXTLAN_54", "Regex Fehler text");
-define("EXTLAN_55", "Geben Sie die Fehlermeldung, die angezeigt wird, wenn die Regex Validierung fehlschlägt.");
-define("EXTLAN_56", "Vordefinierte Felder");
+define("EXTLAN_48", "Neuen Wert hinzufügen");
+define("EXTLAN_49", "Erlaube es Benutzern zu verstecken");
+define("EXTLAN_50", "Wenn Sie dieses Feature hier auf - ja - setzen, wird es Benutzern erlaubt diesen Wert von Nicht-Admins zu verstecken");
+define("EXTLAN_51", "<i>parm_name=parm_value</i><br />Bitte sehen Sie in die Hilfebox für gültige Parameter.");
+define("EXTLAN_52", "Regex Registrierungscode");
+define("EXTLAN_53", "Geben Sie den Regex Code ein um Ihre Eingaben gültig zu machen <br />**Regex Delimiters sind nötig**");
+define("EXTLAN_54", "Regex Textfehler");
+define("EXTLAN_55", "Geben Sie hier die Fehlernachricht ein, die angezeigt wird, falls die Regex-Registrierung fehlschlägt.");
+define("EXTLAN_56", "Vorgefertigte Felder");
 define("EXTLAN_57", "Aktiviert");
 define("EXTLAN_58", "Nicht aktiviert");
 define("EXTLAN_59", "Aktivieren");
 define("EXTLAN_60", "Deaktivieren");
-define("EXTLAN_61", "Keine");
-define("EXTLAN_62", "Tabelle");
-define("EXTLAN_63", "Feld-Id");
-define("EXTLAN_64", "Anzeigewert");
-define("EXTLAN_65", "Nein - die werden nicht auf der Anmeldeseite angezeigt");
-define("EXTLAN_66", "Ja – wird auf der Anmeldeseite anzeigen");
-define("EXTLAN_67", "No - Show auf der Anmeldeseite");
+define("EXTLAN_61", "keine");
+define("EXTLAN_62", "Tabelle wählen");
+define("EXTLAN_63", "Feld Id wählen");
+define("EXTLAN_64", "Anzeigemodus wählen");
+define("EXTLAN_65", "Nein - Wird auf der Registrierungsseite nicht angezeigt werden");
+define("EXTLAN_66", "Ja - Wird auf der Registrierungsseite angezeigt werden");
+define("EXTLAN_67", "Nein - Auf Registrierungsseite anzeigen");
 define("EXTLAN_68", "Feld:");
-define("EXTLAN_69", "wurde aktiviert");
-define("EXTLAN_70", "FEHLER!! Feld:");
-define("EXTLAN_71", "konnte nicht aktiviert werden!");
-define("EXTLAN_72", "wurde deaktiviert");
-define("EXTLAN_73", "wurde nicht deaktiviert!");
-define("EXTLAN_74", "ist ein reserviertes Feldname, und kann nicht verwendet werden.");
-define("EXTLAN_75", "Hinzufügen von Fehlerfeld Datenbank.");
-define("EXTLAN_76", "Ungültige Zeichen im Feld name - nur A-Z, a-Z, 0-9, zulässig.");
-define("EXTLAN_77", "Nicht gelöscht - Kategorie müssen löschen von Feldern in der Kategorie zuerst:");
-define("EXTLAN_78", "Datei--Datei--musste Datentabelle erstellen kann nicht gefunden werden.");
-define("EXTLAN_79", "Etikett");
-define("EXTLAN_80", "Validierungsfehler - abgebrochen.");
-define("EXTLAN_HELP_1", "<b><i>Parameter:</i></b><br>Size - Größe des Feldes<br>MaxLength - maximale Länge des Felds<br><br>Klasse - Css-Klasse des Feldes<br>Stil - Css-Stil-Zeichenfolge<br><br>Regex - Regex Validierungscode<br>Regexfail - Validierung fehl text");
-define("EXTLAN_HELP_2", "Geben Sie Text für Optionen in 'Werte'-Box - eine Box pro Option. Fügen Sie neue Felder ein, nach Bedarf");
-define("EXTLAN_HELP_3", "Geben Sie Text für Optionen in 'Werte'-Box - eine Box pro Option. Fügen Sie neue Felder ein, nach Bedarf");
-define("EXTLAN_HELP_4", "<b><i>Werte:</i></b><br>Es sollte drei Werte immer gegeben:<br><ol><li>DBTABLE</li><li>Feld mit id</li><li>Feld mit Wert</li></ol><br>");
-define("EXTLAN_HELP_5", "Definieren Sie einen Bereich für freiem Text. (Legen Sie die Größe im Feld 'Feld enthalten Text' nach Bedarf)");
-define("EXTLAN_HELP_6", "Benutzer einen numerischen Wert eingeben");
-define("EXTLAN_HELP_7", "Benutzer benötigt, um ein Datum eingeben");
-define("EXTLAN_HELP_8", "Benutzer aus installierten Sprachen auswählen");
-define("EXTLAN_HELP_9", "Eine vordefinierte Liste angeben. Das Feld 'Wert' wählt die Art der Liste - derzeit nur 'Zeit-Zonen' ein gültiger Eintrag ist");
+define("EXTLAN_69", "Wurde aktiviert");
+define("EXTLAN_70", "Fehler!! Feld:");
+define("EXTLAN_71", "Wurde nicht aktivuiert!");
+define("EXTLAN_72", "Wurde deaktiviert");
+define("EXTLAN_73", "Wurde nicht deaktiviert!");
+define("EXTLAN_74", "ist ein reservierter Feldname und kann deshalb nicht benutzt werden.");
+define("EXTLAN_75", "Fehler beim Hinzufügen des Feldes in die Datenbank.");
+define("EXTLAN_76", "Ungültige Zeichen im Feldnamen - es ist nur A-Z, a-z, 0-9, '_' Zeichen erlaubt.");
+define("EXTLAN_77", "Kategorie konnte nicht gelöscht werden - sie müßen zuerst die Felder in der Kategorie selbst löschen:");
+define("EXTLAN_78", "Datei nicht gefunden. --FILE-- wird benötigt, um Daten-Tabelle zu erstellen");
+define("EXTLAN_79", "Fehler bei der Validierung - abgebrochen.");
+define("EXTLAN_80", "Validierungs Fehler - abgebrochen.");
+define("EXTLAN_81", "Benutzerdefiniertes Feld hinzufügen");
+define("EXTLAN_82", "Werte");
+define("EXTLAN_83", "Platzhalter");
+define("EXTLAN_84", "Hilfe Tipp");
+define("EXTLAN_86", "Benutzererweiterungsspalte wurde aus der Tabelle gelöscht.");
+define("EXTLAN_87", "Werte sortieren
+Werte sor");
+define("EXTLAN_HELP_1", "<b><i>Parameter:</i></b><br />size - Grösse des Feldes<br />maxlength - maximale Länge des Feldes<br />class - css Klasse des Feldes<br />");
+define("EXTLAN_HELP_2", "Bitte Text für die Optionen in die 'Values' Box eineben - Eine Box pro Option. Sie können so viele Boxen hinzufügen wie nötig");
+define("EXTLAN_HELP_3", "Bitte Text für die Optionen in die 'Values' Box eineben - Eine Box pro Option. Sie können so viele Boxen hinzufügen wie nötig");
+define("EXTLAN_HELP_4", "<b><i>Werte:</i></b><br />Es sollten drei Werte gegeben sein ALWAYS:<br /><ol><li>dbtable</li><li>field containing id</li><li>field containing value</li></ol><br />");
+define("EXTLAN_HELP_5", "Einen Bereich erstellen für freiformatierbaren Text. (Geben Sie die Größe im Feld 'Field include text' ein wie vorgeschrieben)");
+define("EXTLAN_HELP_6", "Benutzern erlauben einen numerischen Wert einzugeben");
+define("EXTLAN_HELP_7", "Benutzer zwingen ein Datum anzugeben");
+define("EXTLAN_HELP_8", "Benutzern erlauben aus installierten Sprachen auszuwählen");
+define("EXTLAN_HELP_9", "Spezifizieren Sie eine vordefinierte Liste . Der Feldwert wählt die Art der Liste - derzeit nur \ ' Zeitzonen \' ein gültiger Eintrag");
+
+
+?>

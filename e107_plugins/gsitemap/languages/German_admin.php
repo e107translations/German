@@ -1,35 +1,45 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("GSLAN_1", "Link Website");
+/*
+ * e107 website system
+ *
+ * Copyright (C) 2008-2009 e107 Inc (e107.org)
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Plugin language file - gsitemap
+ * $URL$
+ * $Id$
+ *
+*/
+define("GSLAN_1", "Seiten Link");
 define("GSLAN_2", "Importieren?");
-define("GSLAN_7", "Import-Links");
-define("GSLAN_8", "Importieren Sie mit:");
-define("GSLAN_9", "Priorität");
+define("GSLAN_7", "Importierte Links");
+define("GSLAN_8", "Importieren mit:");
+define("GSLAN_9", "Vorrang");
 define("GSLAN_10", "Frequenz");
 define("GSLAN_11", "immer");
-define("GSLAN_12", "die Stunden");
+define("GSLAN_12", "stündlich");
 define("GSLAN_13", "täglich");
-define("GSLAN_14", "Wochenschau");
-define("GSLAN_15", "monatliche");
+define("GSLAN_14", "wöchentlich");
+define("GSLAN_15", "monatlich");
 define("GSLAN_16", "jährlich");
-define("GSLAN_18", "Angeklickte Links importieren");
-define("GSLAN_20", "Kotierung");
-define("GSLAN_21", "Anweisungen");
+define("GSLAN_18", "Importieren Sie angekreuzte Links");
+define("GSLAN_20", "Auflistung");
+define("GSLAN_21", "Anleitungen");
 define("GSLAN_22", "Neuen Eintrag erstellen");
-define("GSLAN_23", "Import");
-define("GSLAN_24", "Google Sitemap-Einträge");
-define("GSLAN_27", "LastMod");
+define("GSLAN_23", "Importieren");
+define("GSLAN_24", "Google Sitemap Einträge");
+define("GSLAN_27", "Letztermod");
 define("GSLAN_28", "Freq.");
-define("GSLAN_29", "Google Sitemap-Konfiguration");
-define("GSLAN_32", "Gewusst wie: Verwenden von Google Sitemaps");
+define("GSLAN_29", "Google Sitemap Konfiguration");
+define("GSLAN_32", "So verwendet man Google Sitemaps");
 define("GSLAN_33", "GSiteMap Anweisungen");
-define("GSLAN_34", "Erstellen Sie zunächst die Links, die Sie in Ihrer Sitemap aufgeführt haben möchten. Sie können die meisten Ihrer Links importieren, indem Sie auf die 'Import'-Taste auf der rechten Seite");
-define("GSLAN_35", "Wenn Sie sich entschieden haben, Ihre Links zu importieren, klicken Sie auf 'Importieren' und überprüfen Sie dann die Links, die Sie importieren möchten");
-define("GSLAN_36", "Sie können auch einzelne Glieder manuell eingeben indem Sie auf 'Neuen Eintrag erstellen'");
-define("GSLAN_37", "Sobald Sie einige Einträge haben, gehen Sie zu [URL] und geben Sie den folgenden URL-> <b>'. SITEURL.' Gsitemap.php</b> - wenn diese Url sieht nicht bei Ihnen, bitte Sie sicher stellen, Ihre Website-Url stimmt in Admin-> 'Einstellungen'");
-define("GSLAN_38", "Weitere Informationen über Google-Sitemap-Protokoll finden Sie auf [URL].");
-define("GSLAN_39", "Import keine Links in der Sitemap - Sitelinks?");
+define("GSLAN_34", "Erstellen Sie zuerst die Links, die Sie in Ihrer Sitemap aufgelistet haben möchten. Können Sie die meisten Ihrer Links importieren, indem Sie auf die Schaltfläche "Importieren" auf der rechten Seite klicken,");
+define("GSLAN_35", "Wenn Sie Ihre Links ausgewählt haben, klicken Sie auf "Importieren" und anschließend auf die Links, die Sie importieren möchten.");
+define("GSLAN_36", "Sie können auch einzelne Links manuell eingeben, indem Sie auf 'Neuen Eintrag erstellen' klicken.");
+define("GSLAN_37", "Nachdem Sie einige Einträge haben , gehen Sie auf [URL] und geben folgende URL ein -> <b>".SITEURL."gsitemap.php</b> - Wenn diese URL nicht direkt auf Sie sieht , stellen Sie sicher, dass Ihre Website-URL in Admin korrekt ist -> Einstellungen");
+define("GSLAN_38", "Für mehe information auf Google Sitemap protocol, gehe zur [URL].");
+define("GSLAN_39", "keine Links in der sitemap - importiere Seitenlinks?");
+
+
+?>

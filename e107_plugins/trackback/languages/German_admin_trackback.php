@@ -1,13 +1,23 @@
 <?php
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|
++----------------------------------------------------------------------------+
+*/
+define("TRACKBACK_L7", "Verfolgung aktivieren");
+define("TRACKBACK_L8", "Verfolgungs URL Text");
+define("TRACKBACK_L10", "Verfolgungs Einstellungen");
+define("TRACKBACK_L11", "Verfolgungs Adresse für diesen Eintrag:");
+define("TRACKBACK_L12", "Keine Verfolgung  für diesen Eintrag");
+define("TRACKBACK_L13", "Verfolgung moderieren");
+define("TRACKBACK_L16", "Verfolgungen");
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
 
-define("TRACKBACK_L7", "Trackback zu aktivieren");
-define("TRACKBACK_L8", "Trackback-URL text");
-define("TRACKBACK_L10", "Trackback-Einstellungen");
-define("TRACKBACK_L11", "Trackback-Adresse für diesen Beitrag:");
-define("TRACKBACK_L12", "Keine Trackbacks für diesen Artikel");
-define("TRACKBACK_L13", "Moderate trackbacks");
-define("TRACKBACK_L16", "Trackback");
+?>

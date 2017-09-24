@@ -1,0 +1,9 @@
+﻿
+Q>	Wofür ist diese Einstellung?
+A>	Der eingeschaltete Cache Status sichert bestimmte Bereiche Ihrer Seite in der Datenbank. Dadurch werden die Abfragen für mySQL minimiert und Ihre Seite baut sich deutlich schneller auf!
+
+Q>	Ich habe einige Veränderungen an meinem Theme vorgenommen aber sie werden nicht sichtbar - liegt das am Cache?
+A>	Höchstwahrscheinlich. Wenn Sie änderungen an Ihrem Theme.php vornehmen ist der Cache hierfür leer. Bedenke: Geänderter Code Ihres Theme wird nicht den Cache beeinflussen. Setzen Sie während der änderungen den Cah bitt auf off bzw. abgestellt, bis Sie Ihre Arbeiten abgeschlossen haben.
+
+Q>	Kann ich den Cache auf meiner Festplatte speichern?
+A>	Ja, aber versichern Sie sich , dass das Verzeichnis ..e107_files/cache beschreibbar ist (chmod 777). Danach klicken Sie auf die Option "Cache Daten als Detei auf Festplatte speichern.

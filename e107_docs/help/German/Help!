@@ -1,0 +1,9 @@
+
+Q > einige Änderungen an meiner Website und jetzt bekomme ich MySQL Fehler und meine Website nicht angezeigt.
+A > es könnte sein, dass Ihr Kern verdorben geworden ist. Der Kern ist die Haupteinstellungen und Variablen von e107. Um Ihr Kerngeschäft zurückzusetzen, gehen Sie zu http://yoursite.com/e107_files/resetcore/resetcore.php. Immer sichern Ihren Kern (von der Datenbank-Bildschirm) vor der Anmeldung Änderungen, Sie können dann die Kern Sicherungskopie wiederherstellen wenn etwas schief läuft (ab resetcore.php).
+
+Q > Ich habe mein Haupt Administratorpasswort vergessen und jetzt kann ich nicht auf mein Admin-Bereich.
+A > sehr gut aus Sicherheitsgründen ist es unmöglich, Ihr Passwort zurückzusetzen, wenn Sie angemeldet sind. Wenn Sie Ihr Passwort an einem sicheren Ort aufgeschrieben habe nicht tun Sie dies bitte jetzt, dann wird dieses Szenario nie passieren. Wenn ja, musst du dein Passwort manuell mit PhpMyAdmin oder einem anderen ähnlichen MySQL Manager. Gehen Sie auf die Users-Tabelle, die wichtigsten Admin sollte Nummer 1 sein. Klicken Sie auf die Schaltfläche "Bearbeiten" und ändern Sie das Passwort zu 4cb9c8a8048fd02294477fcb1a41191a, dies wird Ihr Passwort zu Changeme ändern. Jetzt anmelden und [b] aktualisieren Sie Ihr Kennwort sofort [/ b].
+
+Q > ich eine Thema/Plugin etc. installiert und jetzt meine Website nicht erreichbar ist, was kann ich tun?
+A > resetcore.php (siehe oben) zu verwenden.

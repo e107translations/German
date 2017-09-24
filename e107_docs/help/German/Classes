@@ -1,0 +1,9 @@
+
+Q > was ich sehe immer wieder diese Benutzerklassen werden? Was sind sie?
+A > Benutzerklassen einschränken des Zugriffs auf bestimmte Bereiche oder Funktionen Ihrer Website. Wenn Sie eine Klasse definieren und bestimmte Benutzer hinzufügen, können Sie Dinge in dieser Klasse nur der Benutzer sichtbar zu machen.
+Zum Beispiel gibt es eine Klasse, die bereits standardmäßig bei der Installation von e107 namens PRIVATEFORUM erstellt. Hinzufügen von Benutzern zu dieser Klasse dann Schaffung eines Forums unter, dass Klasse nur die Benutzer in dieser Klasse auf das Forum zugreifen lässt. Sie können weitere Bereiche und Funktionen von Klasse, wie Nachrichten, Links, Downloads, etc. einschränken.
+Q > Was bedeutet das 'übergeordnete Klasse' Feld zu tun?
+A > In 2.x, können Sie eine Klassenhierarchie, wo Benutzer in einer bestimmten Klasse haben auch die Rechte der übergeordneten Klasse einstellen. Wenn Sie dies nicht wünschen, setzen Sie einfach das übergeordnete Element auf "Alle"
+Q > Ich will neue Benutzer mit Mitgliedschaft bestimmter Klassen beginnen.
+A > Einstiegsklasse Mitgliedschaft über das Menü "Habe" können Sie nun einstellen. Sie können auch bestimmen, ob diese Mitgliedschaft sofort in Kraft ist sie sich anmelden, oder ob es wird hinzugefügt, wenn ihre Mitgliedschaft bestätigt wird.
+

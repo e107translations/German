@@ -1,8 +1,19 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system German Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|
+|        $URL: ../e107_plugins/banner/languages/German_global.php $
+|        $Revision: 1.0 $
+|        $Id: 2015/07/07 23:00:01 $
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_PLUGIN_BANNER_NAME", "Werbebanner");
+define("LAN_PLUGIN_BANNER_DESCRIPTION", "Werbebanner auf Ihre Webseite hinzufügen");
 
-define("LAN_PLUGIN_BANNER_NAME", "Banner");
-define("LAN_PLUGIN_BANNER_DESCRIPTION", "Werbebanner zu Ihren e107 hinzufügen");
+
+?>

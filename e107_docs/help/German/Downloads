@@ -1,0 +1,7 @@
+﻿
+Q>	Was ist eine Download Hauptkategorie?
+A>	Eine erlaubt Ihnen Ihre Downloads in verschiedene Kategorien einzuteilen, z.B. Bilder, Video, Dokumente etc.
+Tipp:	 Eine Hauptkategorie muss zuerst erstellt werden. Danach haben Sie die Möglichkeit unter Kategorien neue der Hauptkategorie untergeordnete Rubriken anzulegen. Standardmäßig ist e107 v0.616 ohne Hauptkategorie.
+
+Q>	Ich möchte ein Download hinzufügen aber die Datei wird nicht auf der Seite angezeigt. Warum nicht?
+A>	Nur Dateien im Verzeichnis.. e107_files/downloads werden in der Dropdown Liste (erstelle Download - Admin Bereich) angezeigt. †bertragen Sie die Datei in diesen Ordner und sie wird in der Dropdownliste angezeigt. Das Selbe gilt für Bilder (..e107/downloadimages) bzw. Vorschaubilder (..e107/downloadthumbs). Vorschaubilder können für alle Donwload Dateien angelegt werden.

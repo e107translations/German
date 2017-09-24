@@ -1,0 +1,7 @@
+﻿
+Q>	Was sind Benutzerklassen? Wozu dienen sie?
+A>	Benutzerklassen beschränken den Zugriff auf bestimmte Bereiche oder Funktionen Ihrer Seite. Wenn Sie eine Benutzerklasse anlegen, sollten Sie ihr bestimmte Benutzer zuweisen. Dadurch können Sie NUR den Benutzern Bereiche/Dinge sichtbar anzeigen lassen, für die Sie die jeweilige Klasse angelegt haben.
+	In der Regel ist keine Klasse mit der Installation vorbereitet. Im Menü "Benutzerklassen" können Sie dann neue Klassen anlegen. Mit "Klassen Name" legen Sie einen Namen für den geschlossenen Bereich an. "Klassen Beschreibung" gibt nähere Auskunft über die Klasse, hier geben Sie eine aussagekräftige Beschreibung ein.
+	Nachdem Sie die Klasse angelegt haben, können Sie diese bearbeiten. klicken Sie auf bearbeiten und Sie können registrierte Benutzer in die ausgewählte Klasse verschieben. Danach haben nur die für diese Klasse festgelegten Benutzer Zugang.
+	Damit Ihre Klassen auch wirksam werden, müssen Sie ein Forum oder andere Bereiche anlegen, in denen dann die Benutzer sich aufhalten können.
+	Mit Benutzer Klassen beschränken Sie den Zugang oder Bereiche, wie News, Artikel, Links, Downloads usw.

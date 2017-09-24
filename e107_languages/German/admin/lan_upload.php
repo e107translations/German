@@ -1,48 +1,62 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("UPLLAN_1", "Upload aus der Liste entfernt.");
-define("UPLLAN_2", "In der Datenbank gespeicherten Einstellungen");
-define("UPLLAN_4", "Nichts geändert - nicht aktualisiert");
-define("UPLLAN_5", "Poster");
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_languages/German/admin/lan_upload.php $ 
+|     $Revision: 115 $
+|     $Date: 2010-09-26 06:00:45 +0200 (So, 26. Sep 2010) $
+|     $Id: lan_upload.php 115 2010-09-26 04:00:45Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("UPLLAN_1", "Upload markiert als nicht erwünscht.");
+define("UPLLAN_2", "Einstellungen in der Datenbank gespeichert");
+define("UPLLAN_4", "Kene änderungen, wurde nicht aktualisiert.");
+define("UPLLAN_5", "Schreiber");
 define("UPLLAN_7", "Webseite");
 define("UPLLAN_14", "Demo");
-define("UPLLAN_16", "Kopieren Sie in newspost");
-define("UPLLAN_17", "Upload aus Liste entfernen");
-define("UPLLAN_18", "Details anzeigen");
-define("UPLLAN_19", "Es gibt keine unmoderierte öffentliche uploads");
-define("UPLLAN_20", "Dort");
-define("UPLLAN_21", "Unmoderierte öffentliche upload");
-define("UPLLAN_24", "Filetype");
-define("UPLLAN_25", "Upload aktiviert?");
-define("UPLLAN_26", "Keine öffentlichen Uploads werden erlaubt sein, wenn deaktiviert");
-define("UPLLAN_27", "Unmoderierte öffentliche Upload");
-define("UPLLAN_33", "Maximale Dateigröße");
-define("UPLLAN_34", "Absolute maximale Upload-Größe in Bytes. Weiter eingeschränkt, indem von php.ini Einstellungen und die Einstellungen in filetypes.xml");
-define("UPLLAN_37", "Berechtigung");
-define("UPLLAN_38", "Wählen Sie, um nur bestimmten Benutzern das Hochladen zulassen");
-define("UPLLAN_41", "Bitte beachten Sie: Datei-Uploads aus der php.ini deaktiviert sind, wird es nicht möglich, Dateien hochzuladen, bis Sie es auf On festgelegt.");
-define("UPLLAN_45", "Sind Sie sicher, dass Sie die folgende Datei löschen möchten...");
-define("UPLAN_COPYTODLM", "Kopie an download-manager");
+define("UPLLAN_16", "Kopiere zu den Newseinträgen");
+define("UPLLAN_17", "Markiere als nicht erwünscht");
+define("UPLLAN_18", "Details ansehen");
+define("UPLLAN_19", "Es gibt keine unmoderierten öffentlichen Uploads");
+define("UPLLAN_20", "Es gibt");
+define("UPLLAN_21", "unmoderierten öffentlichen Upload");
+define("UPLLAN_24", "Dateityp");
+define("UPLLAN_25", "Uploads erlauben?");
+define("UPLLAN_26", "Falls -nein- markiert sind keine öffentlichen Uploads gestattet.");
+define("UPLLAN_27", "Unmoderierte öffentliche Uploads");
+define("UPLLAN_33", "Maximale Dateigrösse");
+define("UPLLAN_34", "Maximum Uploadfilegrösse in Bytes - Bitte leer lassen um mit den  php.ini Einstellungen übereinzustimmen ( php.ini settings sind");
+define("UPLLAN_37", "Erlaubnis/Benutzerklassen");
+define("UPLLAN_38", "Wählen Sie hier um nur bestimmen Usern Uploads zu erlauben.");
+define("UPLLAN_41", "Beachten Sie - Datei Uploads sind über Ihre php.ini nicht erlaubt, Sie können keine Files uploaden wenn Sie dies nicht auf On stellen.");
+define("UPLLAN_45", "Sind Sie sicher, die folgende Datei löschen zu wollen...");
+define("UPLAN_COPYTODLM", "zum Downloadmanager kopieren");
 define("UPLAN_IS", "ist");
 define("UPLAN_ARE", "sind");
-define("UPLAN_COPYTODLS", "Kopieren Sie auf Downloads");
-define("UPLLAN_51", "Liste-Uploads");
-define("UPLLAN_52", "Diese Seite hilft Ihnen das Erstellen einer Datei für die Verwaltung von Berechtigungen für Datei-Upload. Die Datei wird als--Quelle--gespeichert und in--DEST--kopiert werden muss, bevor sie wirksam wird.");
-define("UPLLAN_54", "Datei-Erweiterungen");
-define("UPLLAN_55", "Max Upload-Größe");
-define("UPLLAN_56", "Datei generieren");
+define("UPLAN_COPYTODLS", "Zu den Downloads kopieren");
+define("UPLLAN_51", "Uploads Liste");
+define("UPLLAN_52", "Diese Seite hilft Ihnen, eine Datei für die Verwaltung von Datei-Upload- Berechtigungen zuerstellen. Die Datei wird als --SOURCE-- gespeichert und müssen nach --DEST-- kopiert werden, bevor sie wirksam werden.");
+define("UPLLAN_54", "Dateierweiterungen");
+define("UPLLAN_55", "Maximale upload größe");
+define("UPLLAN_56", "Datei erzeugen");
 define("UPLLAN_57", "Quelle für Werte:");
-define("UPLLAN_59", "Einstellungen auf geschrieben");
-define("UPLLAN_60", "Jetzt verschieben Sie diese Datei auf");
-define("UPLLAN_61", "Fehler beim Schreiben der Datei:");
-define("UPLLAN_62", "Download Plugin ist nicht installiert - Aktivierung nicht möglich.");
-define("UPLLAN_63", "Datensatz verschoben auf Downloads. [X]");
-define("UPLLAN_64", "Download zu verwalten");
-define("UPLLAN_66", "Download-Pfad-Fehler");
-define("UPLLAN_68", "SQL-Fehler:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_59", "Einstellungen geschrieben nach");
+define("UPLLAN_60", "Bewegen Sie nun diese Datei nach");
+define("UPLLAN_61", "Dateischreibfehler:");
+define("UPLLAN_62", "Download Plugin ist nicht installiert - aktivierung ist nicht möglich.");
+define("UPLLAN_63", "Aufzeichnung nach Downloads bewegt. [x]");
+define("UPLLAN_64", " Download verwalten");
+define("UPLLAN_66", "Download Pfad Fehler");
+define("UPLLAN_68", "SQL Fehler:");
+define("UPLLAN_69", "Importiert");
+define("UPLLAN_70", "sende nach [x]");
+
+
+?>

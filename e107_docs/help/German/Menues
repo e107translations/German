@@ -1,0 +1,12 @@
+﻿
+Q>	Was sind Menüs?
+A>	Menüs sind die Rubriken, die in den unterschiedlichen Spalten vom e107 abhängigen Layout positioniert werden können. Diese können Text, Links oder Bilder etc. enthalten.
+
+Q>	Wie aktiviere ich ein Menü?
+A>	Klicken Sie im Admin Bereich auf Menüs. Dann sehen Sie das Hauptlayout Ihrer Website mit einer langen Liste von inaktiven Menüs im mittleren Bereich. Wenn Sie dann von einem inaktiven Menü eines auswählen können Sie in der Dropdownliste auswählen, in welchem Bereich Ihrer Homepage Sie das Menü bzw. die Rubrik einordnen möchten. Nach dem Sie dann die Rubrik ausgewählt haben, erscheint das neue Menue/ die Rubrik in dem Bereich den sie angewählt haben. Sie können dann auch noch innerhalb der Spalten die Punkte nach Ihrem Gusto arrangieren. Bitte beachten Sie, dass Sie aufgrund der usability, nicht zu häufig die Bereich ändern. Ihre Benutzer werden sonst nur irritiert. ebenso können Sie sichtbare Bereiche auch deaktivieren.
+
+Q>	Ich muss Text in einen der neuen Bereich schreiben. Wie mache ich das?
+A>	Wählen Sie im Admin Bereich eigene Menüs und wählen Sie aus den existierenden Menüs dasjenige aus, zu dem Sie einen Text hinzufügen möchten. Nachdem Sie das Menü aktualisiert haben erscheint es auf Ihrer Homepage. Sollte es nicht auf der Homepage erscheinen, versichern Sie sich, dass Sie das Menü aktiviert bzw. sichtbar gemacht haben.
+
+Q>	Wie kann ich die Optionen für einen Menüpunkt ändern?
+A>	Sofern in dem Menübereich die Möglichkeit gegeben ist, einzelne Menüs zu konfigurieren, können Sie über den Link "Konfigurieren" individuelle Einstellungen vornehmen.

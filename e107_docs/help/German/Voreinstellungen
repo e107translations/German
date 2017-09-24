@@ -1,0 +1,12 @@
+
+Q>	Wie ändere ich meine Themes bzw. das Layout?
+A>	über den Menüpunkt Voreinstellungen gelangen Sie zu den Seiteneinstellungen Ihrer website. Diese änderungen haben Auswirkungen auf das gesamte Erscheinungsbild Ihres Internetauftritts. Bitte schauen Sie sich vor der Durchführung von änderungen Ihres "Themes" das neue Layout immer erst einmal an und versichern sich, dass die aktuelle Auswahl auch zur aktuellen Version Ihres e107 passt.
+
+Q>	Was ist COPPA?
+A>	COPPA heißt Children's Online Privacy Protection Act of 1998 (soviel Englisch müssen Sie verstehen ;)). Es ist eine Universalregel, die junge Menschen unter 13 Jahren vor verwerflichen Inhalten schützen soll. Es versichert, dass das der Eigentümer dieser Seite die erhaltenen Informationen seiner Benutzer nicht missbraucht. Weitere Informationen erhalten Sie unter: http://www.ftc.gov/privacy/coppafaqs.shtm
+
+Q>	Soll ich Cookies oder Sessions für die Userbeobachtung nutzen?
+A>	Es ist Ihre wahl. Wenn Ihre Seite mit cookies gut arbeitet, empfehlen wir Ihnen es so zu lassen. Wenn Sie lieber mit php-Sessions arbeiten, dann nutzen Sie bitte diesen. e107 hat einen eigenen Session Handler, die diese Arbeit übernimmt.
+
+Q>	Warum sollte ich meine Seite im Standardmodus  betreiben?
+A>	Wenn Sie ein eigenes Theme entwickeln haben Sie vermutlich Schwierigkeiten, das Layout in Firefox/Mozilla und IE5.0 zu rendern. Aktivieren Sie die Checkbox und IE wird gezwungen im Standardmodus zu arbeiten. das verhindert dann fehlerhafte Darstellungen.

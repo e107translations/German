@@ -1,7 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system German Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/10 16:41:22
+|
+|        $Author: Admin $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_PLUGIN_PAGE_BOCHAP", "suchen in Buch/Kapitel");
 
-define("LAN_PLUGIN_PAGE_BOCHAP", "Suche in Buch/Kapitel");
+
+?>

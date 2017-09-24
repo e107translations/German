@@ -1,89 +1,68 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("UCSLAN_3", "Klasse gelöscht.");
-define("UCSLAN_5", "Klasse aktualisiert.");
-define("UCSLAN_6", "Klasse in der Datenbank gespeichert.");
-define("UCSLAN_7", "Noch keine Benutzerklassen.");
-define("UCSLAN_8", "Bestehenden Klassen");
-define("UCSLAN_9", "Kein Symbol");
-define("UCSLAN_10", "Klasse nicht gelöscht - es ist eine Kernklasse oder in der Definition einer anderen Klasse als übergeordnete 'oder' Bearbeiten-Klasse verwendet wird");
-define("UCSLAN_11", "Tick zu bestätigen");
-define("UCSLAN_12", "Klassenname");
-define("UCSLAN_13", "Klassenbeschreibung");
-define("UCSLAN_14", "Update-User-Klasse");
-define("UCSLAN_15", "Neue Klasse erstellen");
-define("UCSLAN_18", "Klar-Klasse");
-define("UCSLAN_20", "Klasse");
-define("UCSLAN_21", "Benutzereinstellungen-Klasse");
-define("UCSLAN_24", "Klasse-Manager");
-define("UCSLAN_25", "Erstellung/Bearbeitung von Klassen");
-define("UCSLAN_26", "Klassenmitgliedschaft");
-define("UCSLAN_27", "Hilfe zu Debuggen");
-define("UCSLAN_29", "Diese Klasse darf nicht gelöscht werden");
-define("UCSLAN_30", "Kurzname angezeigt in Selektoren");
-define("UCSLAN_31", "Informationen zur Anwendbarkeit der Klasse");
-define("UCSLAN_32", "Benutzer in dieser Klasse können hinzufügen oder selbst von der Klasse bearbeiteten entfernen");
-define("UCSLAN_33", "Bestimmt, welche Benutzer diese Klasse in Drop-Down Listen sehen können");
-define("UCSLAN_34", "Sichtbarkeit der Klasse");
-define("UCSLAN_35", "Übergeordnete Klasse");
-define("UCSLAN_36", "Wenn die Spitze des Baumes 'Niemand' ist, erhöhen Sie Berechtigungen in Richtung zur Oberseite der Struktur<br>Wenn die Spitze des Baumes 'Jeder', erhöhen Berechtigungen, wie Sie einen Baum gehen");
-define("UCSLAN_37", "Sie müssen einen Namen für die Klasse eingeben.");
-define("UCSLAN_38", "Erste User-Klasse");
-define("UCSLAN_39", "Keine Klassen eingestellt werden kann");
-define("UCSLAN_40", "Set der ersten Klassen");
-define("UCSLAN_41", "Einstellungen aktualisiert");
-define("UCSLAN_42", "Nichts geändert - nicht aktualisiert");
-define("UCSLAN_43", "Bestehenden Klassen:");
-define("UCSLAN_44", "Keine");
-define("UCSLAN_45", "Punkt auf die Klassen eingestellt:");
-define("UCSLAN_46", "(wird ignoriert, wenn keine Überprüfung)");
-define("UCSLAN_47", "Erste Anmeldungen");
-define("UCSLAN_48", "Verifizierung per Email oder admin");
-define("UCSLAN_49", "Diese Klassen sind für alle neu angemeldet Benutzer festlegen - entweder sofort oder einmal ihre Website Mitgliedschaft wurde überprüft");
-define("UCSLAN_50", "Optionen/Setup");
-define("UCSLAN_51", "Klasse Benutzerfunktionen");
-define("UCSLAN_52", "Setup-Optionen");
-define("UCSLAN_53", "Vorsicht! Verwenden Sie diese Optionen nur, wenn Sie verstehen, was sie tun");
-define("UCSLAN_54", "Legen Sie eine Standardhierarchie für Benutzer");
-define("UCSLAN_55", "Deaktivieren Sie die Benutzerhierarchie");
-define("UCSLAN_56", "(Dadurch wird eine 'flache' Benutzer-Klassenstruktur)");
-define("UCSLAN_57", "(die Hierarchie kann später geändert werden)");
-define("UCSLAN_58", "Ausführen");
-define("UCSLAN_59", "Aktivieren der Protokollierung der Admin Benutzer Klasse Bearbeitungen");
-define("UCSLAN_60", "Klasse Benutzerkonfigurationsoptionen");
-define("UCSLAN_61", "Benutzereinrichtung Klasse");
-define("UCSLAN_62", "Erstellen Sie Standardstruktur Klasse:");
-define("UCSLAN_63", "Die Klassenname existiert bereits - Bitte wählen Sie ein anderes");
-define("UCSLAN_64", "abgeschlossen");
-define("UCSLAN_65", "Glätten Sie Benutzer-Klassenhierarchie:");
-define("UCSLAN_66", "Bestätigen Sie glätten Benutzer Klassenhierarchie");
-define("UCSLAN_67", "Festlegen von Standard-Benutzer-Klassenhierarchie zu bestätigen");
-define("UCSLAN_68", "Klasse-Symbol");
-define("UCSLAN_69", "Optionales Symbol zugeordnete Klasse - Verzeichnis");
-define("UCSLAN_70", "Wiederaufbau-Klassenhierarchie:");
-define("UCSLAN_71", "Benutzerpflege Klasse");
-define("UCSLAN_72", "Wiederaufbau der Klassenhierarchie");
-define("UCSLAN_73", "(Das kann erforderlich sein wenn Datenbankbeschädigung auftritt)");
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_languages/German/admin/lan_userclass2.php $ 
+|     $Revision: 155 $
+|     $Date: 2011-09-27 23:07:07 +0200 (Di, 27. Sep 2011) $
+|     $Id: lan_userclass2.php 155 2011-09-27 21:07:07Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("UCSLAN_10", "Klasse wurde nicht gelöscht - es ist eine Kernklasse oder in der Definition einer anderen Klasse verwendet , entweder als Ursprung oder bearbeitete Klasse");
+define("UCSLAN_30", "Kurzname in Selektoren angezeigt");
+define("UCSLAN_31", "Information über Anwendbarkeit der Klassen");
+define("UCSLAN_32", "Benutzer in dieser Klasse können hinzufügen / entfernen und sich selbst in dieser Klasse bearbeiten");
+define("UCSLAN_33", "entscheidet welcher Benutzer dieser Klasse in den Drop_Down Listen sehen kann");
+define("UCSLAN_36", "Wen es der obere Baum ist \'keiner\', Berechtigungen zum erhöhen, in Richtung zum Anfang des Baumes<br />Wenn es der obere Baum ist \'jeder\', Berechtigungen zum erhöhen, wenn du den Baum herunter gehst");
+define("UCSLAN_37", "Bitte einen Namen für die Klasse eingeben");
+define("UCSLAN_38", "Anfangs Benutzerklasse");
+define("UCSLAN_39", "Keine Klassen, die eingestellt werden können");
+define("UCSLAN_40", "setze Anfangs-Klasse");
+define("UCSLAN_41", "Einstellungen wurde aktualisiert");
+define("UCSLAN_43", "vorhandene Klassen:");
+define("UCSLAN_45", "Welches Zeitpunkt in Klassen gesetzt ist:");
+define("UCSLAN_46", "(Ignorieren wenn keine Überprüfung)");
+define("UCSLAN_47", "Erstanmeldung");
+define("UCSLAN_48", "Überprüfung per Email oder Admin");
+define("UCSLAN_49", "Diese Klassen sind für jede neu angemeldeten Benutzer eingestellt - entweder sofort oder einmal ihre Mitgliedschaft überprüft wurde");
+define("UCSLAN_53", "Vorsicht! verwende diese Option wenn du genau weißt was du machts");
+define("UCSLAN_54", "Setze eine Standard für Benutzer Hierachie");
+define("UCSLAN_55", "leere die Benutzer Hierachie");
+define("UCSLAN_56", "(Dieses setzt eine 'Ebene' Benutzerklasse Struktur)");
+define("UCSLAN_57", "(Die Hierachie kann später modifiziert werden)");
+define("UCSLAN_58", "ausführen");
+define("UCSLAN_62", "erstelle Standard Klassenbaum:");
+define("UCSLAN_63", "Der Klassenname ist bereits vorhanden - bitte wähle einen anderen");
+define("UCSLAN_64", "Komplett");
+define("UCSLAN_65", "Benutzerklassenhierarchie ebnen:");
+define("UCSLAN_69", "Optional wenn die Klasse mit Icon zugeordnet ist - Verzeichnis");
+define("UCSLAN_70", "Klassenhierachie erneuert:");
+define("UCSLAN_71", "Benutzerklasse Verwaltung");
+define("UCSLAN_72", "Klassenhierachie erneuern");
+define("UCSLAN_73", "(Dies kann erforderlich sein, wenn ein Datenbank-Fehler tritt auf)");
 define("UCSLAN_74", "Administratoren und Moderatoren");
 define("UCSLAN_75", "Registrierte und Angemeldete Mitglieder");
-define("UCSLAN_76", "Site-Administratoren");
-define("UCSLAN_77", "Haupt-Website-Administratoren");
+define("UCSLAN_76", "Seiten Administratoren");
+define("UCSLAN_77", "Hauptseiten Administratoren");
 define("UCSLAN_78", "Moderatoren für Foren und andere Bereiche");
-define("UCSLAN_79", "Klassentyp");
 define("UCSLAN_80", "Standard");
 define("UCSLAN_81", "Gruppe");
-define("UCSLAN_82", "Eine Gruppe vereint eine Reihe von einzelnen Klassen");
+define("UCSLAN_82", "Eine Gruppe vereint eine Anzahl von einzelnen Klassen");
 define("UCSLAN_83", "Klassen in Gruppe");
-define("UCSLAN_84", "(Gruppe)");
-define("UCSLAN_85", "Sie haben alle verfügbare Klassen zugeordnet; Bitte weisen Sie eine, die nicht in Gebrauch ist");
-define("UCSLAN_86", "Einige Einstellungen zulässig nicht für Admin-Klassen - sie auf die Standardwerte festgelegt wurden.");
-define("UCSLAN_87", "Vor kurzem trat Benutzer");
-define("UCSLAN_88", "Identifizierten Suchrobots");
-define("UCSLAN_89", "Überprüfte Klassen sind Mitglieder der Gruppe");
-define("UCSLAN_90", "Bestimmte Benutzer Systemklassen können nicht bearbeitet werden!");
-define("UCSLAN_91", "");
-define("UCSLAN_UPDATE", "Update");
+define("UCSLAN_85", "Du hast alle verfügbaren Klassen zugeordnet; Bitte weise eine ein, die nicht in Gebrauch ist");
+define("UCSLAN_86", "Einige Einstellungen nicht für Admin- Klassen erlaubt sind - die auf Standardwerte gesetzt sind.");
+define("UCSLAN_87", "Kürzlich beigetretene Benutzer");
+define("UCSLAN_88", "Identifiziert Suche beides");
+define("UCSLAN_89", "Überprüfe Klassenmitglider von dieser Gruppe");
+define("UCSLAN_90", "Du kannst/nicht einige System Benutzerklassen bearbeiten!");
+define("UCSLAN_91", "Klassenstruktur");
+
+
+?>

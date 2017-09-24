@@ -1,79 +1,93 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("PAGE_NAME", "Benutzereinstellungen");
-define("MAX_AVWIDTH", "Ist der maximale Avatar-Größe (BxH)");
-define("MAX_AVHEIGHT", "x");
-define("LAN_USET_1", "Dein Avatar ist zu breit");
-define("LAN_USET_2", "Maximale zulässige Breite beträgt");
-define("LAN_USET_3", "Dein Avatar ist zu hoch");
-define("LAN_USET_4", "Maximale zulässige Höhe ist");
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_languages/German/lan_usersettings.php $ 
+|     $Revision: 155 $
+|     $Date: 2011-09-27 23:07:07 +0200 (Di, 27. Sep 2011) $
+|     $Id: lan_usersettings.php 155 2011-09-27 21:07:07Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("PAGE_NAME", "Benutzer Einstellungen / Angaben");
+define("MAX_AVWIDTH", "Maximale Avatarbreite (BxH) ist");
+define("MAX_AVHEIGHT", " x");
+define("LAN_USET_1", "Die Avatarbreite ist zu breit");
+define("LAN_USET_2", "Maximal erlaubte Breite ist");
+define("LAN_USET_3", "Die Avatarhöhe ist zu hoch");
+define("LAN_USET_4", "Maximal erlaubte Höhe ist");
 define("LAN_USET_7", "Verschiedenes");
-define("LAN_USET_8", "Unterschrift");
-define("LAN_USET_9", "Einige Pflichtfelder (markiert mit einem *) fehlen von Ihren Einstellungen.");
-define("LAN_USET_10", "Bitte aktualisieren Sie Ihre Einstellungen jetzt, um fortfahren zu können.");
-define("LAN_USET_11", "Diesen Benutzernamen dürfen nicht als gültig akzeptiert, wählen Sie bitte einen anderen Benutzernamen");
-define("LAN_USET_12", "Die Display-Name ist zu kurz. Bitte wählen Sie ein anderes");
-define("LAN_USET_13", "Ungültige Zeichen im Benutzernamen. Bitte wählen Sie ein anderes");
-define("LAN_USET_14", "Login-Name ist zu lang. Bitte wählen Sie ein anderes");
-define("LAN_USET_15", "Der Anzeigename ist zu lang. Bitte wählen Sie ein anderes");
-define("LAN_USET_16", "Das Feld vorhandenes Foto löschen, ohne eine andere hochladen");
-define("LAN_USET_17", "Display Name bereits verwendet wird. Bitte wählen Sie ein anderes");
-define("LAN_USET_18", "Benutzerdaten geändert von Admin:--ID--, Login-Name:--LOGNAME--");
-define("LAN_USET_20", "Sie müssen auch das Kennwort des Benutzers ändern, wenn Sie ihre Login-Name oder Email-Adresse ändern");
-define("LAN_USET_21", "Bitte überprüfen Sie die Änderungen durch die erneute Eingabe Ihres Passwortes:");
-define("LAN_USET_22", "Ungültiges Kennwort!");
-define("LAN_USET_23", "Zu Ihrem bestehenden Kennwort leer lassen");
+define("LAN_USET_8", "Benutzer Signatur");
+define("LAN_USET_9", "Einige erforderliche Felder (markiert mit einem *) fehlen in Ihren Einstellungen.");
+define("LAN_USET_10", "Bitte aktualisieren Sie Ihre Einstellungen um fortfahren zu können.");
+define("LAN_USET_11", "Dieser Benutzername kann nicht als gültig akzeptiert werden, bitte wählen Sie einen andern Benutzernamen");
+define("LAN_USET_12", "Der Anzeigename ist zu kurz. Bitte wählen Sie einen anderen.");
+define("LAN_USET_13", "Ungültige Zeichen im Benutzer Namen. Bitte wählen Sie einen anderen.");
+define("LAN_USET_14", "Anmeldename zu lang. Bitte wählen Sie einen anderen");
+define("LAN_USET_15", "Anzeigename zu lang. Bitte wählen Sie einen anderen");
+define("LAN_USET_16", "Bitte hier markieren, wenn Sie das bestehende Foto löschen wollen ohne ein anderes hochzuladen");
+define("LAN_USET_17", "Der Anzeigename besteht bereits, bitte wählen Sie einen anderen.");
+define("LAN_USET_18", "Benutzerdaten geändert von Admin : --ID-- , Anmeldename: --LOGNAME--");
+define("LAN_USET_20", "Außerdem müssen Sie das Kennwort des Benutzers ändern, wenn Sie ihre Anmeldname oder E-Mail Adresse ändern.");
+define("LAN_USET_21", "Bitte bestätigen Sie die Änderungen durch erneute Eingabe Ihres Passwort :");
+define("LAN_USET_22", "Ungültiges Passwort");
+define("LAN_USET_23", "Leer lassen , um das alte Passwort zu behalten");
 define("LAN_USET_24", "Neues Passwort:");
-define("LAN_USET_25", "Neues Kennwort erneut eingeben:");
-define("LAN_USET_26", "Ihr Avatar hochladen");
-define("LAN_USET_27", "Ihr Foto hochladen");
-define("LAN_USET_28", "Dies wird auf Ihrer Profilseite angezeigt");
-define("LAN_USET_30", "Direkthilfe?");
-define("LAN_USET_31", "Registrierungs-Informationen");
-define("LAN_USET_32", "Bitte beachten Sie: jedes Bild, das auf diesem Server, die von den Administratoren als unangemessen ist hochgeladen werden sofort gelöscht.");
-define("LAN_USET_33", "Wählen Sie Site gespeichert avatar");
-define("LAN_USET_34", "Verwendung entfernten avatar");
-define("LAN_USET_35", "Geben Sie bitte vollständige Adresse-Bild");
-define("LAN_USET_36", "Klicken Sie um die Avatare gespeichert, die auf dieser Website finden Sie unter");
-define("LAN_USET_37", "Einstellungen speichern");
-define("LAN_USET_38", "Avatar wählen");
-define("LAN_USET_39", "Update-Benutzereinstellungen");
-define("LAN_USET_40", "Die beiden Passwörter stimmen nicht überein.");
-define("LAN_USET_41", "Einstellungen aktualisiert und in der Datenbank gespeichert.");
-define("LAN_USET_42", "Unpassender auf Validierungsschlüssel");
-define("LAN_USET_43", "Fehler beim Aktualisieren der Benutzerdaten");
-define("LAN_7", "Anzeigename:");
-define("LAN_8", "der Name auf der Website angezeigt");
-define("LAN_9", "Benutzername:");
-define("LAN_10", "der Name, die Sie, um verwenden auf der Website einloggen");
-define("LAN_112", "E-Mail-Adresse:");
-define("LAN_113", "Ausblenden e-Mail-Adresse?:");
-define("LAN_114", "Dies wird Ihre e-Mail-Adresse nicht angezeigt wird vor Ort");
+define("LAN_USET_25", "Neues Passwort nochmal eingeben");
+define("LAN_USET_26", "Laden sie ihren Avater hoch");
+define("LAN_USET_27", "Laden sie ihr Foto hoch");
+define("LAN_USET_28", "Dies wird auf Ihrer Profilseite angezeigt werden");
+define("LAN_USET_30", "Was ist das?");
+define("LAN_USET_31", "Registrierungsinfaormation");
+define("LAN_USET_32", "Bitte beachten Sie : Jedes hochladen von Bildern über diesen Server , die  unangemessen sind, werden von den Administratoren sofort gelöscht .");
+define("LAN_USET_33", "auf dieser Seite gespeicherten Avatar auswählen");
+define("LAN_USET_34", "Verwende Remote  Avatar");
+define("LAN_USET_35", "Bitte die volle Adresse zum Bild eingeben.");
+define("LAN_USET_36", "Avatare von dieser Seite benutzen");
+define("LAN_USET_37", "Einstellungen gespeichert");
+define("LAN_USET_38", "Avatar auswählen");
+define("LAN_USET_39", "aktualisiere Benutzereinstellungen");
+define("LAN_USET_40", "Das zweite Passwort stimmt nicht überein");
+define("LAN_USET_41", "Einstellungen aktualisiert und gespeichert in der Datenbank");
+define("LAN_USET_42", "Nichtübereinstimmung in Validierungsschlüssel");
+define("LAN_USET_43", "Fehler bei der aktualisiereung der Benutzerdaten");
+define("LAN_7", "Angezeigter Name:");
+define("LAN_8", "der Name der auf der Seite angezeigt wird");
+define("LAN_9", "Benutzer Name:");
+define("LAN_10", "der Name den Sie für die Anmeldung benutzen");
+define("LAN_112", "Email Adresse:");
+define("LAN_113", "Verstecke Email Adresse?:");
+define("LAN_114", "Dies verhindert die Anzeige Ihrer Email Adresse auf der Seite");
 define("LAN_120", "Signatur:");
 define("LAN_122", "Zeitzone:");
 define("LAN_152", "Neues Passwort:");
-define("LAN_153", "Neues Kennwort erneut eingeben:");
-define("LAN_154", "Einstellungen speichern");
+define("LAN_153", "Wiederhole neues Passwort:");
+define("LAN_154", "Update Einstellungen");
 define("LAN_308", "Richtiger Name:");
-define("LAN_401", "Zu Ihrem bestehenden Kennwort leer lassen");
-define("LAN_404", "Bitte beachten Sie: jedes Bild, das auf diesem Server, die von den Administratoren als unangemessen ist hochgeladen werden sofort gelöscht.");
-define("LAN_414", "Ihr Foto hochladen");
-define("LAN_415", "Ihr Avatar hochladen");
-define("LAN_418", "Registrierungs-Informationen");
+define("LAN_401", "Lassen Sie das Feld frei um das alte Passwort beizubehalten");
+define("LAN_404", "Bitte beachten Sie: Der Seitenadmin behält sich vor, nicht akzeptable Bilder sofort zu löschen.");
+define("LAN_414", "Laden Sie Ihr Foto hoch");
+define("LAN_415", "Laden Sie Ihren Avatar hoch");
+define("LAN_418", "Registrierungs Informationen");
 define("LAN_420", "Avatar");
-define("LAN_421", "Wählen Sie Site gespeichert avatar");
-define("LAN_422", "Verwendung entfernten avatar");
-define("LAN_423", "Geben Sie bitte vollständige Adresse-Bild");
-define("LAN_424", "Klicken Sie um die Avatare gespeichert, die auf dieser Website finden Sie unter");
-define("LAN_425", "Photographie");
-define("LAN_426", "Dies wird auf Ihrer Profilseite angezeigt");
+define("LAN_421", "Wählen Sie einen vorgegebenen Avatar");
+define("LAN_422", "Wählen Sie einen eigenen Avatar");
+define("LAN_423", "Bitte geben Sie die komplette Adresse zum Bild an");
+define("LAN_424", "Klicken Sie den Button um die vorgegebenen Avatare anzusehen");
+define("LAN_425", "Foto");
+define("LAN_426", "Dies wird auf Ihrer Profil Seite angezeigt");
 define("LAN_433", "URL zu Ihrer XUP Datei");
-define("LAN_434", "Direkthilfe?");
-define("LAN_435", "XML User-Protokoll-Datei");
-define("LAN_CUSTOMTITLE", "Benutzerdefinierten Titel");
-define("LAN_USET_5", "Abonniert");
-define("LAN_USET_6", "Abonnieren Sie unsere Mailing-Listen und/oder Teilbereiche dieser Website.");
+define("LAN_434", "Was ist das?");
+define("LAN_435", "XML Benutzer Protokoll Datei");
+define("LAN_CUSTOMTITLE", "Forum Titel");
+define("LAN_USET_5", "Angemeldet für");
+define("LAN_USET_6", "Angemeldet für unsere Mailing-Liste(n) und/oder Bereiche dieser Seite.");
+
+
+?>

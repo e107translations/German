@@ -1,0 +1,6 @@
+﻿
+Q>	Ich wünsche, dass Besucher Uploads durchführen können, habe dennoch  meine Sicherheitsbedenken?
+A>	Es gibt viele Dinge zu tun, um die Sicherheit Ihres Systems zu verbessern. Erstens nutzen Sie Option Binäre Datenbank. Dadurch sind die Daten für niemanden von außerhalb zugänglich, weil sie in der mySQL Datenbank abgelegt werden. Außerdem können Sie über den Datenfilter die Art der uploadbaren Dateien definieren. Alle nicht zugelassenen Daten werden automatisch vom Server gelöscht.
+
+Q>	Ich habe einige Daten hochgeladen. Was mache ich nun damit?
+A>	Sie haben die Möglichkeit, die Daten in den Download Ornder zu kopieren und erlauben anderen darauf den Zugriff. Ferner können Die darüber eine Nachricht verfassen, um Ihren Besuchern mitzuteilen, dass jetzt Daten zum Download bereit stehen.

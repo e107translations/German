@@ -1,0 +1,15 @@
+﻿
+Q>	Was sind Forum Kategorien? What are forum parents?
+A>	Eine Kategorie subsummiert bzw. gruppiert unterschiedliche Foren. Das macht es Leichter für den Benutzer, durch Ihre Website zu navigieren.
+
+Q>	Ich möchte eine Bestimmte Person zu einem Forum Moderator machen. Ich finde sie aber nicht in der Admin Liste?
+A>	Zunächst müssen Sie im Menü Benutzer die Person auswählen, die Sie zum Admin erklären wollen. Dazu wählen Sie im Pulldown Menü "zum Admin erklären". Danach wechseln Sie auf die Seite angelegte Administratoren und aktivieren die Checkboxen, die zur Moderation der Foren nötig ist. Dann klicken Sie auf Admin updaten und Sie haben einen neuen Forum Admin angelegt.
+
+Q>	Was ist Beobachten?
+A>	Wenn Sie dieses Feld aktiviert haben, erlauben Sie den Benutzern, ein Forum "Thread" zu verfolgen. Sobald zum beobachteten Thread eine Antwort geschrieben wurde, erhält der Beobachtende eine E-Mail und ist nicht ständig gezwungen nachzusehen.
+
+Q>	Wozu dient "Prune"?
+A>	Mit "Prune" können Sie alte Threads, die nicht innerhalb einer von Ihnen festgelegten Zeit (TAGE!) beantwortet wurden, automatisch löschen lassen. Bitte nutzen Sie diese Funktion sehr umsichtig, da einmal gelöschte Threads nicht wieder hergestellt werden können.
+
+Q>	Was sind Benachrichtigungen für Foreneinträge?
+A>	Benutzer können dem Moderator über bemerkenswerte Foreneinträge benachrichtigen, von denen sie denken dass sie beachtenswerte Informationen enthalten. Sie (Moderator) können dann den gemeldeten Report editieren und ein besonderes Merkmal geben.

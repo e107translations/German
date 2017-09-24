@@ -1,8 +1,19 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system German Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|
+|        $URL: ../e107_plugins/poll/languages/German_global.php $
+|        $Revision: 1.0 $
+|        $Id: 2015/07/10 22:02:01 $
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_PLUGIN_POLL_NAME", "Umfragen");
+define("LAN_PLUGIN_POLL_DESCRIPTION", "Dieses Plugin ermöglicht es Ihnen Umfragen/Abstimmungen zu schalten, entweder im Menü oder im Forum.");
 
-define("LAN_PLUGIN_POLL_NAME", "Poll");
-define("LAN_PLUGIN_POLL_DESCRIPTION", "Das Umfrage Plugin können Sie Umfragen entweder definieren eine Menü oder ein Forum Post.");
+
+?>

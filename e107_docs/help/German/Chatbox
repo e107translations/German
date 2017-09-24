@@ -1,0 +1,13 @@
+﻿
+Q>	Was bedeutet Zeichenfolge ersetzen wenn aktiviert?
+A>	Sie können alle angegebenen Links in jeden beliebigen Text automatisch konvertieren lassen, oder in ein Bild, indem Sie in dem vorgegebenen Feld den Text ersetzen. Damit beugen Sie überladenen Chatboxen vor mit endlosen url's. Um ein Bild als Ersatz zu nutzen müssen Sie folgendes aus führen:
+	1. Klicke das Feld "Links ersetzen?" an.
+	2. In das Feld "Zeichenfolge ersetzen wenn aktiviert" geben Sie bitte den folgenden Text ein: &lt;img src='..Pfad zu dem Bild..' alt='' />
+	Jetzt werden alle eingegebenen Links durch das von Ihnen vorgegebene Bild ersetzt. Bitte achten Sie darauf, dass das Bild max 200 Pixel breit ist. Je kleinere desto besser.
+
+Q>	Wozu dient der Zeilenumbruch?
+A>	Wenn jemand sehr lange Wörter in die Chatbox schreibt, könnte dies Ihr Seitenlayout zerstören. Wenn Sie z.B. 40 in den "Zeilenumbruch Zähler" eintragen, werden alle Wörter mit einer längeren Zeichenfolge als 40 Buchstaben automatisch umgebrochen. Die Tabellenspalte wird dadurch nicht verbreitert. Sie sollten darauf achten, dass der Zeilenumbruch mit dem Layout Ihres "Theme" und der Spaltenbreite der Chatbox korrespondiert.    
+
+Q>	Meine Seite ist für alle Altersklassen. Wie kann ich vermeiden, dass jemand Sittenwidrige Wörter oder Phrasen einträgt?
+A>	Klicken Sie in der Administrator Hauptseite auf Voreinstellungen und klicken Sie dort auf User Tracking. Aktivieren Sie die Checkbox "Filter profanities" und schreiben in die eckigen Klammern unter "zeichenkette ersetzen" zum Beispiel [zensiert!]
+	In "Wortfilter" können Sie die Begriffe eintragen, die Sie filtern möchten. Achten Sie darauf, dass zwischen den Worten !nur! ein Komma steht. Schreiben Sie beispielsweise: doof,blöd,idiot in dieses Feld. Nach dem letzten Wort darf kein Komma stehen! So werden dann die gefilterten Worte durch die von Ihnen definierte Zeichenkette ersetzt: idiot = [zensiert!] erscheint dann in der Chatbox.

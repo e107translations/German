@@ -1,0 +1,18 @@
+
+Q > ich definiert ein neues Banner von den Admin-Bereich, aber es zeigt sich - warum nicht?
+A > das Thema Sie verwenden wissen muss, um ein Banner angezeigt. Öffnen Sie die theme.php des Themas und stellen sicher, dass Sie {BANNER} oder {BANNER = Yourcampaignname} im Abschnitt $HEADER.
+
+Q > Ich möchte eine Reihe von Bannern, in einem Bereich und eine andere Gruppe in einem anderen Bereich - wie?
+A > Sie Gruppe Ihre Banner unter "Kampagnen" und richten Sie Ihr Thema Banner aus bestimmten Kampagnen zeigen können. Zum Beispiel hätten Sie zwei Kampagnen, cam_1 und cam_2, genannt setzen {BANNER = cam1} in einem Bereich Ihres Abschnitt "$HEADER" in die theme.php zeigen nur cam_1 Banner und setzen {BANNER = cam_2} in einem anderen Bereich wird nur angezeigt cam_2 Banner. Setzen {BANNER} (keine Kampagnennamen) in deine theme.php zeigt zufällige Banner aus allen Kampagnen.
+
+Q > Was ist das Kunden-Login und Kennwort für Clients?
+A > einen Login und ein Passwort für Ihre Banner-Kunden können, dann können sie diese Zugriff auf Informationen zu wie ihre Banner durchführen, indem du http://yoursite.com/banner.php und Eingabe des Namens und übergeben.
+
+Q > wie kann ich einen "Turm"-Typ-Banner in einem Menüpunkt haben?
+A > zuerst musst du die Kampagne für den Turm Typ Banner definieren (Dies wird bewahren Sie diese getrennt von bar Typ Banner)...
+	1. gehen Sie zu Ihrem Admin-Bereich, und klicken Sie auf Banner.
+	2. Geben Sie Ihre Turm-Typ-Banner, stellen Sie sicher, dass Sie einen neue Kampagnennamen verwenden, z. B. "Türme".
+	3. jetzt begeben Sie sich an Ihre Menüs, und aktivieren Sie die Banner_menu in eines Ihrer Flächen.
+	4. Klicken Sie auf "Configure" Link im Menüpunkt.
+	5. Geben Sie die Beschriftung Titel (es ist standardmäßig "Werbung"), und geben Sie den Namen der Kampagne, bevor definiert.
+	6. lassen Sie Ihren Admin-Bereich und sehen Sie Ihre Turm-Typ-Banner in der Gegend, die Sie ihnen zugewiesen.

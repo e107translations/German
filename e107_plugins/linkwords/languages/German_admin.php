@@ -1,55 +1,55 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LWLAN_4", "Keine Verbindung-Worte noch definiert.");
+/*
+ * e107 website system
+ *
+ * Copyright (C) 2008-2010 e107 Inc (e107.org)
+ * Released under the terms and conditions of the
+ * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
+ *
+ * Linkwords plugin - language file (only needed for admin)
+ *
+ * $Id*
+ */
+define("LWLAN_4", "Noch keine Links definiert.");
 define("LWLAN_5", "Wörter");
-define("LWLAN_6", "Verbindung");
-define("LWLAN_7", "Aktiv?");
-define("LWLAN_11", "Vorhandene Linkwords");
-define("LWLAN_18", "Sind Sie sicher, dass Sie diese Linkword löschen möchten?");
-define("LWLAN_20", "Nicht in der Lage, diesen Linkword-Eintrag zu finden.");
-define("LWLAN_21", "Word Autolink (oder Komma-separierte Liste von Wörtern)");
+define("LWLAN_6", "Link");
+define("LWLAN_7", "Aktivieren?");
+define("LWLAN_11", "vorhanden Link Wörter");
+define("LWLAN_18", "soll dieses Link Wort wirklich gelöscht werden?");
+define("LWLAN_20", "Dieser Link Wort Eintrag konnte nicht gefunden werden.");
+define("LWLAN_21", "Wort zu Autolink (oder Komma getrennte Liste von Wörtern)");
 define("LWLAN_22", "Aktivieren?");
-define("LWLAN_23", "LinkWords Verwaltung");
-define("LWLAN_24", "Verwalten von Wörtern");
-define("LWLAN_26", "Bereiche, in denen Linkwords aktivieren");
-define("LWLAN_27", "Dies ist der 'Kontext' des angezeigten Texts");
-define("LWLAN_28", "Seiten auf denen Linkwords deaktivieren");
-define("LWLAN_29", "Dasselbe Format wie Sichtbarkeit Menüsteuerung. Ein Spiel pro Zeile. Geben Sie eine teilweise oder vollständige URL. Enden mit '!' für genaue Übereinstimmung der End-Teil des Links");
-define("LWLAN_31", "Linkword hinzufügen/bearbeiten");
-define("LWLAN_33", "Titel-Bereiche");
-define("LWLAN_34", "Element-Zusammenfassungen");
-define("LWLAN_35", "Textkörper");
-define("LWLAN_36", "Beschreibungen (Links etc.)");
-define("LWLAN_40", "Benutzer eingegebenen Titel (z.B. Forum)");
-define("LWLAN_41", "Benutzer eingegebenen Textkörper (z.B. Forum)");
-define("LWLAN_50", "ToolTip");
-define("LWLAN_51", "Inaktive");
-define("LWLAN_52", "Linkword nur");
-define("LWLAN_53", "ToolTip nur");
-define("LWLAN_54", "Linkword und Tooltip");
-define("LWLAN_55", "Link in neuem Fenster öffnen");
-define("LWLAN_56", "In neuer Seite öffnen");
-define("LWLAN_58", "Pref Haken 0,8 Format konvertiert");
-define("LWLAN_59", "Ajax-Funktionalität zu aktivieren");
-define("LWLAN_60", "LW-ID");
-define("LWLAN_62", "ToolTip-ID (LW-ID)");
-define("LWLAN_63", "Nur positive ganze Zahlen");
-define("LWLAN_64", "Link auf aktuelle Seite zu unterdrücken");
-define("LWLAN_65", "Wenn dieses Kontrollkästchen aktiviert, anklickbaren Link unterdrückt, wenn verweist auf aktuelle Seite");
-define("LAN_LW_HELP_00", "LinkWords Hilfe");
-define("LAN_LW_HELP_01", "
-  <b>Gebiete zu ermöglichen</b><br>viele Bereiche des Textes haben eine zugehörige \'context\', und Linkwords erscheint nur in diesem Kontext passenden Bereichen.<br><br>
-  <b>LinkWords deaktivieren</b><br>LinkWords kann deaktiviert werden, auf bestimmten Seiten oder Seiten mit einem Muster. Tragen Sie diese hier (dieselbe Syntax wie bei Menüs), ein Muster pro Zeile. 
-  Endet das Muster \ '! \', dies entspricht einem \'end von Query\', und ist in der Regel eine genaue Übereinstimmung. Ansonsten werden alle URLs, die mit der angegebenen Zeichenfolge übereinstimmen.<br>Beachten Sie, dass Linkwords <i>nie</i> auf Admin-Seiten angezeigt werden.<br><br>
-  <b>Ajax-Funktionalität zu aktivieren</b><br>Die Tooltips können Ajax verwenden, um Informationen für die Anzeige zu erhalten. Dies erfordert in der Regel einige benutzerdefinierte Kodierung.<br><br>
-  <b>Link auf aktuelle Seite zu unterdrücken</b><br>In der Regel seine sinnlos für den Benutzer auf einen Link klicken, wenn können They\ 'Re bereits auf der Seite. Kreuzen Sie dieses Kästchen, um die Option zu entfernen,<br>");
-define("LAN_LW_HELP_02", "Definieren Sie die Worte, die werde klickbaren Links bzw. dem Anzeigetext auf Mouseover, hier<br><br>
-  <b><u>Word Link</u></b><br>Dies ist groß-und Kleinschreibung. Trennen Sie für mehrere Wörter zuordnen zu der gleichen Links und QuickInfos diese durch Kommas (keine Leerzeichen)<br><br>
-  <b><u>Verbindung</u></b><br>Definieren Sie einen klickbaren Link hier. Wenn seine externen Link, es [i] muss [/ i] \'http://\ beginnen'. Handelt es sich um einen Link innerhalb dieser Webseite, können die normale {E_XXX}-Konstanten verwendet werden.<br><br>
-  <b><u>ToolTip</u></b><br>Dies definiert den Text werden angezeigt, wenn die User\ «s Maus Pässe über das Wort.<br><br>
-  <b><u>LW-ID (Tooltip-ID)</u></b><br><br>Dies definiert eine optionale numerische ID mit Ajax verwendet werden verarbeitet. Wenn leer, wird die Datenbank Datensatznummer verwendet.<br><br>
-  <b><u>Aktivieren?</u></b><br>Definiert, welche Optionen aktiviert sind.");
+define("LWLAN_23", "Link Wörter Administration");
+define("LWLAN_24", "Wörter verwalten.");
+define("LWLAN_26", "Bereiche, in denen Link Wörter aktiviert werden können.");
+define("LWLAN_27", "Dies ist der 'Kontext' des angezeigten Textes.");
+define("LWLAN_28", "Seiten, auf denen Link Wörter deaktiviert werden sollen.");
+define("LWLAN_29", "Gleiches Format wie die Sichtbarkeit des Menüs.Eine Übereinstimmung pro Zeile. Gebe eine teilweise oder vollständige URL an.Ende mit '!' Für die genaue Übereinstimmung des Endteils des Links");
+define("LWLAN_31", "Link Wort hinzufügen/bearbeiten");
+define("LWLAN_33", "Titelbereiche");
+define("LWLAN_34", "Begriffe Überblicke");
+define("LWLAN_35", "Textinhalt");
+define("LWLAN_36", "Beschreibungen (Links u.s.w)");
+define("LWLAN_40", "Vom Benutzer eingegebene Titel (z.B. Forum)");
+define("LWLAN_41", "Benutzerdefinierter Text (z.B. Forum)");
+define("LWLAN_50", "Tooltip");
+define("LWLAN_51", "Inaktiv");
+define("LWLAN_52", "Nur Link Wort");
+define("LWLAN_53", "Nur Tooltip");
+define("LWLAN_54", "Link Wort und Tooltip");
+define("LWLAN_55", "Link im neuen Fenster öffnen");
+define("LWLAN_56", "In neue Seite öffnen");
+define("LWLAN_58", "Pref Hook umgewandelt in 0.8 Format");
+define("LWLAN_59", "Ajax Funktionalität aktivieren.");
+define("LWLAN_60", "LW ID");
+define("LWLAN_62", "Tooltip ID (LW ID)");
+define("LWLAN_63", "Nur positive Ganzzahlen");
+define("LWLAN_64", "Link auf aktueller Seite unterdrücken");
+define("LWLAN_65", "Wenn markiert, unterdrückt den klick baren Link, wenn Punkte auf aktuelle Seite");
+define("LAN_LW_HELP_00", "Link Wörter Hilfe");
+define("LAN_LW_HELP_01", " <b> Bereiche, die es ermöglichen </b><br /> viele Textbereiche haben einen \'Kontext \', und Link Wörter werden nur in Bereichen angezeigt, die diesem Kontext entsprechen.<br /><br /> <b> Link Wörter Deaktivieren </ b><br /> Link Wörter können auf bestimmten Seiten oder auf Seiten, die einem Muster entsprechen, deaktiviert werden.Geben Sie diese hier ein (gleiche Syntax wie für Menüs), ein Muster pro Zeile.Wenn das Muster in \'!\' endet, entspricht dies dem 'Ende der Abfrage' und ist gewöhnlich eine exakte Übereinstimmung.Andernfalls wird eine URL mit der angegebenen Zeichenfolge Übereinstimmen.<br /> Beachten Sie, dass Link Wörter <i> nie </ i> auf Admin-Seiten angezeigt werden.br /> <br /><b> Ajax-Funktionalität aktivieren </ b> <br /> Die Tooltips können Ajax verwenden, um Informationen für die Anzeige zu erhalten. Dies erfordert in der Regel einige benutzerdefinierte Codierung.<br /><b> Link auf aktueller Seite unterdrücken </ b> <br /> Normalerweise ist es sinnlos, dass der Benutzer auf einen Link klicken kann, wenn er bereits auf der Seite ist.Markieren Sie dieses Kontrollkästchen, um die Option zu entfernen <br />");
+define("LAN_LW_HELP_02", " <b>Definieren Sie die Wörter, die anklickbare Links werden, oder den Text anzeigt wenn die Maus darüber fährt, hier <br /><br /><b </u> Wort zu Link </ u></ b> <br />Dabei wird nicht zwischen Groß- und Kleinschreibung unterschieden.
+Für mehrere Wörter, die auf dieselben Links und Tooltips zuordnen, trennen Sie sie durch Kommas (ohne Leerzeichen) <br /><br /><b> </u> Link </u></ b> <br /> Definieren Sie hier einen anklickbaren Link. Wenn es sich um einen externen Link handelt, muss [i] 'http://\' beginnen. Wenn es sich um eine Verknüpfung innerhalb dieser Seite handelt, können die normalen Konstanten {e_XXX} verwendet werden.<b><br/><br/><b><u> Tooltip </u></b> <br/> Dies definiert den Text, der angezeigt werden soll, wenn die Maus des Benutzers über das Wort geht.br /><br /><b><u> LW-ID (Tooltip-ID) </ u></ b><br /><br /> Dies definiert eine optionale numerische ID für die Ajax-Verarbeitung.Wenn leer, wird die Datenbank-Datensatznummer verwendet.<br /><br /><b> <u> Aktivieren? </ u></ b><br />Legt fest, welche Optionen aktiv sind.");
+
+
+?>

@@ -1,30 +1,43 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LCLAN_15", "Link-Name");
-define("LCLAN_19", "Link öffnen-Typ");
-define("LCLAN_20", "Öffnet im selben Fenster");
-define("LCLAN_23", "Öffnet in neuem Fenster");
-define("LCLAN_24", "600 x 400 Mini-Fenster öffnet sich");
-define("LCLAN_78", "Beschreibung als QuickInfo anzeigen");
-define("LCLAN_79", "Beschreibung wird angezeigt, wenn der Mauszeiger über dem Hyperlink befindet");
-define("LCLAN_80", "Expandierenden Untermenüs zu aktivieren");
-define("LCLAN_81", "Untermenüs werden angezeigt, nur nach dem Klicken auf ihrer Eltern. (Link übergeordneten ist deaktiviert)");
-define("LCLAN_104", "SubLink:) von");
+/*
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_languages/German/admin/lan_links.php $ 
+|     $Revision: 115 $
+|     $Date: 2010-09-26 06:00:45 +0200 (So, 26. Sep 2010) $
+|     $Id: lan_links.php 115 2010-09-26 04:00:45Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("LCLAN_19", "Die Art den Link zu öffnen");
+define("LCLAN_20", "Im selben Fenster öffnen");
+define("LCLAN_23", "Öffnet in einem neuen Fenster");
+define("LCLAN_24", "In einem kleinen 600x400 Fenster öffnen");
+define("LCLAN_78", "Zeige Beschreibung als Tool-Tip");
+define("LCLAN_79", "Die Beschreibung wird angezeigt, wenn der Link mit der Mouse überfahren wird");
+define("LCLAN_80", "Aktiviere Expanding Sub-Menüs");
+define("LCLAN_81", "Sub-Menüs werden nur angezeigt wenn der Hauptlink geklickt wird. (Link Hauptkategorien sind abgestellt)");
 define("LCLAN_105", "Funktion");
-define("LCLAN_106", "Im Besitz von");
-define("LCLAN_107", "URL mit einem dynamisch erstellten Search-Engine-freundliche URL überschreiben aktivieren");
-define("LCLAN_108", "Einige Selektionen weggelassen - können nicht Sie als einen subLink von seiner subLink:):) Link festlegen.");
-define("LCLAN_109", "Bitte wählen Sie ein Elternteil");
-define("LCLAN_110", "Bitte wählen Sie eine Generator-Modul");
-define("LCLAN_111", "Nicht gültig Generator Modul Daten");
-define("LINKLAN_1", "800 x 600 Fenster öffnet sich");
-define("LINKLAN_4", "SubLink:) Generator");
-define("LINKLAN_5", "Sublinks zu generieren");
-define("LINKLAN_6", "Erstellen von sublinks");
-define("LINKLAN_7", "Erstellen Sublinks unter dem Link?");
-define("LINKLAN_8", "Newskategorien");
-define("LINKLAN_9", "Download-Kategorien");
+define("LCLAN_106", "gehört von");
+define("LCLAN_107", "Überschreiben aktivieren. Mit einer URL dynamisch erzeugt Suchmaschinenfreundliche URL");
+define("LCLAN_108", "einige Auswahlen weglassen - Sie können Verbindung als eine Subverbindung deren Subverbindung nicht setzen.");
+define("LCLAN_109", "Bitte ein Parent auswählen");
+define("LCLAN_110", "Bitte wählen Sie einen Generatormodul");
+define("LCLAN_111", "Ungültige Generatormodul Daten");
+define("LINKLAN_1", "Öffnet in einem 800x600 Fenster");
+define("LINKLAN_4", "Sublink Generator");
+define("LINKLAN_5", "Sublinks erstellen");
+define("LINKLAN_6", "Sublinks erstellen von:");
+define("LINKLAN_7", "Unter welchem Link soll ein Sublink erstellt werden?");
+define("LINKLAN_8", "News Kategorien");
+define("LINKLAN_9", "Download Kategorien");
+define("LINKLAN_10", "Theme Shortcodes");
+
+
+?>

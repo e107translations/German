@@ -1,11 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system German Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/04/18 14:32:13
+|
+|        $Author: yak $
++---------------------------------------------------------------+
+*/
 define("LAN_CONVERT_03", "Sie müssen mit einer sauberen E107-Datenbank, als der Haupt Administratorbenutzer starten (ID = 1)");
-define("LAN_CONVERT_04", "Gelassen Sie Felder leer, bitte gehen Sie zurück und geben Sie Werte erneut ein.");
+define("LAN_CONVERT_04", "Felder leer gelassen, bitte gehen Sie zurück und geben Sie die Werte erneut ein.");
 define("LAN_CONVERT_05", "Die Ausführung dieses Skripts kann viele Ihrer E107-Tabellen leeren - Stellen Sie sicher, dass Sie eine vollständige Sicherung haben, bevor Sie fortfahren!");
 define("LAN_CONVERT_06", "Import-Datentyp");
 define("LAN_CONVERT_07", "CSV-Format-Spezifikation");
@@ -58,3 +63,24 @@ define("LAN_CONVERT_53", "Die Basis URL der Drupal Website (z.B. http://mydrupal
 define("LAN_CONVERT_54", "Drupal-Basis-URL");
 define("LAN_CONVERT_55", "Die Basis-URL-Pfad (d. h. Verzeichnis) der Drupal Installation (z. B./drupal /).");
 define("LAN_CONVERT_56", "Drupal Basispfad");
+define("LAN_CONVERT_57", "kein Fehler");
+define("LAN_CONVERT_58", "Kann die Hauptadmindaten nicht ändern");
+define("LAN_CONVERT_59", "Ungültiges Feld genehmigt");
+define("LAN_CONVERT_60", "Pflichtfeld nicht gesetzt");
+define("LAN_CONVERT_61", "Benutzer existiert bereits");
+define("LAN_CONVERT_62", "Ungültige Zeichen im Benutzer- oder Anmeldename");
+define("LAN_CONVERT_63", "Fehler beim Speichern von erweiterten Benutzerfeldern");
+define("LAN_CONVERT_64", "Auswahl");
+define("LAN_CONVERT_65", "Seiten");
+define("LAN_CONVERT_66", "Seitenkapitel");
+define("LAN_CONVERT_67", "Links");
+define("LAN_CONVERT_68", "Medien");
+define("LAN_CONVERT_69", "Forum");
+define("LAN_CONVERT_70", "Forum Themen");
+define("LAN_CONVERT_71", "Forum Einträge");
+define("LAN_CONVERT_72", "Forum verfolgen");
+define("LAN_CONVERT_73", "Benutzerklasse");
+define("LAN_CONVERT_74", "News Kategorien");
+
+
+?>

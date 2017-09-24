@@ -1,0 +1,21 @@
+﻿
+Q>	Ich habe einige änderungen an meiner Seite vorgenommen und erhalte jetzt SQL-Fehlermeldungen und meine Seite erscheint nicht?
+A>	Es könnte sein, dass das ihr Kern beschädigt wurde. Die Kerneinstellungen und Variablen für e107 können mit der Datei resetcore.php. wieder hergestellt werden, zumindest in vielen Fällen. Gehen Sie hierzu auf  http://yoursite.com/e107_files/resetcore.php. Sichern Sie immer den Kern über Ihren Datenbank Schirm, bevor Sie änderungen vornehmen. Sie können dann den Kern vom Backup wiederherstellen falls etwas schief läuft.
+	Originaltext:
+Always back up your core (from the Database screen) before you apply changes, you can then restore the core backup if something goes wrong (again from resetcore.php).
+
+Q>	Ich habe mein Admin Passwort vergessen. Wie komme ich jetzt in den Admin Bereich?
+A>	Aus Gründen der Sicherheit ist es unmöglich das Passwort zurückzusetzen, solange Sie nicht eingeloggt sind.
+	Wenn Sie Ihr Passwort nicht an einem sicheren Ort schriftlich aufbewahrt haben, dann sollten Sie dies spätestens jetzt tun! So wir das folgende Scenario nie wieder passieren.
+	Wenn Sie jetzt nun Ihr Passwort zurücksetzen müssen, dann gehen Sie bitte wie folgt vor:
+	1. öffnen Sie Ihre Datenbank in PHPMyAdmin oder in einem anderen vergleichbaren mySQL Manager.
+	Klicken Sie auf e107_user bzw. die Tabelle mit prefix_user. Der Hauptadministrator sollte sollte User Nummer 1 sein. Klicken Sie auf user_id anzeigen und dann bearbeiten Sie User_id 1, sofern dass Ihr Username ist. Im Feld user_password ändern Sie dann das Passwort per copy & paste in folgende Zeichenkette:
+	4cb9c8a8048fd02294477fcb1a41191a
+	Das führt dazu, dass Sie Ihr neues Password in changeme geändert haben. Dann melden Sie sich mit dem PW "changeme" an und [b]ändern im Bereich sofort das Administratoren Passwort[/b] in ein PW Ihrer Wahl.
+
+Q>	Ich habe ein theme Plugin installiert und anderes. Jetzt ist meine Seit offline? was kann ich tun?
+A>	Nutzen Sie die resetcore.php (siehe oben).
+
+Q>	Ich habe mein Hauptadministratoren Konto geändert. Jetzt erscheint mein Name unter eingeloggt, aber in Klammer steht jetzt eine Zeichenfolge von Zahlen und Buchstaben - Was kann ich tun, damit ich wieder auf alle Bereiche zugriff habe?
+
+A>	Sie müssen wie oben beschrieben die mySQL Datenbank editieren. Bitte setzen sie folgende Felder des Administratoren auf "0" (Null): user_perms und user_realm. Dann speichern Sie die Datenbank und loggen sich unter Ihrem Admin Namen und Passwort wieder ein. Jetzt sollten Sie wieder Zugang zu allen Administratoren Bereichen haben.
