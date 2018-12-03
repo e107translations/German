@@ -9,8 +9,5 @@
 |        $Author: Admin $
 +---------------------------------------------------------------+
 */
-
 define("LAN_PLUGIN_PAGE_BOCHAP", "suchen in Buch/Kapitel");
-
-
-?>
+define("LAN_PLUGIN_PAGE_NAME", "Seiten");

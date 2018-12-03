@@ -11,7 +11,6 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("LAN_FORUM_MENU_001", "geschrieben von");
 define("LAN_FORUM_MENU_002", "Keine neuen Einträge zurzeit");
 define("LAN_FORUM_MENU_003", "Neue Beiträge Menükonfiguration gespeichert");
@@ -21,9 +20,10 @@ define("LAN_FORUM_MENU_006", "Anzahl der Schriftzeichen zum anzegeigen");
 define("LAN_FORUM_MENU_007", "Postfix für zu lange Beiträge?");
 define("LAN_FORUM_MENU_008", "zeige Originale Themen im Menü");
 define("LAN_FORUM_MENU_009", "Menüeinstellungen aktualisiert");
-define("LAN_FORUM_MENU_0010", "Neue Beiträge Menükonfiguration");
-define("LAN_FORUM_MENU_0012", "Maximales Alter zum anzeigen der Einträge");
-define("LAN_FORUM_MENU_0013", "Null auf einer ruhigen Seite verwenden , ein Einstellungwert in Tagen wird die Datenbankzeit auf einer ausgelasteten Seite reduzieren ");
+define("LAN_FORUM_MENU_012", "Maximales Alter der angezeigten Beiträge");
+define("LAN_FORUM_MENU_013", "Benutze 0 auf einer ruhigen Seite; Einstellen eines Wertes in Tagen wird die Datenbankzeit auf einer belebten Website reduzieren");
+define("LAN_FORUM_MENU_014", "Scrolling Layer Höhe (in Pixel)");
+define("LAN_FORUM_MENU_015", "Leer lassen für kein Scrollen");
 
 
 ?>

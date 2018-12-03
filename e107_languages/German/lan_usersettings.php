@@ -33,10 +33,9 @@ define("LAN_USET_14", "Anmeldename zu lang. Bitte wählen Sie einen anderen");
 define("LAN_USET_15", "Anzeigename zu lang. Bitte wählen Sie einen anderen");
 define("LAN_USET_16", "Bitte hier markieren, wenn Sie das bestehende Foto löschen wollen ohne ein anderes hochzuladen");
 define("LAN_USET_17", "Der Anzeigename besteht bereits, bitte wählen Sie einen anderen.");
-define("LAN_USET_18", "Benutzerdaten geändert von Admin : --ID-- , Anmeldename: --LOGNAME--");
+define("LAN_USET_18", "Benutzerdaten geändert von Admin: [x], Anmeldename: [y]");
 define("LAN_USET_20", "Außerdem müssen Sie das Kennwort des Benutzers ändern, wenn Sie ihre Anmeldname oder E-Mail Adresse ändern.");
 define("LAN_USET_21", "Bitte bestätigen Sie die Änderungen durch erneute Eingabe Ihres Passwort :");
-define("LAN_USET_22", "Ungültiges Passwort");
 define("LAN_USET_23", "Leer lassen , um das alte Passwort zu behalten");
 define("LAN_USET_24", "Neues Passwort:");
 define("LAN_USET_25", "Neues Passwort nochmal eingeben");
@@ -88,6 +87,10 @@ define("LAN_435", "XML Benutzer Protokoll Datei");
 define("LAN_CUSTOMTITLE", "Forum Titel");
 define("LAN_USET_5", "Angemeldet für");
 define("LAN_USET_6", "Angemeldet für unsere Mailing-Liste(n) und/oder Bereiche dieser Seite.");
-
-
-?>
+define("LAN_USET_50", "Konto löschen");
+define("LAN_USET_51", "Bist du sicher? Dieser Vorgang kann nicht rückgängig gemacht werden! Nach Abschluss dieses Vorgangs geht Ihr Konto und alle persönlichen Daten, die Sie auf dieser Website eingegeben haben, endgültig verloren und Sie können sich nicht mehr anmelden.");
+define("LAN_USET_52", "Eine Bestätigungs-E-Mail wurde an [x] gesendet. Bitte klicken Sie auf den Link in der E-Mail, um Ihr Konto endgültig zu löschen.");
+define("LAN_USET_53", "Bestätigung der Kontoentfernung");
+define("LAN_USET_54", "Email Bestätigung verschickt");
+define("LAN_USET_55", "Bitte klicken Sie auf den folgenden Link, um die Löschung Ihres Kontos abzuschließen.");
+define("LAN_USET_56", "Ihr Konto wurde erfolgreich gelöscht.");

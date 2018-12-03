@@ -74,9 +74,9 @@ define("LAN_USER_71", "Signatur:");
 define("LAN_USER_72", "Avatar");
 define("LAN_USER_73", "Auswahl nach Inhalt/Maillisten");
 define("LAN_USER_74", "Eigener Titel");
-define("LAN_USER_75", "Ihre --SOMETHING-- ist erforderlich");
+define("LAN_USER_75", "Ihr [x] ist erforderlich");
 define("LAN_USER_76", "Abonniert auf");
-define("LAN_USER_77", "Ihr Passwort muss mindestens  --ANZAHL-- Zeichen lang sein.");
+define("LAN_USER_77", "Ihr Passwort muss mindestens [x] Zeichen lang sein.");
 define("LAN_USER_78", "Min.");
 define("LAN_USER_79", "Zeichen.");
 define("LAN_USER_80", "Der angezeigte Name auf dieser Seite");
@@ -85,7 +85,7 @@ define("LAN_USER_82", "Den Namen den sie auf der Anmeldeseite verwenden");
 define("LAN_USER_83", "E-mail Adresse vestecken?:");
 define("LAN_USER_84", "Das wird Ihre E-Mail-Adresse davon abhalten, auf dieser Seite angezeigt zu werden.");
 define("LAN_USER_85", "Wenn Sie Ihren Benutzernamen ändern möchten , müssen Sie ein Seitenadministrator fragen");
-define("LAN_USER_86", "Maximale Avatargröße ist  --Breite-- x --Höhe-- Pixel");
+define("LAN_USER_86", "Die maximale Avatar Größe beträgt [x]- x [y] Pixel");
 define("LAN_USER_87", "Den Benutzer bein Anmelden festlegen");
 define("LAN_XUP_ERRM_01", "Registrierung fehlgeschlagen! Diese Funktion ist deaktiviert .");
 define("LAN_XUP_ERRM_02", "Registrierung fehlgeschlagen! Falscher Anbieter.");
@@ -99,6 +99,3 @@ define("LAN_XUP_ERRM_09", "Anmeldetest nur mit [x]");
 define("LAN_XUP_ERRM_10", "Registrierung/Anmeldetest mit [x]");
 define("LAN_XUP_ERRM_11", "Anmeldung in:");
 define("LAN_XUP_ERRM_12", "Abmeldetest");
-
-
-?>

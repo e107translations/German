@@ -109,6 +109,7 @@ define("LAN_FILES", "Dateien");
 define("LAN_SIZE", "Größe");
 define("LAN_VERSION", "Version:");
 define("LAN_DOWNLOAD", "Download:");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Datei nicht gefunden oder Sie haben keine Berechtigung zum Herunterladen dieser Datei!");
 define("LAN_WEBSITE", "Webseite");
 define("LAN_COMMENTS", "Kommentare");
 define("LAN_LOCATION", "Standort");
@@ -125,6 +126,7 @@ define("LAN_RE_ORDER", "Neubestellung");
 define("LAN_RELATED", "zugehörig");
 define("LAN_CLOSE", "schliessen");
 define("LAN_EXPAND", "erweitern");
+define("LAN_LIST", "Liste");
 define("LAN_ENTER_USRNAME_EMAIL", "Bitte Benutzer/Email eingeben");
 define("LAN_PWD_REQUIRED", "Passwort ist erforderlich");
 define("LAN_SHOW", "Anzeigen");
@@ -133,6 +135,3 @@ define("LAN_SUMMARY", "Zuammenfassung");
 define("LAN_REQUIRED_BLANK", "Pflichtfeld (er) wurden leer gelassen.");
 define("LAN_PLEASEWAIT", "Bitte warten.....");
 define("LAN_CHOOSE_FILE", "Wähle eine Datei aus.");
-
-
-?>

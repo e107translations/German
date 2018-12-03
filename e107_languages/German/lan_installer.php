@@ -117,6 +117,5 @@ define("LANINS_141", "Bitte füllen Sie das untenstehende  Formular mit Ihren My
 define("LANINS_142", "WICHTIG: Bitte benennen Sie e107.htaccess in .htaccess");
 define("LANINS_144", "WICHTIG: Bitte kopieren sie den Inhalt der [b] e107.htaccess und fügen  sie[ / b] in Ihre [b] .htaccess [/ b] Datei. Bitte darauf achten, dass alle vorhandenen Daten zu überschreiben , die in ihm sein kann.");
 define("LANINS_145", "e107 v2.x erfordert die PHP [x] installiert werden. Bitte kontaktieren Sie Ihren Host oder die Informationen auf [y] zu lesen, bevor Sie fortfahren.");
-
-
-?>
+define("LANINS_146", "Admin-Bereich Skin");
+define("LANINS_147", "Administration");

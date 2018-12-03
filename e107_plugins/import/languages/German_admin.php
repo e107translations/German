@@ -40,8 +40,8 @@ define("LAN_CONVERT_30", "Importroutine Informationen");
 define("LAN_CONVERT_31", "CSV-Datei nicht vorhanden, oder ungültige Berechtigungen");
 define("LAN_CONVERT_32", "Fehler beim Lesen der CSV-Datei");
 define("LAN_CONVERT_33", "Fehler in Zeile der CSV-Daten");
-define("LAN_CONVERT_34", "Fehler:--ERRNUM--beim Schreiben auf die Benutzerdatenbank, Linie");
-define("LAN_CONVERT_35", "CSV-Import abgeschlossen. --Linien--Lesefehler,--USERS--Benutzer hinzugefügt,--Störungen--");
+define("LAN_CONVERT_34", "Fehler: [x] beim Schreiben auf die Benutzerdatenbank, Linie");
+define("LAN_CONVERT_35", "CSV-Import abgeschlossen. [x] Lesefehler, [y] Benutzer hinzugefügt, [z] errors");
 define("LAN_CONVERT_36", "Dateiname für CSV-Daten");
 define("LAN_CONVERT_37", "Ungültiges Formatspezifikation für Importtyp");
 define("LAN_CONVERT_38", "Vorhandenen Daten gelöscht");
@@ -52,8 +52,8 @@ define("LAN_CONVERT_42", "Fehler in der Definitionsdatei - erforderliche Klasse 
 define("LAN_CONVERT_43", "Fehler bei Verbindung mit der Quelldatenbank");
 define("LAN_CONVERT_44", "Abfrage-Setup-Fehler für");
 define("LAN_CONVERT_45", "Import-Code-Datei kann nicht gelesen werden.");
-define("LAN_CONVERT_46", "Fehler:--ERRNUM--während des Schreibens auf--DB--Datenbank, line");
-define("LAN_CONVERT_47", "Batch--BLOCK--Import abgeschlossen. --Linien--lesen, hinzugefügt--Benutzer--,--Fehler--Störungen");
+define("LAN_CONVERT_46", "Fehler: [x] während des Schreibens auf [y] Datenbank, line");
+define("LAN_CONVERT_47", "Batch [w] Import abgeschlossen. [x] lesen, [y] hinzugefügt, [z] errors");
 define("LAN_CONVERT_48", "Beiträge im Forum");
 define("LAN_CONVERT_49", "Drupal");
 define("LAN_CONVERT_50", "Grundlegende import");
@@ -81,6 +81,3 @@ define("LAN_CONVERT_71", "Forum Einträge");
 define("LAN_CONVERT_72", "Forum verfolgen");
 define("LAN_CONVERT_73", "Benutzerklasse");
 define("LAN_CONVERT_74", "News Kategorien");
-
-
-?>

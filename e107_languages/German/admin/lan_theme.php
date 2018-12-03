@@ -118,6 +118,4 @@ define("TPVLAN_91", " Neues Theme erstellen basierend auf");
 define("TPVLAN_92", "Neuer Theme Ordner");
 define("TPVLAN_93", "Auswahl");
 define("TPVLAN_94", "Seiten Theme geändert nach [x].");
-
-
-?>
+define("TPVLAN_95", "Skin");

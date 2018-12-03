@@ -50,6 +50,4 @@ define("LAN_LOGIN_32", "Sie sehen diese Nachricht, weil Sie derzeit als Hauptadm
 define("LAN_LOGIN_33", "[Zurück zur Startseite]");
 define("LAN_LOGIN_34", "Benutzerregistrierung und / oder Anmeldung ist zur Zeit deaktiviert.");
 define("LAN_LOGIN_35", "[Aktivieren Sie es]");
-
-
-?>
+define("LAN_LOGIN_36", "Emails an [x] werden zurückgeschickt. Bitte [überprüfen, ob Ihre Email Adresse korrekt ist].");

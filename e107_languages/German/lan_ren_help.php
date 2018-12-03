@@ -69,6 +69,14 @@ define("LANHELP_51", "Deaktiviere HTML neue Zeilen für abgeschlossen Text: [nob
 define("LANHELP_52", "Neue Zeile (HTML): [br]");
 define("LANHELP_53", "Rechtfertigung angleichen: \ n [ justify ] Dieser Text wird gerechtfertigt werden [/ justify]");
 define("LANHELP_54", "HTML block (div tag): [block]ihr Inhalt [/block]");
-
-
-?>
+define("LANHELP_55", "Format");
+define("LANHELP_56", "Eine Tabelle einfügen");
+define("LANHELP_57", "Überschrift");
+define("LANHELP_58", "Block");
+define("LANHELP_59", "Zitat");
+define("LANHELP_60", "Code Block");
+define("LANHELP_61", "Code Inline");
+define("LANHELP_62", "Absatz");
+define("LANHELP_63", "Fügen Sie ein Bild aus dem Media Manager ein");
+define("LANHELP_64", "Fügen Sie eine Datei aus dem Media-Manager ein");
+define("LANHELP_65", "Größe");

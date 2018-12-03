@@ -198,8 +198,8 @@ define("PRFLAN_208", "Benutzer Klasse, die Links zu Teilen auf der Seite per E-M
 define("PRFLAN_209", "Andere Eigenschaften");
 define("PRFLAN_210", "Kommentare/Beitrag");
 define("PRFLAN_211", "Kann keine E-Mail -Adresse wahlweise machen , wenn für die Gültigskeitpüfung oder Anmeldung ist erforderlich.");
-define("PRFLAN_212", "Wert für --FELD-- zu hoch - geänder nach --WERT--");
-define("PRFLAN_213", "Wert für --FELD-- zu niedrig - geänder nach --WERT--");
+define("PRFLAN_212", "Wert für [x] zu hoch - geändert in [y]");
+define("PRFLAN_213", "Wert für [x] zu niedrig - geändert in [y]");
 define("PRFLAN_214", "Seiten Logo");
 define("PRFLAN_215", "Benutzer Klasse, die <script> und ähnliche Tags posten darf");
 define("PRFLAN_216", "(Benötigt ebenfalls HTML Schreibrechte)");
@@ -263,6 +263,7 @@ define("PRFLAN_273", "Laufzeit in Sekunden. 0 = Bis der Browser geschlossen ist.
 define("PRFLAN_274", "Kontaktformular ist nur für diese Benutzerlasse Gruppe sichtbar.");
 define("PRFLAN_275", "Diese Seite mit https (SSL) ansehen, um diese Option zu ändern");
 define("PRFLAN_276", "PHP Standarteinstellung (bevorzugt)");
-
-
-?>
+define("PRFLAN_277", "GDPR Einstellungen");
+define("PRFLAN_278", "URL zur Datenschutzerklärung");
+define("PRFLAN_279", "Stellen Sie sicher, dass die URL vorhanden ist! Am besten verwenden Sie eine absolute URL. Diese Einstellung wird an allen Stellen verwendet, an denen eine Einwilligung des Benutzers erforderlich ist (z.B. Anmeldung, Kontaktformular/Menü etc.).");
+define("PRFLAN_280", "URL zu den Nutzungsbedingungen der Website");

@@ -30,7 +30,7 @@ define("NLLAN_33", "Text");
 define("NLLAN_36", "Newsletter Ausgaben aktualisieren");
 define("NLLAN_37", "Newsletter Ausgabe erstellen");
 define("NLLAN_39", "Newsletter Ausgabe wurde in der Datenbank gespeichert - zum senden, klicke den  Veröffentlich Ausgabe Button im Optionen Menü.");
-define("NLLAN_40", "abgesendete Email wurden der Warteschlange hinzugefügt - Ausgabe senden zum --Anzahl-- Abonnent(en).");
+define("NLLAN_40", "abgesendete Email wurden der Warteschlange hinzugefügt - Ausgabe senden zum [x] Abonnent(en).");
 define("NLLAN_41", "kein Abonnente gefunden - E-mail abgebrochen");
 define("NLLAN_44", "Newsletter erste Seite");
 define("NLLAN_45", "Newsletter erstellen");
@@ -45,6 +45,3 @@ define("NLLAN_63", "gesammte Abonnenten");
 define("NLLAN_64", "zurück zur Newsletter Startseite");
 define("NLLAN_65", "Abonnentenübersicht Newsletter ID");
 define("NLLAN_66", "Ihr Newsletter Abonnentenliste wurde bereinigt.");
-
-
-?>

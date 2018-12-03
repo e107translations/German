@@ -16,8 +16,8 @@
 +----------------------------------------------------------------------------+
 */
 define("PAGE_NAME", "Benutzer Einträge");
-define("UP_LAN_0", "Alle Forumeinträge für");
-define("UP_LAN_1", "Alle Kommentare für");
+define("UP_LAN_0", "Alle Forenbeiträge für [x]");
+define("UP_LAN_1", "Alle Kommentare zu [x]");
 define("UP_LAN_2", "Thread");
 define("UP_LAN_3", "Ansichten");
 define("UP_LAN_4", "Antworten");
@@ -32,6 +32,3 @@ define("UP_LAN_12", "Suche");
 define("UP_LAN_14", "Forum Beiträge");
 define("UP_LAN_15", "Re");
 define("UP_LAN_16", "IP Adresse");
-
-
-?>

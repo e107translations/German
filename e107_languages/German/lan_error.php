@@ -62,6 +62,7 @@ define("LAN_ERROR_43", "Website ist vorübergehend  nicht verfügbar.");
 define("LAN_ERROR_44", "Seiten-Logo");
 define("LAN_ERROR_45", "Was können Sie jetzt tun?");
 define("LAN_ERROR_46", "überprüfe Log für Details.");
-
-
-?>
+define("LAN_ERROR_47", "Validierungsfehler: Der Nachrichtentitel darf nicht leer sein!");
+define("LAN_ERROR_48", "Validierungsfehler: News SEF URL Wert ist ein Pflichtfeld und darf nicht leer sein!");
+define("LAN_ERROR_49", "Validierungsfehler: News SEF URL ist ein eindeutiges Feld - aktueller Wert wird bereits verwendet! Bitte wählen Sie einen anderen SEF-URL-Wert.");
+define("LAN_ERROR_50", "Validierungsfehler: Die Nachrichtenkategorie darf nicht leer sein!");

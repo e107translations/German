@@ -26,7 +26,7 @@ define("LAN_197", "Downloads");
 define("LAN_198", "Keine Übereinstimmungen gefunden");
 define("LAN_199", "Suche nach:");
 define("LAN_416", "Sie müssen angemeldet sein um Zugriff zu haben");
-define("LAN_417", "Suchanfragen müssen mindestens aus -- Zeichen -- Buchstaben bestehen.");
+define("LAN_417", "Suchbegriffe müssen mindestens [x] Zeichen enthalten.");
 define("LAN_418", "Andere Seiten");
 define("LAN_SEARCH_1", "Alle auswählen");
 define("LAN_SEARCH_2", "Auswahl aufheben");
@@ -105,6 +105,3 @@ define("LAN_SEARCH_77", "Geschrieben auf der Profilseite von");
 define("LAN_SEARCH_98", "Neuigkeiten");
 define("LAN_SEARCH_201", "Bitte formulieren sie ihre Suchparameter neu");
 define("LAN_SEARCH_202", "Toggle Erweiteungmodus");
-
-
-?>

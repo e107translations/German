@@ -132,6 +132,9 @@ define("FORLAN_213", "Eintrag");
 define("FORLAN_214", "Lasse das Feld leer, um es automatisch aus dem obigen Titel zu generieren.");
 define("FORLAN_215", "Nicht Installier!");
 define("FORLAN_216", "(Neues Stammverzeichnis)");
-
-
-?>
+define("FORLAN_217", "System Standard");
+define("FORLAN_218", "Textbereich");
+define("FORLAN_219", "Rich Text Editor");
+define("FORLAN_220", "Post editor");
+define("FORLAN_221", "Welcher Editor sollte zum Erstellen/Bearbeiten von Posts verwendet werden?");
+define("FORLAN_222", "Schneller Antwort Editor");

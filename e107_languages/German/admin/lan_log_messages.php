@@ -1,18 +1,20 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system German Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2018/12/01 12:29:36
+|
+|        $Author: Killer0561 $
++---------------------------------------------------------------+
+*/
 
 define("LAN_AUDIT_LOG_001", "Der Zugriff durch gesperrte Benutzer");
 define("LAN_AUDIT_LOG_002", "Flooding-Schutz aktiviert");
 define("LAN_AUDIT_LOG_003", "Zugang von gesperrten IP-Adresse");
-define("LAN_AUDIT_LOG_004", "");
-define("LAN_AUDIT_LOG_005", "");
 define("LAN_AUDIT_LOG_006", "Benutzerkennwort geändert");
 define("LAN_AUDIT_LOG_007", "E-Mail-Adresse der Benutzer geändert");
-define("LAN_AUDIT_LOG_008", "");
-define("LAN_AUDIT_LOG_009", "");
 define("LAN_AUDIT_LOG_010", "Benutzerdaten geändert von admin");
 define("LAN_AUDIT_LOG_011", "Benutzer angemeldet");
 define("LAN_AUDIT_LOG_012", "Benutzer Neuanmeldung bestätigt");
@@ -32,7 +34,6 @@ define("LAN_AL_ADLOG_01", "Admin Log - Prefs aktualisiert");
 define("LAN_AL_ADLOG_02", "Admin Log - alte Daten löschen");
 define("LAN_AL_ADLOG_03", "Benutzer-Audit-Log - alte Daten löschen");
 define("LAN_AL_ADLOG_04", "Audit-Benutzeroptionen aktualisiert");
-define("LAN_AL_ADLOG_05", "");
 define("LAN_AL_USET_01", "Benutzerdaten von Admin bearbeitet");
 define("LAN_AL_USET_02", "Benutzer von Admin hinzugefügt");
 define("LAN_AL_USET_03", "Benutzeroptionen aktualisiert");
@@ -88,11 +89,8 @@ define("LAN_AL_FRONTPG_01", "Regeln-Reihenfolge geändert");
 define("LAN_AL_FRONTPG_02", "Hinzugefügte Regel");
 define("LAN_AL_FRONTPG_03", "Regel bearbeitet");
 define("LAN_AL_FRONTPG_04", "Regel gelöscht");
-define("LAN_AL_FRONTPG_05", "");
-define("LAN_AL_FRONTPG_06", "");
 define("LAN_AL_UTHEME_00", "Unbekannter Benutzer Thema zugehörige Ereignis");
 define("LAN_AL_UTHEME_01", "Thema-Benutzereinstellungen geändert");
-define("LAN_AL_UTHEME_02", "");
 define("LAN_AL_UPDATE_00", "Unbekannte Software update zugehörige Ereignis");
 define("LAN_AL_UPDATE_01", "Update von 1.0 auf 2.0 ausgeführt");
 define("LAN_AL_UPDATE_02", "Update von 0.7.x auf 0.7.6 ausgeführt");
@@ -100,7 +98,6 @@ define("LAN_AL_UPDATE_03", "Fehlende Prefs hinzugefügt");
 define("LAN_AL_ADMIN_00", "Unbekannte Administrator-Ereignis");
 define("LAN_AL_ADMIN_01", "Update-Admin-Berechtigungen");
 define("LAN_AL_ADMIN_02", "Admin-Rechte entfernt");
-define("LAN_AL_ADMIN_03", "");
 define("LAN_AL_MAINT_00", "Unbekannte Wartung Nachricht");
 define("LAN_AL_MAINT_01", "Modus-Pflegeset");
 define("LAN_AL_MAINT_02", "Wartungsmodus deaktiviert");
@@ -118,12 +115,10 @@ define("LAN_AL_THEME_01", "Website-Thema aktualisiert");
 define("LAN_AL_THEME_02", "Admin Thema aktualisiert");
 define("LAN_AL_THEME_03", "Bild Vorspannung/Website CSS aktualisiert");
 define("LAN_AL_THEME_04", "Admin/CSS Style aktualisiert");
-define("LAN_AL_THEME_05", "");
 define("LAN_AL_CACHE_00", "Unbekannte Cache-Control-Meldung");
 define("LAN_AL_CACHE_01", "Cache-Einstellungen aktualisiert");
 define("LAN_AL_CACHE_02", "System-Cache geleert");
 define("LAN_AL_CACHE_03", "Content-Cache geleert");
-define("LAN_AL_CACHE_04", "");
 define("LAN_AL_EMOTE_00", "Unbekannte emote-bezogene Nachricht");
 define("LAN_AL_EMOTE_01", "Aktiv-emote-Pack geändert");
 define("LAN_AL_EMOTE_02", "Aktivierte Emotes");
@@ -133,7 +128,6 @@ define("LAN_AL_WELCOME_01", "Willkommens-Nachricht erstellt");
 define("LAN_AL_WELCOME_02", "Willkommens-Nachricht aktualisiert");
 define("LAN_AL_WELCOME_03", "Willkommens-Nachricht gelöscht");
 define("LAN_AL_WELCOME_04", "Willkommens-Nachrichtenoptionen geändert");
-define("LAN_AL_WELCOME_05", "");
 define("LAN_AL_ADMINPW_01", "Admin-Kennwort geändert");
 define("LAN_AL_BANNER_00", "Unbekannte Banner-bezogene Nachricht");
 define("LAN_AL_BANNER_01", "Banner im Menü update");
@@ -141,20 +135,16 @@ define("LAN_AL_BANNER_02", "Banner erstellt");
 define("LAN_AL_BANNER_03", "Banner-aktualisiert");
 define("LAN_AL_BANNER_04", "Banner, gelöscht");
 define("LAN_AL_BANNER_05", "Banner-Konfiguration aktualisiert");
-define("LAN_AL_BANNER_06", "");
 define("LAN_AL_IMALAN_00", "Unbekannte bildbezogene Nachricht");
 define("LAN_AL_IMALAN_01", "Avatar-gelöscht");
 define("LAN_AL_IMALAN_02", "Alle Fotos gelöscht und Travian");
 define("LAN_AL_IMALAN_03", "Avatar-gelöscht");
 define("LAN_AL_IMALAN_04", "Einstellungen aktualisiert");
-define("LAN_AL_IMALAN_05", "");
-define("LAN_AL_IMALAN_06", "");
 define("LAN_AL_LANG_00", "Unbekannte sprachlicher Nachricht");
 define("LAN_AL_LANG_01", "Sprache-Prefs geändert");
 define("LAN_AL_LANG_02", "Sprache-Tabellen gelöscht");
 define("LAN_AL_LANG_03", "Sprache erstellten Tabellen");
 define("LAN_AL_LANG_04", "Sprache-Zip erstellt");
-define("LAN_AL_LANG_05", "");
 define("LAN_AL_META_01", "Meta-Tags aktualisiert");
 define("LAN_AL_DOWNL_01", "Download-Optionen geändert");
 define("LAN_AL_DOWNL_02", "Download Kategorie erstellt");
@@ -170,7 +160,6 @@ define("LAN_AL_DOWNL_11", "Download Download Limit gelöscht");
 define("LAN_AL_DOWNL_12", "Download Mirror hinzugefügt");
 define("LAN_AL_DOWNL_13", "Aktualisiert Mirror herunterladen");
 define("LAN_AL_DOWNL_14", "Download Spiegel gelöscht");
-define("LAN_AL_DOWNL_15", "");
 define("LAN_AL_CPAGE_01", "Seite/Benutzermenü hinzugefügt");
 define("LAN_AL_CPAGE_02", "Seite/Benutzermenü aktualisiert");
 define("LAN_AL_CPAGE_03", "Seite/Benutzermenü gelöscht");
@@ -195,7 +184,6 @@ define("LAN_AL_MENU_05", "Menü - Bewegung nach oben");
 define("LAN_AL_MENU_06", "Menü - Bewegung nach unten");
 define("LAN_AL_MENU_07", "Menü - nach oben");
 define("LAN_AL_MENU_08", "Menü - nach unten");
-define("LAN_AL_MENU_09", "");
 define("LAN_AL_UPLOAD_01", "Hochgeladene Datei gelöscht");
 define("LAN_AL_UPLOAD_02", "Laden Sie Prefs geändert");
 define("LAN_AL_SEARCH_01", "Sucheinstellungen aktualisiert");
@@ -203,7 +191,6 @@ define("LAN_AL_SEARCH_02", "Suche Prefs aktualisiert");
 define("LAN_AL_SEARCH_03", "Suche Params AutoUpdate");
 define("LAN_AL_SEARCH_04", "Durchsuchbaren Bereiche aktualisiert");
 define("LAN_AL_SEARCH_05", "Suche-Handler-Einstellungen aktualisiert");
-define("LAN_AL_SEARCH_06", "");
 define("LAN_AL_NOTIFY_01", "Benachrichtigen Sie Einstellungen aktualisiert");
 define("LAN_AL_NEWS_01", "Nachrichten Artikel gelöscht");
 define("LAN_AL_NEWS_02", "News-Kategorie gelöscht");
@@ -221,14 +208,12 @@ define("LAN_AL_NEWS_13", "Neuigkeiten zum Umschreiben von Adressen gelöscht");
 define("LAN_AL_FILEMAN_01", "Datei(en) gelöscht");
 define("LAN_AL_FILEMAN_02", "Datei(en) verschoben");
 define("LAN_AL_FILEMAN_03", "Datei(en) hochgeladen");
-define("LAN_AL_FILEMAN_04", "");
 define("LAN_AL_MAIL_01", "Test-Email gesendet");
 define("LAN_AL_MAIL_02", "Mailing erstellt");
 define("LAN_AL_MAIL_03", "Mail-Einstellungen aktualisiert");
 define("LAN_AL_MAIL_04", "Mailing-Informationen gelöscht");
 define("LAN_AL_MAIL_05", "Mail-Datenbank aufgeräumt");
 define("LAN_AL_MAIL_06", "Mailout aktiviert");
-define("LAN_AL_MAIL_07", "");
 define("LAN_AL_PLUGMAN_01", "Plugin installiert");
 define("LAN_AL_PLUGMAN_02", "Plugin aktualisiert");
 define("LAN_AL_PLUGMAN_03", "Plugin deinstalliert");
@@ -240,10 +225,12 @@ define("LAN_AL_MISC_03", "Login-Menü-Einstellungen aktualisiert");
 define("LAN_AL_MISC_04", "Kommentar von Menüeinstellungen aktualisiert");
 define("LAN_AL_MISC_05", "Uhr Menüeinstellungen aktualisiert");
 define("LAN_AL_MISC_06", "Blog-Kalender im Menüeinstellungen aktualisiert");
-define("LAN_AL_MISC_07", "");
 define("LAN_AL_PING_01", "Ping-Dienst");
 define("LAN_AL_ADMINUI_01", "Admin-UI DB Tabelle einfügen: [X]");
 define("LAN_AL_ADMINUI_02", "Admin-UI-DB-Tabelle-Update: [X]");
 define("LAN_AL_ADMINUI_03", "Admin-UI DB Tabelle löschen: [X]");
 define("LAN_AL_ADMINUI_04", "Admin-UI-DB-Fehler: [X]");
 define("LAN_AL_BACKUP", "Datenbanksicherung");
+define("LAN_AL_MEDIA_01", "Medien hochladen");
+define("LAN_AL_USET_100", "Der Administrator hat sich als anderer Benutzer angemeldet");
+define("LAN_AL_USET_101", "Der Administrator hat sich als anderer Benutzer abgemeldet");
