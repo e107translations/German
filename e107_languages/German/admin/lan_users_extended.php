@@ -75,7 +75,6 @@ define("EXTLAN_57", "Aktiviert");
 define("EXTLAN_58", "Nicht aktiviert");
 define("EXTLAN_59", "Aktivieren");
 define("EXTLAN_60", "Deaktivieren");
-define("EXTLAN_61", "keine");
 define("EXTLAN_62", "Tabelle wählen");
 define("EXTLAN_63", "Feld Id wählen");
 define("EXTLAN_64", "Anzeigemodus wählen");
@@ -92,8 +91,8 @@ define("EXTLAN_74", "ist ein reservierter Feldname und kann deshalb nicht benutz
 define("EXTLAN_75", "Fehler beim Hinzufügen des Feldes in die Datenbank.");
 define("EXTLAN_76", "Ungültige Zeichen im Feldnamen - es ist nur A-Z, a-z, 0-9, '_' Zeichen erlaubt.");
 define("EXTLAN_77", "Kategorie konnte nicht gelöscht werden - sie müßen zuerst die Felder in der Kategorie selbst löschen:");
-define("EXTLAN_78", "Datei nicht gefunden. --FILE-- wird benötigt, um Daten-Tabelle zu erstellen");
-define("EXTLAN_79", "Fehler bei der Validierung - abgebrochen.");
+define("EXTLAN_78", "Datei nicht gefunden. [x] wird benötigt, um Daten Tabelle zu erstellen");
+define("EXTLAN_79", "Label");
 define("EXTLAN_80", "Validierungs Fehler - abgebrochen.");
 define("EXTLAN_81", "Benutzerdefiniertes Feld hinzufügen");
 define("EXTLAN_82", "Werte");
@@ -111,6 +110,3 @@ define("EXTLAN_HELP_6", "Benutzern erlauben einen numerischen Wert einzugeben");
 define("EXTLAN_HELP_7", "Benutzer zwingen ein Datum anzugeben");
 define("EXTLAN_HELP_8", "Benutzern erlauben aus installierten Sprachen auszuwählen");
 define("EXTLAN_HELP_9", "Spezifizieren Sie eine vordefinierte Liste . Der Feldwert wählt die Art der Liste - derzeit nur \ ' Zeitzonen \' ein gültiger Eintrag");
-
-
-?>

@@ -134,6 +134,12 @@ define("ADLAN_187", "Kann [x] nicht erstellen. Bitte überprüfen Sie Ihre Ordne
 define("ADLAN_188", "Ihre Zeitzoneneinstellung [x] ist ungültig. 
 Es wurde auf UTC zurückgesetzt. Um es zu ändern, gehen Sie bitte zu Admin -> Einstellungen -> Datumsanzeigeoptionen.");
 define("ADLAN_189", "Die folgenden Plugins sind nicht mit dieser Version von e107 kompatibel und sollten deinstalliert werden:");
+define("ADLAN_190", "Hilfe benötigt?");
+define("ADLAN_191", "Kontaktieren Sie unsere Community für [kostenlosen Support], wenn Sie Probleme beim Upgrade haben.");
+define("ADLAN_192", "Kontaktieren Sie unsere Community für [kostenlosen Support], wenn Sie Probleme mit e107 haben.");
+define("ADLAN_193", "Der Ordner [x] ist nicht beschreibbar. Bitte korrigieren, bevor Sie fortfahren.");
+define("ADLAN_194", "Legacy Avatar Ordner erkannt. Bitte stellen Sie sicher, dass [x] Avatare/ beschreibbar sind. Bitte korrigieren, bevor Sie fortfahren.");
+define("ADLAN_195", "Der alte Ordner wurde in das Sicherungsverzeichnis verschoben");
 define("ADLAN_CL_2", "Benutzer");
 define("ADLAN_CL_3", "Inhalt");
 define("ADLAN_CL_4", "Kommentare");
@@ -244,6 +250,7 @@ define("LAN_UPLOAD_CONFIRM", "Irgendwelche nicht gespeicherten Änderungen werde
 define("LAN_UPLOAD_777", "Ordner ist nicht vorhanden oder nicht beschreibbar, setze CHMOD 777 für den folgenden Ordner bevor du hochladest:");
 define("LAN_UPLOAD_SERVEROFF", "Diese Option ist deaktiviert , für das Hochladen von Dateien auf deinen Server");
 define("LAN_WIDTH", "Breite");
+define("LAN_HEIGHT", "Höhe");
 define("LAN_ON", "An");
 define("LAN_OFF", "Aus");
 define("LAN_DISABLED", "Deaktivieren");
@@ -270,7 +277,6 @@ define("LAN_MENULAYOUT", "Menü Layout");
 define("LAN_MEDIAMANAGER", "Medienmanager");
 define("LAN_MOREINFO", "Mehr Information...");
 define("LAN_COMMENTMAN", "Kommentaremanager");
-define("LAN_LIST", "Liste");
 define("LAN_FILTER", "Filter");
 define("LAN_STATUS", "Status");
 define("LAN_URL", "URL");
@@ -388,10 +394,20 @@ define("LAN_LOCK", "Sperre");
 define("LAN_SYSTEM_USER", "Systembenutzer");
 define("LAN_ENGINE", "Funktionseinheit");
 define("LAN_SOURCE", "Quelle");
+define("LAN_UPGRADING", "Aktualisieren?");
+define("LAN_DONT_SHOW_AGAIN", "Nicht mehr zeigen");
 define("LAN_ERROR_CONNECTION", "Konnte keine Verbindung für die Aktualisierung herstellen.Bitte überprüfen Sie Firewall und / oder Internetverbindung.");
 define("LAN_UI_X_CANT_EQUAL_Y", "[X] kann nicht dasselbe sein wie [y]");
 define("LAN_UI_VIEW_GRID_LABEL", "Rasteransicht");
 define("LAN_UI_VIEW_LIST_LABEL", "Listenansicht");
-
-
-?>
+define("LAN_CHECKING_FOR_UPDATES", "Nach Updates suchen");
+define("LAN_UI_FILTER_NEXT_HOUR", "Nächste Stunde");
+define("LAN_UI_FILTER_NEXT_24_HOURS", "Nächste 24 Stunden");
+define("LAN_UI_FILTER_NEXT_WEEK", "Nächste Woche");
+define("LAN_UI_FILTER_NEXT_MONTH", "Nächsten Monat");
+define("LAN_UI_FILTER_NEXT_YEAR", "Nächstes Jahr");
+define("LAN_UI_FILTER_IS_EMPTY", "Ist leer");
+define("LAN_RECALCULATE_COMMENT_COUNT", "Kommentaranzahl neu berechnen");
+define("LAN_SUCC_RECALCULATE_COMMENT_COUNT", "Kommentarzählung erfolgreich neu berechnet!");
+define("LAN_NO_RESULTS_FOUND", "Keine Ergebnisse gefunden.");
+define("LAN_UI_DROPZONE_DROP_FILES", "Ziehe die Dateien hier hin, um sie hochzuladen");

@@ -44,7 +44,6 @@ define("LAN_CRON_20_3", "Es wird Empfohlen ihr System aktuell zu halten.");
 define("LAN_CRON_20_4", "Aktualisieren Sie diese Git Sammlung");
 define("LAN_CRON_20_5", "Aktualisieren Sie diese e107 Installation mit den aktuellsten Dateien von Github .");
 define("LAN_CRON_20_6", "Nur Empfohlen für Entwickler");
-define("LAN_CRON_20_7", "Warnung!");
 define("LAN_CRON_20_8", "Kann Seiteninstabilität verursachen!");
 define("LAN_CRON_30", "jede Minute");
 define("LAN_CRON_31", "jede andere Minute");
@@ -64,6 +63,8 @@ define("LAN_CRON_51", "Stunde(n):");
 define("LAN_CRON_52", "Tag(e):");
 define("LAN_CRON_53", "Monat(e):");
 define("LAN_CRON_54", "Wochentag(e):");
+define("LAN_CRON_55", "Datenbank Backup fehlgeschlagen");
+define("LAN_CRON_56", "Datenbank Backup komplett");
 define("LAN_CRON_60", "Gehen Sie zur cKonsole");
 define("LAN_CRON_61", "Neues Cron-Passwort generieren");
 define("LAN_CRON_62", "Konfigurationsfunktion ausführen [b] [x] [/ b]");
@@ -72,6 +73,3 @@ define("LAN_CRON_64", "Ein Administrator kann Aufgaben mithilfe von e107 Aufgabe
 define("LAN_CRON_BACKUP", "Sicherung");
 define("LAN_CRON_LOGGING", "Erfassung");
 define("LAN_CRON_RUNNING", "laufend");
-
-
-?>

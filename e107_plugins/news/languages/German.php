@@ -11,11 +11,8 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("TD_MENU_L1", "News/sonstiges");
 define("TD_MENU_L2", "weitere News");
 define("LAN_NEWSCAT_MENU_TITLE", "News Kategorien");
 define("LAN_NEWSLATEST_MENU_TITLE", "letzten News");
-
-
-?>
+define("LAN_NEWSARCHIVE_MENU_TITLE", "News Archiv");

@@ -42,7 +42,7 @@ define("UPLAN_IS", "ist");
 define("UPLAN_ARE", "sind");
 define("UPLAN_COPYTODLS", "Zu den Downloads kopieren");
 define("UPLLAN_51", "Uploads Liste");
-define("UPLLAN_52", "Diese Seite hilft Ihnen, eine Datei für die Verwaltung von Datei-Upload- Berechtigungen zuerstellen. Die Datei wird als --SOURCE-- gespeichert und müssen nach --DEST-- kopiert werden, bevor sie wirksam werden.");
+define("UPLLAN_52", "Diese Seite hilft Ihnen, eine Datei für die Verwaltung von Datei-Upload- Berechtigungen zu erstellen. Die Datei wird als [x] gespeichert und müssen nach [y] kopiert werden, bevor sie wirksam werden.");
 define("UPLLAN_54", "Dateierweiterungen");
 define("UPLLAN_55", "Maximale upload größe");
 define("UPLLAN_56", "Datei erzeugen");
@@ -57,6 +57,3 @@ define("UPLLAN_66", "Download Pfad Fehler");
 define("UPLLAN_68", "SQL Fehler:");
 define("UPLLAN_69", "Importiert");
 define("UPLLAN_70", "sende nach [x]");
-
-
-?>

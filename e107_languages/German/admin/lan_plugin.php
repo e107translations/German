@@ -270,6 +270,5 @@ define("LAN_INSTALL_FAIL", "Installation fehlgeschlagen");
 define("LAN_UNINSTALL_FAIL", "Kann nicht deinstalliert werden!");
 define("LAN_PLUGIN_IS_USED", "[x] Plugin wird verwendet von:");
 define("EPL_ADLAN_254", "Dies wird die Sprachdateien Ihres Plugins auf Fehler und gemeinsame oder doppelte LAN-Definitionen überprüfen.");
-
-
-?>
+define("EPL_ADLAN_255", "Dateien überschreiben");
+define("EPL_ADLAN_256", "Übersprungen [x] (bereits vorhanden)");

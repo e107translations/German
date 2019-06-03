@@ -24,12 +24,6 @@ define("LAN_IMA_001", "Änderung ist nicht zulässig.");
 define("LAN_IMA_002", "Nicht genügend Speicher zur Verfügung, um zu drehen");
 define("LAN_IMA_003", "gedreht");
 define("LAN_IMA_004", "Größenanpassung");
-define("LAN_IMA_O_001", "News Bilder");
-define("LAN_IMA_O_002", "News [img] bbcode.");
-define("LAN_IMA_O_003", "Seite [img] bbcode");
-define("LAN_IMA_O_004", "Featurebox Bilder");
-define("LAN_IMA_O_005", "Featurebox [img] bbcode.");
-define("LAN_IMA_O_006", "[img] bbcode.");
 define("IMALAN_1", "Bildanzeige aktivieren");
 define("IMALAN_2", "Zeige Bilder an, dies wird sich auf alle Bilder Ihrer Seite auswirken (Kommentare, Chatbox usw.), die über den [img] bbcode eingefügt wurden");
 define("IMALAN_3", "Bild Komprimierungs Modus");
@@ -81,6 +75,7 @@ define("IMALAN_66", "Dateiname");
 define("IMALAN_68", "schliessen");
 define("IMALAN_69", "Ordner");
 define("IMALAN_70", "Kein Systemordner wurde gefunden!");
+define("IMALAN_72", "Icons");
 define("IMALAN_73", "Vorschaubild Qualität");
 define("IMALAN_74", "Stellen Sie diese so gering wie möglich ein, bevor der Qualitätsverlust sichtbar ist. Max. 100");
 define("IMALAN_75", "Avatar Breite");
@@ -190,6 +185,7 @@ define("IMALAN_178", "Avatare Ordner (vom Benutzer auswählbar");
 define("IMALAN_179", "Avatare Ordner (privat)");
 define("IMALAN_180", "0 Byte Datei gefunden in:");
 define("IMALAN_181", "Bitte entfernen, bevor Sie fortfahren.");
-
-
-?>
+define("IMALAN_182", "Während des Imports in jpeg konvertieren");
+define("IMALAN_183", "PNG und GIF Dateien werden automatisch in das jpeg Format konvertiert. (Icons ausgeschlossen)");
+define("IMALAN_184", "Standard Bild Größen");
+define("IMALAN_185", "Maximale Höhe in Pixel");

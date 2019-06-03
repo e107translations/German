@@ -1,24 +1,24 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: e107_plugins/clock_menu/languages/German_front.php,v $
- * $Revision: 1.0
- * $Date: 08.03.2018
- * $Author: CCG*Centurio
- */
-
-
-define("CLOCK_MENU_L1", "Uhren-Plugin Konfiguration gespeichert");
-define("CLOCK_MENU_L2", "Titel");
-define("CLOCK_MENU_L3", "Menüeinstellungen updaten");
-define("CLOCK_MENU_L4", "Uhren-Plugin Konfiguration");
++ ----------------------------------------------------------------------------+
+|     e107 website system - german language file
+|     UTF-8 encoded
+|     translated for: http://www.e107cms.de
+|
+|     Released under the terms and conditions of the
+|     GNU General Public License (http://gnu.org).
+|
+|     $HeadURL: https://svn.code.sf.net/p/e107german/code/trunk/e107_0.7/e107_plugins/clock_menu/languages/German.php $ 
+|     $Revision: 115 $
+|     $Date: 2010-09-26 06:00:45 +0200 (So, 26. Sep 2010) $
+|     $Id: German.php 115 2010-09-26 04:00:45Z lars78 $
+|     $Author: lars78 $
++----------------------------------------------------------------------------+
+*/
+define("CLOCK_MENU_L1", "Clock Menü Konfiguration gespeichert");
+define("CLOCK_MENU_L2", "Bezeichnung");
+define("CLOCK_MENU_L3", "Menüeinstellungen aktuallisieren");
+define("CLOCK_MENU_L4", "Clock Menü Einstellungen");
 define("CLOCK_MENU_L5", "Montag,");
 define("CLOCK_MENU_L6", "Dienstag,");
 define("CLOCK_MENU_L7", "Mittwoch,");

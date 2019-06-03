@@ -57,10 +57,10 @@ define("BANLAN_44", "Verwenden Sie Verfallsdatum / Zeit vom Import");
 define("BANLAN_45", "Importiere");
 define("BANLAN_46", "Importiere Datei");
 define("BANLAN_47", "Datei upload Fehler");
-define("BANLAN_48", "lösche --NUM-- ungültige Verbannungslisteneinträge");
+define("BANLAN_48", "lösche [y] ungültige Verbannungslisteneinträge");
 define("BANLAN_49", "CSV Import:  Unausgeglichene Anführungszeichen in Zeile");
 define("BANLAN_50", "CSV Import: Schreibfehler in der Verbannungsliste, in Zeile");
-define("BANLAN_51", "CSV Import: Erfolg, --NUM-- Zeilen aus Datei importiert");
+define("BANLAN_51", "CSV Import: Erfolg, [y] Zeilen aus Datei importiert");
 define("BANLAN_52", "Weiße Liste");
 define("BANLAN_53", "zur Weißen Liste hinzufügen");
 define("BANLAN_54", "keine Einträge in der weißen Liste");
@@ -95,13 +95,12 @@ define("BANLAN_83", "Datum/Zeit");
 define("BANLAN_84", "IP Adresse");
 define("BANLAN_85", "zusätzliche Information");
 define("BANLAN_86", "Verbannbezogene Ereignisse");
-define("BANLAN_87", "Gesamte --NUM-- Einträge in der Liste");
+define("BANLAN_87", "Gesamte [y] Einträge in der Liste");
 define("BANLAN_88", "Leeres Verbannaktionsprotokoll");
 define("BANLAN_89", "Protokolldatei gelöscht");
 define("BANLAN_90", "Fehler beim löschen der Protokolldatei");
 define("BANLAN_91", "Datum/Zeitformat für Verbannprotokoll");
 define("BANLAN_92", "sehen Sie die strftime Funktion auf der php.net Seite");
-define("BANLAN_93", "");
 define("BANLAN_100", "Unbekannt");
 define("BANLAN_101", "Manuell");
 define("BANLAN_102", "Überflutung");
@@ -129,6 +128,4 @@ define("BANLAN_123", "Zur Schwarzen Liste hinzufügen");
 define("BANLAN_124", "erlischt");
 define("BANLAN_125", "Meine IP verwenden");
 define("BANLAN_126", "IP / Email");
-
-
-?>
+define("BANLAN_127", "Lösche alle [x] fehlgeschlagenen Anmeldungen aus der Datenbank");

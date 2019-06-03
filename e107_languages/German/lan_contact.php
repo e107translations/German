@@ -36,6 +36,7 @@ define("LANCONTACT_17", "Bitte geben Sie Ihren Namen ein.");
 define("LANCONTACT_18", "Geben Sie bitte Ihre Email-Adresse ein.");
 define("LANCONTACT_19", "Bitte geben Sie den Betreff für Ihre E-Mail ein.");
 define("LANCONTACT_20", "Bitte geben Sie Ihre Nachricht für uns ein.");
-
-
-?>
+define("LANCONTACT_21", "Ich bin damit einverstanden, dass diese Website meine übermittelten Informationen speichert, damit sie auf meine Anfrage antworten können");
+define("LANCONTACT_22", "Datenschutz Bestimmungen");
+define("LANCONTACT_23", "Unsere Datenschutzbestimmungen finden Sie hier: [x]");
+define("LANCONTACT_24", "GDPR Vereinbarung");

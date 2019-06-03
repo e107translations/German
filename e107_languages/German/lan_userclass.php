@@ -26,8 +26,5 @@ define("UC_LAN_7", "Forum Moderatoren");
 define("UC_LAN_8", "Admins und Moderatoren");
 define("UC_LAN_9", "Neue Benutzer");
 define("UC_LAN_10", "Such-Roboter");
-define("UC_LAN_INVERT", "Keine --CLASS--");
+define("UC_LAN_INVERT", "Nicht [x]");
 define("UC_LAN_INVERTLABEL", "jederman ausser..");
-
-
-?>

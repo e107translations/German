@@ -72,6 +72,4 @@ define("LANG_LAN_149", "Wert");
 define("LANG_LAN_150", "[b]Suche vollständige Kern vor dem Auskommentieren beliebegen LAN aus einer beliebigen Sprache Datei.[/b]");
 define("LANG_LAN_151", "verfügbar");
 define("LANG_LAN_152", "Mit freundlicher Genehmigung des [e107 Übersetzungsteam]");
-
-
-?>
+define("LANG_LAN_153", "Vorabversion");

@@ -15,7 +15,6 @@
 |     $Author: lars78 $
 +----------------------------------------------------------------------------+
 */
-define("e_PAGETITLE", "Forum");
 define("LAN_FORUM_0002", "Themen");
 define("LAN_FORUM_0003", "Antworten");
 define("LAN_FORUM_0004", "letzter Eintrag");
@@ -89,7 +88,7 @@ define("LAN_FORUM_0074", "geschrieben von");
 define("LAN_FORUM_0075", "neue Themen");
 define("LAN_FORUM_1001", "Foren");
 define("LAN_FORUM_1002", "Unterforum");
-define("LAN_FORUM_1003", "Thema");
+define("LAN_FORUM_1003", "Eintrag");
 define("LAN_FORUM_1004", "Urheber");
 define("LAN_FORUM_1005", "Ansichten");
 define("LAN_FORUM_1006", "Importiere Themen");
@@ -270,6 +269,4 @@ define("LAN_FORUM_8026", "lösen desThema ist fehlgeschlagen.");
 define("LAN_FORUM_8027", "Keine Aktion ausgewählt");
 define("LAN_FORUM_8028", "zurück");
 define("LAN_FORUM_8029", "Neues Thema erstellt!");
-
-
-?>
+define("LAN_FORUM_8030", "Beitrag konnte nicht gelöscht werden (Moderator Berechtigung erforderlich)");

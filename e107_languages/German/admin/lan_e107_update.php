@@ -31,9 +31,9 @@ define("LAN_UPDATE_24", "Lösche Veraltetes Tabellenfeld:");
 define("LAN_UPDATE_25", "Lösche zurückgebliebene Tabelle:");
 define("LAN_UPDATE_26", "Erweiterte IP Adressenfeld");
 define("LAN_UPDATE_27", "Tabelle hinzufügen");
-define("LAN_UPDATE_28", "--COUNT-- Gespeicherten E-Mails verschoben");
+define("LAN_UPDATE_28", "[x] gespeicherte Emails verschoben");
 define("LAN_UPDATE_29", "Abhängig von Ihrer speziellen Konfiguration , müssen Sie den Aktualisierungsprozess mehrmals ausführen.");
-define("LAN_UPDATE_37", "Index hinzufügen --INDEX-- zur Tabelle --TABLE--");
+define("LAN_UPDATE_37", "Index hinzufügen [x] zur Tabelle [y]");
 define("LAN_UPDATE_38", "Aktualisieren Sie die Hauptseiteneinstellungen");
 define("LAN_UPDATE_40", "Aktualisieren Sie die Newsfeedtabelle");
 define("LAN_UPDATE_41", "Benutzerzeitzonenfeld verarbeitet");
@@ -46,12 +46,9 @@ define("LAN_UPDATE_50", "Veraltete Voreinstellungen gelöscht:");
 define("LAN_UPDATE_51", "Aktualisieren Sie die Plugin Tabellendefinition:");
 define("LAN_UPDATE_52", "Aktualisieren Sie die Downloadtabelle");
 define("LAN_UPDATE_53", "Aktualisieren Sie die Mirrortabelle");
-define("LAN_UPDATE_54", "Fehlende Tabelle  --TABLE-- - kann Index nicht hinzufügen --INDEX--");
+define("LAN_UPDATE_54", "Fehlende Tabelle [y] - kann Index nicht hinzufügen [x]");
 define("LAN_UPDATE_55", "Beschreibung");
 define("LAN_UPDATE_56", "Systemaktualisierung");
 define("LAN_UPDATE_57", "Bevor Sie fortfahren, bitte manuell die folgenden veralteten Ordner von Ihrem System löschen:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin-aktualisierungen");
 define("LAN_UPDATE_CAPTION_CORE", "Kernaktualisierungen");
-
-
-?>

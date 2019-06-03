@@ -19,9 +19,8 @@ define("FBLAN_28", "Featurebox Menü Kategorie");
 define("FBLAN_29", "Kategorie für das Featurebox-Menü verwenden");
 define("FBLAN_30", "Kategorie Vorlage");
 define("FBLAN_31", "Zufällig");
-define("FBLAN_32", "
-Parameter (optional)");
+define("FBLAN_32", "Parameter (optional)");
 define("FBLAN_33", "Optionale Javascript-Parameter (Änderungen vorbehalten)");
-
-
-?>
+define("FBLAN_34", "Nicht zugewiesen");
+define("FBLAN_35", "Karussell");
+define("FBLAN_36", "Tabs");
