@@ -103,12 +103,9 @@ define("LAN_NEWS_37", "<b>Verfolgung Url's:</b> (Eine URL pro Zeile)");
 define("LAN_NEWS_49", "Anzeige-Modus");
 define("LAN_NEWS_51", "Kommentar Anzahl neu berechnen");
 define("LAN_NEWS_52", "Fortsetzen");
-define("LAN_NEWS_53", "Aktualiaierung fertig - --UPDATE-- Kommentar Zähler aktualisiert, --GELÖSCHT-- nicht erlaubte Kommentare gelöscht");
-define("LAN_NEWS_54", "News Wartung");
+define("LAN_NEWS_53", "Erweiterte Optionen");
 define("LAN_NEWS_55", "Verwaltung");
-define("LAN_NEWS_56", "Kommentarzählung neu berechnen.");
 define("LAN_NEWS_57", "fortfahren");
-define("LAN_NEWS_58", "aktualisierung Komplett --UPDATE-- Kommentarzählung aktualisiert, --DELETED-- nicht erlaubte Kommentare gelöscht.");
 define("LAN_NEWS_59", "News Verwaltung");
 define("LAN_NEWS_60", "Kommentar Gesamt");
 define("LAN_NEWS_61", "Auch nicht erlaubte Kommentare löschen");
@@ -116,7 +113,6 @@ define("LAN_NEWS_62", "Fehler beim Zugriff auf die Datenbank, oder keine News Ei
 define("LAN_NEWS_63", "Kategorie erstellen");
 define("LAN_NEWS_64", "Alte eingereicht");
 define("LAN_NEWS_65", "Bitte wählen Sie eine einzigartige SEF URL-Zeichenfolge für diese Kategorie");
-define("LAN_NEWS_66", "");
 define("LAN_NEWS_67", "geschlossen");
 define("LAN_NEWS_68", "eingereichtes Thema");
 define("LAN_NEWS_69", "Standardbereich");
@@ -151,6 +147,3 @@ define("LAN_NEWS_108", "Die SEF-URL ist anders als der Titel Ihrer Nachricht.");
 define("LAN_NEWS_109", "Trigger eine E-Mail-Benachrichtigung, wenn Sie dieses Formular senden.");
 define("LAN_NEWS_110", "Nachrichten Cache Zeitüberschreitung");
 define("LAN_NEWS_111", "Zeit in Minuten.Gilt nur, wenn der Systemcache aktiviert ist.");
-
-
-?>

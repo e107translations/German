@@ -38,8 +38,6 @@ define("LANG_LAN_21", "Sprachpakete");
 define("LANG_LAN_25", "Bitte überprüfen Sie das CORE_LC und CORE_LC2 einen Inhalt in [lcpath] haben und versuchen Sie es erneut.");
 define("LANG_LAN_26", "Bitte stellen Sie sicher, dass Sie die standart Verzeichnis Namen in e107_config.php (z.B. 'e107_languages/', 'e107_plugins/' etc.) benutzen und versuchen Sie es erneut.");
 define("LANG_LAN_27", "Bitte überprüfen Sie Ihre Sprachdateien ('Überprüfen') und versuchen Sie es erneut.");
-define("LANG_LAN_28", "Aktivieren Sie dieses Kontrollkästchen, wenn Sie ein [E107 zertifizierter Übersetzer sind].");
-define("LANG_LAN_EML", "Bitte schicken Sie Ihr Sprachpaket per E-Mail an:");
 define("LANG_LAN_32", "Installierte Sprachen");
 define("LANG_LAN_33", "Nur Fehler während der Überprüfung anzeigen");
 define("LANG_LAN_50", "Adiminbereich Schnittstelle Sprache");
@@ -73,3 +71,4 @@ define("LANG_LAN_150", "[b]Suche vollständige Kern vor dem Auskommentieren beli
 define("LANG_LAN_151", "verfügbar");
 define("LANG_LAN_152", "Mit freundlicher Genehmigung des [e107 Übersetzungsteam]");
 define("LANG_LAN_153", "Vorabversion");
+define("LANG_LAN_154", "Das Sprachpaket wurde erstellt. Sie können es nun wie angewiesen [hier] an das Github-Repository senden.");
