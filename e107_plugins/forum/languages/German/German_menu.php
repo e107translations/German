@@ -24,6 +24,4 @@ define("LAN_FORUM_MENU_012", "Maximales Alter der angezeigten Beiträge");
 define("LAN_FORUM_MENU_013", "Benutze 0 auf einer ruhigen Seite; Einstellen eines Wertes in Tagen wird die Datenbankzeit auf einer belebten Website reduzieren");
 define("LAN_FORUM_MENU_014", "Scrolling Layer Höhe (in Pixel)");
 define("LAN_FORUM_MENU_015", "Leer lassen für kein Scrollen");
-
-
-?>
+define("LAN_FORUM_MENU_016", "Noch keine Forenkategorien erstellt!");

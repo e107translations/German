@@ -29,14 +29,12 @@ define("LANDT_04s", "Tage");
 define("LANDT_05s", "Stunden");
 define("LANDT_06s", "Minuten");
 define("LANDT_07s", "Sekunden");
-
 define("LANDT_08", "Min");
 define("LANDT_08s", "Min");
 define("LANDT_09", "Sek");
 define("LANDT_09s", "Sek");
-define("LANDT_AGO", "her");
-
+define("LANDT_AGO", "Online");
+define("LANDT_IN", "in");
 define("LANDT_10", "Jetzt gerade");
-
-
-?>
+define("LANDT_XAGO", "[x]");
+define("LANDT_INX", "[x]");

@@ -31,12 +31,9 @@ define("CHATBOX_L14", "Smilies");
 define("CHATBOX_L15", "Der Eintrag ist zu lang, oder es wurde ein leerer Eintrag getätigt.");
 define("CHATBOX_L17", "Doppelter Eintrag");
 define("CHATBOX_L18", "Chatbox Nachricht moderiert");
-define("CHATBOX_L19", "Sie können nur alle ".(FLOODPROTECT ? FLOODTIMEOUT : 'n/a')." Sekunden einen Nachricht posten");
+define("CHATBOX_L19", "Sie können nur alle [x] Sekunden eine Nachricht posten");
 define("CHATBOX_L20", "Chatbox (Alle Einträge)");
 define("CHATBOX_L22", "am");
 define("CHATBOX_L24", "Sie haben nicht die erforderlichen Rechte, diese Seite anzusehen.");
 define("CHATBOX_L25", "[ dieser Eintrag wurde vom Admin geblockt ]");
 define("LAN_CHATBOX_100", "Schreibe deine Nachricht hier.");
-
-
-?>
