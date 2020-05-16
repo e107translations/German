@@ -241,6 +241,7 @@ define("LAN_MAILOUT_254", "Blick auf Vorlagen basierende e-Mail");
 define("LAN_MAILOUT_255", "Auf Vorlagen basierende E-Mail, ID:");
 define("LAN_MAILOUT_256", "Rückkehr");
 define("LAN_MAILOUT_257", "Generierte Vorlage");
+define("LAN_MAILOUT_259", "In den Einstellungen sind keine 'E-Mail-Adressquellen' ausgewählt");
 define("LAN_SEND", "Senden");
 define("LAN_HOLD", "Halten");
 define("LAN_MAILOUT_260", "Benutzertyp");

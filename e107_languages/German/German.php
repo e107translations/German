@@ -139,3 +139,4 @@ define("LAN_REQUIRED_BLANK", "Pflichtfeld (er) wurden leer gelassen.");
 define("LAN_PLEASEWAIT", "Bitte warten");
 define("LAN_CHOOSE_FILE", "Wähle eine Datei aus");
 define("LAN_REQUIRED", "Erforderlich");
+define("LAN_DEVELOPERMODE_CHECK", "[b]Developer mode ist momentan eingeschaltet. Nur gebrauchen im Entwicklungsmodus![/b] [br] Schalte dies aus wenn Seite in Live modus arbeitet. Wen eingeschaltet, könnte sensitive Information vermitelt werden an die Ausenwelt!");

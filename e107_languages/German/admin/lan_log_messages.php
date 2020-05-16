@@ -9,7 +9,6 @@
 |        $Author: Killer0561 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_AUDIT_LOG_001", "Der Zugriff durch gesperrte Benutzer");
 define("LAN_AUDIT_LOG_002", "Flooding-Schutz aktiviert");
 define("LAN_AUDIT_LOG_003", "Zugang von gesperrten IP-Adresse");
@@ -129,6 +128,7 @@ define("LAN_AL_WELCOME_02", "Willkommens-Nachricht aktualisiert");
 define("LAN_AL_WELCOME_03", "Willkommens-Nachricht gelöscht");
 define("LAN_AL_WELCOME_04", "Willkommens-Nachrichtenoptionen geändert");
 define("LAN_AL_ADMINPW_01", "Admin-Kennwort geändert");
+define("LAN_AL_ADMINPW_02", "Admin-Kennwort aufbereitet");
 define("LAN_AL_BANNER_00", "Unbekannte Banner-bezogene Nachricht");
 define("LAN_AL_BANNER_01", "Banner im Menü update");
 define("LAN_AL_BANNER_02", "Banner erstellt");
