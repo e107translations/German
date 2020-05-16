@@ -61,6 +61,3 @@ define("UE_LAN_MALE", "Männlich");
 define("UE_LAN_FEMALE", "Weiblich");
 define("UE_LAN_COMMENT", "Kommentare");
 define("UE_LAN_COMMENT_DESC", "Kommentarbox");
-
-
-?>
