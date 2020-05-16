@@ -9,7 +9,6 @@
 |        $Author: Killer0561 $
 +---------------------------------------------------------------+
 */
-
 define("LAN_AUDIT_LOG_001", "Der Zugriff durch gesperrte Benutzer");
 define("LAN_AUDIT_LOG_002", "Flooding-Schutz aktiviert");
 define("LAN_AUDIT_LOG_003", "Zugang von gesperrten IP-Adresse");

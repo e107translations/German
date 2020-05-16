@@ -73,3 +73,6 @@ define("LAN_CRON_64", "Ein Administrator kann Aufgaben mithilfe von e107 Aufgabe
 define("LAN_CRON_BACKUP", "Sicherung");
 define("LAN_CRON_LOGGING", "Erfassung");
 define("LAN_CRON_RUNNING", "laufend");
+define("LAN_CRON_65", "Aktualisierung des Git-Themen-Repositorys");
+define("LAN_CRON_66", "Keine git repo gefunden");
+define("LAN_CRON_67", "Keine git repo gefunden im Theme Ordner");

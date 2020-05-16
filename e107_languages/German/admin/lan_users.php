@@ -208,6 +208,7 @@ define("USRLAN_253", "Älter als");
 define("USRLAN_254", "Alle Passwörter zurücksetzten");
 define("USRLAN_255", "Benachrichtigung verwenden");
 define("USRLAN_256", "Liebe/r");
+define("USRLAN_257", "Erlauben Sie Mitgliedern, ihr Konto zu löschen?");
 define("UCSLAN_1", "Senden einer Benachrichtigung per E-Mail an");
 define("UCSLAN_2", "Privilegien aktualisiert");
 define("UCSLAN_4", "Ihr Privilegien wurden aktualisiert als");
