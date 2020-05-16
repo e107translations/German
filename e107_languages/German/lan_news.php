@@ -43,6 +43,6 @@ define("LAN_NEWS_463", "Es gibt keine Nachrichten für die angegebene Kategorie 
 define("LAN_NEWS_100", "Am");
 define("LAN_NEWS_307", "Einträge gesamt in dieser Kategorie:");
 define("LAN_NEWS_308", "Vielleicht suchen Sie eine der folgenden Nachrichten?");
-
-
-?>
+define("LAN_NEWS_309", "Etikett");
+define("LAN_NEWS_464", "Keine neue Artikel für No news items für angegebener Tag");
+ 
