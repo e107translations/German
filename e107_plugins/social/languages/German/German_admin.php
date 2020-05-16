@@ -58,6 +58,6 @@ define("LAN_SOCIAL_ADMIN_47", "Fehlerhaft/e konfigurierte Anbieter");
 define("LAN_SOCIAL_ADMIN_48", "Diese Social-Login-Anbieter wurden in der Vergangenheit konfiguriert, verfügen aber nicht mehr über einen Adapter, der sie unterstützen kann. [br] Dies kann daran zurückzuführen sein, dass sie nicht mehr existieren oder durch einen anderen Anbieter ersetzt werden.");
 define("LAN_SOCIAL_ADMIN_49", "Test Seite");
 define("LAN_SOCIAL_ADMIN_50", "Aktivieren oder Deaktivieren der Social-Login-Testseite");
-define("LAN_SOCIAL_ADMIN_08", "Hinweis: In den meisten Fällen müssen Sie eine ID und einen geheimen Schlüssel von einem der Provider beziehen. \ n Klicken Sie auf die blauen Links zum Konfigurieren. \ n\ n Sie können Ihre Konfiguration mit folgender URL testen:");
+define("LAN_SOCIAL_ADMIN_08", "Hinweis: In den meisten Fällen müssen Sie eine ID und einen geheimen Schlüssel von einem der Provider beziehen. \ n Klicken Sie auf die blauen Links zum Konfigurieren. \ n\ n Sie können Ihre Konfiguration mit der folgenden URL testen, nachdem Sie die Option [b] Testseite [/ b] aktiviert haben:");
 define("LAN_SOCIAL_ADMIN_09", "Deine Rückruf-URL ist:");
 define("LAN_SOCIAL_ADMIN_51", "Social Login System");

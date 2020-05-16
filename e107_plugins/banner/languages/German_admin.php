@@ -35,4 +35,4 @@ define("BNRLAN_47", "Alle ausgewählten Kampagnen in separaten Menüs gerendert"
 define("BNRLAN_48", "Alle ausgewählten Kampagnen (kein Feld-Rendering)");
 define("BNRLAN_50", "Lokal");
 define("BNRLAN_51", "Rechner fern");
-define("BNRLAN_HELP_02", "Verwenden Sie dieses Plugin, um Werbung auf Ihrer Website zu verwalten.<br/ ><br /> Beim Erstellen eines neuen Banners können Sie einen Benutzernamen und ein Passwort für Ihren Kunde zum anmelden vergeben und den Fortschritt der Kampagne überprüfen.<br /><br /> Sie können das Banner-Menü mit dem Menü-Manager aktivieren und weitere Konfiguration einstellen.");
+define("BNRLAN_HELP_02", "Verwenden Sie dieses Plugin, um Werbung auf Ihrer Website zu verwalten.[br/ ][br /] Beim Erstellen eines neuen Banners können Sie einen Benutzernamen und ein Passwort für Ihren Kunde zum anmelden vergeben und den Fortschritt der Kampagne überprüfen.[br /][br /] Sie können das Banner-Menü mit dem Menü-Manager aktivieren und weitere Konfiguration einstellen.");

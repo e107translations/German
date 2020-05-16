@@ -29,6 +29,3 @@ define("BANNERLAN_34", "endet:");
 define("BANNERLAN_35", "Klick durch IP Adressen");
 define("BANNERLAN_36", "Aktiv");
 define("BANNERLAN_37", "startet:");
-
-
-?>
