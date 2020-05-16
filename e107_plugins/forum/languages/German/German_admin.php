@@ -114,7 +114,7 @@ define("FORLAN_184", "Thema Erstellungserlaubniss");
 define("FORLAN_185", "Zeigt an, wer neue Themen erstellen kann.");
 define("FORLAN_186", "Themen pro Seite");
 define("FORLAN_187", "Anzahl der Themen die pro Seite angezeigt werden.");
-define("FORLAN_189", "Klicken Sie auf die Schaltfläche 'Löschen' um den Bericht zu löschen. <br /> <br /> Klicken Sie auf 'Ansicht' , um das Thema / Thread zu sehen");
+define("FORLAN_189", "Klicken Sie auf die Schaltfläche 'Löschen' um den Bericht zu löschen. [br /] [br /] Klicken Sie auf 'Ansicht' , um das Thema / Thread zu sehen");
 define("FORLAN_200", "Thema verfolgen");
 define("FORLAN_201", "Aktivieren Sie diese Option , damit Benutzer Themen verfolgen können.");
 define("FORLAN_202", "Thema verfolgen per E-Mail -Benachrichtigungen.");
