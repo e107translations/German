@@ -120,3 +120,4 @@ define("LAN_SIGNUP_121", "Verwenden Sie eine andere E-Mail-Adresse");
 define("LAN_SIGNUP_122", "Datenschutz Bestimmungen");
 define("LAN_SIGNUP_123", "Nutzungsbedingungen");
 define("LAN_SIGNUP_124", "Mit Ihrer Registrierung stimmen Sie unseren [x] und unseren [y] zu.");
+define("LAN_SIGNUP_125", "min. [x] Zeichen.");

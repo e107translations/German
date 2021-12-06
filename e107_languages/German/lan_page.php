@@ -21,16 +21,11 @@ define("LAN_PAGE_3", "Angeforderte Seite besteht nicht");
 define("LAN_PAGE_4", "Bewerten Sie diese Seite");
 define("LAN_PAGE_5", "Danke für das Bewerten dieser Seite");
 define("LAN_PAGE_6", "Sie haben keine Berechtigung diese Seite anzusehen");
-define("LAN_PAGE_7", "Falsches Passwort");
 define("LAN_PAGE_8", "Passwortgeschützte Seite");
-define("LAN_PAGE_9", "Passwort");
-define("LAN_PAGE_10", "Übermitteln");
 define("LAN_PAGE_11", "Seiten Auflistung");
 define("LAN_PAGE_12", "Ungültige Seite");
 define("LAN_PAGE_13", "Seite");
 define("LAN_PAGE_14", "andere Artikel");
 define("LAN_PAGE_15", "Artikel");
 define("LAN_PAGE_16", "Es sind keine Kapitel in diesen Buch");
-
-
-?>
+define("LAN_PAGE_17", "Die Kommentare auf dieser Seite sind gesperrt.");
