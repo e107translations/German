@@ -71,7 +71,6 @@ Version auf Ihrer Seite verwenden, werden Sie eventuell feststellen, dass divers
 des Entwicklungsteams verändert wurden und noch kein Core Image Snapshot erstellt wurde.");
 define("FR_LAN_19", "Dateien fehlerhaft");
 define("FR_LAN_20", "Alle Dateien durchlaufen");
-define("FR_LAN_21", "Keine");
 define("FR_LAN_22", "Fehlende Kern - Dateien");
 define("FR_LAN_23", "Nichts gefunden.");
 define("FR_LAN_24", "Alte Kern - Dateien");
@@ -80,6 +79,7 @@ define("FR_LAN_26", "Warnung! Bekannter Unsicherheitsfaktor erkannt!");
 define("FR_LAN_27", "Es gibt Dateien auf Ihrem Server die ein Sicherheitsrisiko darstellen und sollten deshalb sofort gelöscht werden.");
 define("FR_LAN_28", "Unsichere Dateien");
 define("FR_LAN_32", "Sie müssen zuerst einen Scan starten!");
+define("FR_LAN_33", "Anfangen");
 define("FS_LAN_1", "Snapshot erstellen");
 define("FS_LAN_2", "Absoluter Pfad des Stammverzeichnis zum erstellen des Bild von");
 define("FS_LAN_3", "Snapshot erstellen für plugin: ( Ihr Plugin werden aufgelistet , wenn eine beschreibbare e_inspect.php Datei im Stammverzeichnis Plugins vorhanden ist. )");
@@ -92,6 +92,3 @@ define("FS_LAN_9", "Momentaufnahme");
 define("FS_LAN_10", "Momentaufnahme  wurde erstellt");
 define("FS_LAN_11", "Die Momentaufnahme wurde erfolgreich erstellt.");
 define("FS_LAN_12", "zurück zur Hauptseite");
-
-
-?>

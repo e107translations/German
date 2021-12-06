@@ -123,3 +123,5 @@ define("TPVLANHELP_02", "Weitere Informationen finden Sie in den QuickInfos (sof
 define("TPVLANHELP_03", "Standardmäßig ändert der Sichtbarkeitsfilter das Layout des Themas basierend auf einer teilweisen URL-Übereinstimmung.");
 define("TPVLANHELP_04", "Endzeilen mit einem [b]![/b], um genau mit dem Ende der URL übereinzustimmen.");
 define("TPVLANHELP_05", "Beenden Sie die Zeilen mit einem [b]$[/b], um genau mit dem Ende des Skriptpfads übereinzustimmen.");
+define("TPVLANHELP_06", "Zeilen mit einem [b]:[/b] beginnen, um teilweise oder vollständig mit e107::route() übereinzustimmen");
+define("TPVLAN_97", "Dieses Thema erfordert eine neuere Version von e107.");

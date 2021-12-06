@@ -30,6 +30,11 @@ define("LCLAN_108", "einige Auswahlen weglassen - Sie können Verbindung als ein
 define("LCLAN_109", "Bitte ein Parent auswählen");
 define("LCLAN_110", "Bitte wählen Sie einen Generatormodul");
 define("LCLAN_111", "Ungültige Generatormodul Daten");
+define("LCLAN_112", "1 - Haupt");
+define("LCLAN_113", "2 - Seitenleiste");
+define("LCLAN_114", "3 - Fußzeile");
+define("LCLAN_115", "Alt");
+define("LCLAN_116", "(Nicht zugewiesen)");
 define("LINKLAN_1", "Öffnet in einem 800x600 Fenster");
 define("LINKLAN_4", "Sublink Generator");
 define("LINKLAN_5", "Sublinks erstellen");
@@ -38,6 +43,3 @@ define("LINKLAN_7", "Unter welchem Link soll ein Sublink erstellt werden?");
 define("LINKLAN_8", "News Kategorien");
 define("LINKLAN_9", "Download Kategorien");
 define("LINKLAN_10", "Theme Shortcodes");
-
-
-?>

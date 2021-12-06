@@ -19,8 +19,7 @@ define("CUSLAN_1", "Übersicht");
 define("CUSLAN_2", "Seitentitel");
 define("CUSLAN_3", "Einträge pro Seite");
 define("CUSLAN_4", "Benutzerdefinierte Felder");
-define("CUSLAN_5", "
-(Neues Buch)");
+define("CUSLAN_5", "(Neues Buch)");
 define("CUSLAN_9", "Text.");
 define("CUSLAN_11", "Erste Seite");
 define("CUSLAN_12", "Seite/Menü erstellen");
@@ -58,6 +57,6 @@ define("CUSLAN_76", "Menü mit Pfad #");
 define("CUSLAN_77", "gelöscht");
 define("CUSLAN_78", "Kann Menü mit Pfad nicht löschen");
 define("CUSLAN_79", "Du mußt entweder einen Seitentitel oder einen Menünamen eingeben.");
-
-
-?>
+define("CUSLAN_80", "Untertitel");
+define("CUSLAN_81", "Meta-Bild");
+define("CUSLAN_82", "Optional. Wird von den sozialen Medien beim Teilen dieser Seite verwendet.");
