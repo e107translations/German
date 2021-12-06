@@ -240,6 +240,7 @@ define("LAN_FORUM_7006", "Ergebnis");
 define("LAN_FORUM_7007", "Gefunden im Thema");
 define("LAN_FORUM_7008", "NICHTS GEFUNDEN");
 define("LAN_FORUM_7009", "Keine hochgeladenen Dateien gefunden.");
+define("LAN_FORUM_7010", "Dateiname");
 define("LAN_FORUM_8001", "Ein neuer Beitrag wurde von [x] unter dem Thema [y] an [ z] gemacht.");
 define("LAN_FORUM_8002", "Bitte klicken Sie auf den folgenden Link, um den gesamten Beitrag anzuzeigen...");
 define("LAN_FORUM_8003", "E-Mail -Benachrichtigungen für diesen Thema sind jetzt eingeschaltet.");

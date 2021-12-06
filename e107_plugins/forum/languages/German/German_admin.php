@@ -138,3 +138,4 @@ define("FORLAN_219", "Rich Text Editor");
 define("FORLAN_220", "Post Editor");
 define("FORLAN_221", "Welcher Editor sollte zum Erstellen/Bearbeiten von Posts verwendet werden?");
 define("FORLAN_222", "Schneller Antwort Editor");
+define("FORLAN_223", "Verwenden Sie nur einfachen Text (kein bbcode oder html erlaubt!)");

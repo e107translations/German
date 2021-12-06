@@ -40,6 +40,4 @@ define("GSLAN_36", "Sie können auch einzelne Links manuell eingeben, indem Sie 
 define("GSLAN_37", "Nachdem Sie einige Einträge haben , gehen Sie auf [URL] und geben folgende URL ein -> <b>".SITEURL."gsitemap.php</b> - Wenn diese URL nicht direkt auf Sie sieht , stellen Sie sicher, dass Ihre Website-URL in Admin korrekt ist -> Einstellungen");
 define("GSLAN_38", "Für mehe information auf Google Sitemap protocol, gehe zur [URL].");
 define("GSLAN_39", "keine Links in der sitemap - importiere Seitenlinks?");
-
-
-?>
+define("GSLAN_50", "Für die Öffentlichkeit sichtbar");
