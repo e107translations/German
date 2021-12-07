@@ -72,3 +72,4 @@ define("LANG_LAN_151", "verfügbar");
 define("LANG_LAN_152", "Mit freundlicher Genehmigung des [e107 Übersetzungsteam]");
 define("LANG_LAN_153", "Vorabversion");
 define("LANG_LAN_154", "Das Sprachpaket wurde erstellt. Sie können es nun wie angewiesen [hier] an das Github-Repository senden.");
+define("LANG_LAN_155", "Erfordert die Installation zusätzlicher Sprachpakete.");

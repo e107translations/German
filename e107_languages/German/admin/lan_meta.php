@@ -19,6 +19,7 @@ define("METLAN_00", "Meta Tags");
 define("METLAN_1", "Meta Tags in Datenbank aktualisiert");
 define("METLAN_2", "Meta Tags eingeben");
 define("METLAN_3", "Eingabe neuer Meta Tag Einstellungen");
-
-
-?>
+define("METLAN_4", "Benutzerdefinierte Tags (innerhalb von [x]-Tags)");
+define("METLAN_5", "Benutzerdefinierte Tags (nach [x])");
+define("METLAN_6", "Benutzerdefinierte Tags (vor [x])");
+define("METLAN_7", "Alle hier eingegebenen Metadaten oder benutzerdefinierten HTML-Tags (z. B. <script>-Tags oder Google-Analytics-Code) werden auf jeder Seite der Website in den dafür vorgesehenen Bereichen eingefügt.");

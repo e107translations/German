@@ -27,6 +27,7 @@ define("LAN_CRON_04_2", "Bounce Nachtriggerung Vorgang");
 define("LAN_CRON_04_3", "Nur benötigt, wenn Nachtriggerung Verbannung aktiviert ist.");
 define("LAN_CRON_05_1", "Datenbanksicherung");
 define("LAN_CRON_05_2", "Sichern Sie die Systemdatenbank nach");
+define("LAN_CRON_06_1", "Prozess Verbot Auslöser");
 define("LAN_CRON_6", "Konnte Voreinstellungen nicht importieren");
 define("LAN_CRON_7", "Konnte Zeiteneinstellungen nicht importieren");
 define("LAN_CRON_8", "Importierte Zeitengeinstellungen für");

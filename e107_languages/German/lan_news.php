@@ -15,7 +15,6 @@
 |     $Author: lars78 $
 +----------------------------------------------------------------------------+
 */
-define("PAGE_NAME", "Neuigkeiten");
 define("LAN_NEWS_1", "Neuigkeiten nur für spezielle Mitglieder");
 define("LAN_NEWS_2", "Sie haben keine Berechtigung, diese News zu sehen");
 define("LAN_NEWS_9", "Nur Überschrift wurde gewählt - <b>Nur die Newsüberschrift wird angezeigt werden</b><br />");
@@ -40,9 +39,8 @@ define("LAN_NEWS_86", "Ältere News");
 define("LAN_NEWS_87", "Neuere News");
 define("LAN_NEWS_462", "Keine Einträge für speziellen Monat");
 define("LAN_NEWS_463", "Es gibt keine Nachrichten für die angegebene Kategorie - bitte schaue bald wieder vorbei.");
-define("LAN_NEWS_100", "Am");
+define("LAN_NEWS_464", "Keine neue Artikel für No news items für angegebener Tag");
+define("LAN_NEWS_300", "An");
 define("LAN_NEWS_307", "Einträge gesamt in dieser Kategorie:");
 define("LAN_NEWS_308", "Vielleicht suchen Sie eine der folgenden Nachrichten?");
 define("LAN_NEWS_309", "Etikett");
-define("LAN_NEWS_464", "Keine neue Artikel für No news items für angegebener Tag");
- 

@@ -52,3 +52,4 @@ define("LAN_UPDATE_56", "Systemaktualisierung");
 define("LAN_UPDATE_57", "Bevor Sie fortfahren, bitte manuell die folgenden veralteten Ordner von Ihrem System löschen:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin-aktualisierungen");
 define("LAN_UPDATE_CAPTION_CORE", "Kernaktualisierungen");
+define("LAN_UPDATE_58", "Es wird dringend empfohlen, den [Datei-Inspektor] auszuführen, nachdem Sie alle Aktualisierungen durchgeführt haben, um veraltete Dateien zu erkennen, die entfernt werden müssen.");

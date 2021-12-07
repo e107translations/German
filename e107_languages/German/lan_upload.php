@@ -24,15 +24,12 @@ define("LAN_UL_022", "Kann nach Dateityp unterschiedlich sein");
 define("LAN_UL_023", "Typ");
 define("LAN_UL_024", "Maximale Größe");
 define("LAN_UL_025", "Uploads nicht erlaubt");
-define("LAN_UL_026", "");
-define("LAN_UL_027", "");
 define("LAN_UL_032", "Sie müssen eine Kategorie auswählen");
 define("LAN_UL_033", "Sie müssen eine gültige E-Mail Adresse eingeben");
 define("LAN_UL_034", "Sie müssen den Dateinamen angeben");
 define("LAN_UL_035", "Sie müssen eine Beschreibung eingeben");
 define("LAN_UL_036", "Sie müssen die hoch zu ladende Datei angeben");
 define("LAN_UL_037", "Sie müssen eine Kategorie angeben");
-define("LAN_UL_038", "");
 define("LAN_61", "Ihr Name:");
 define("LAN_112", "E-mail Adresse:");
 define("LAN_144", "Webseiten URL:");
@@ -47,12 +44,8 @@ define("LAN_411", "Datei");
 define("LAN_413", "Beschreibung");
 define("LAN_414", "Funktionierende Demo");
 define("LAN_415", "Geben Sie hier die URL zur Seite an, wo die Demo angesehen werden kann");
-define("LAN_416", "Übermittlung und Upload");
-define("LAN_417", "Datei hochladen");
 define("LAN_418", "Maximale Dateigröße:");
-define("DOWLAN_11", "Kategorie");
 define("LAN_419", "Erlaubte Dateitypen");
 define("LAN_420", "Felder sind notwendig");
-
-
-?>
+define("LAN_UL_039", "Einreichen und Hochladen");
+define("LAN_UL_040", "Datei hochladen");
