@@ -425,4 +425,4 @@ define("LAN_PAGINATION", "Paginierung");
 define("LAN_X_CHARS_REMAINING", "[x] verbleibende Zeichen");
 define("LAN_UI_BATCH_NOW", "Aktuelles Datum/Uhrzeit");
 define("LAN_RELATIONSHIP", "Beziehung");
-define("LAN_RELATIONSHIP_HELP", "Fakultatives Attribut "rel". durch Komma getrennt.");
+define("LAN_RELATIONSHIP_HELP", "Fakultatives Attribut 'rel'. durch Komma getrennt.");
