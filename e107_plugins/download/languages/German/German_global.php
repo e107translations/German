@@ -11,7 +11,7 @@
 */
 
 define("LAN_PLUGIN_DOWNLOAD_NAME", "Downloads");
-define("LAN_PLUGIN_DOWNLOAD_DIZ", "This plugin is a fully featured File-download system");
+define("LAN_PLUGIN_DOWNLOAD_DIZ", "Dieses Plugin ist ein voll funktionsfähiges Datei-Download-System");
 define("LAN_DL_NT_01", "Download wird als defekt gemeldet");
 define("LAN_DL_NT_02", "Der folgende Download wurde als defekt gemeldet:");
 define("LAN_DL_NT_03", "Es wurde von [x] mit der folgenden Nachricht gemeldet:");
