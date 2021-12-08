@@ -27,6 +27,3 @@ define("NLLAN_69", "Keine Newsletter zum senden verfügbar.");
 define("NLLAN_70", "Ausgewählte Newsletter existiert nicht");
 define("NLLAN_72", "zeige Archive");
 define("NLLAN_73", "Gebe eine E-Mail Adresse ein");
-
-
-?>
