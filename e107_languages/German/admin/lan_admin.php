@@ -131,8 +131,7 @@ define("ADLAN_171", "Installieren Sie das Site Stats Plugin");
 define("ADLAN_185", "Seitenleiste ein / ausschalten");
 define("ADLAN_186", "Die folgenden alten Dateien können sicher aus Ihrem System gelöscht werden:");
 define("ADLAN_187", "Kann [x] nicht erstellen. Bitte überprüfen Sie Ihre Ordnerberechtigungen");
-define("ADLAN_188", "Ihre Zeitzoneneinstellung [x] ist ungültig. 
-Es wurde auf UTC zurückgesetzt. Um es zu ändern, gehen Sie bitte zu Admin -> Einstellungen -> Datumsanzeigeoptionen.");
+define("ADLAN_188", "Ihre Zeitzoneneinstellung [x] ist ungültig. Es wurde auf UTC zurückgesetzt. Um es zu ändern, gehen Sie bitte zu Admin -> Einstellungen -> Datumsanzeigeoptionen.");
 define("ADLAN_189", "Die folgenden Plugins sind nicht mit dieser Version von e107 kompatibel und sollten deinstalliert werden:");
 define("ADLAN_190", "Hilfe benötigt?");
 define("ADLAN_191", "Kontaktieren Sie unsere Community für [kostenlosen Support], wenn Sie Probleme beim Upgrade haben.");
