@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_GALLERY_ADMIN_01", "[x] ist aktiv. Importieren und übernehmen Sie Bilder einfach den Galeriekategorien");
-define("LAN_GALLERY_ADMIN_02", "Generell");
+//define("LAN_GALLERY_ADMIN_02", "Generell");
 define("LAN_GALLERY_ADMIN_03", "Diashow Menü");
 define("LAN_GALLERY_ADMIN_04", "Max Breite des Bildes");
 define("LAN_GALLERY_ADMIN_05", "Bilder werden automatisch größer als die hier angegebene Breite.");
@@ -53,7 +53,7 @@ define("LAN_GALLERY_ADMIN_41", "Standardbreite");
 define("LAN_GALLERY_ADMIN_42", "Standardhöhe");
 define("LAN_GALLERY_ADMIN_43", "Zählertrennzeichen Marke");
 define("LAN_GALLERY_ADMIN_44", "Das Trennzeichen für den Galeriezähler 1 \"von\" 2");
-define("LAN_GALLERY_ADMIN_45", "Theme");
+//define("LAN_GALLERY_ADMIN_45", "Theme");
 define("LAN_GALLERY_ADMIN_46", "Horizontal Füllung");
 define("LAN_GALLERY_ADMIN_47", "Die Füllung auf jeder Seite des Bildes.");
 define("LAN_GALLERY_ADMIN_48", "Flash verstecken");
@@ -80,6 +80,3 @@ define("LAN_GALLERY_ADMIN_68", "Dunkles Quadrat");
 define("LAN_GALLERY_ADMIN_69", "Facebook");
 define("LAN_GALLERY_ADMIN_70", "schönes Foto weltweit  laden");
 define("LAN_GALLERY_ADMIN_71", "schönes Foto Merkmal (Haken)");
-
-
-?>
