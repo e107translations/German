@@ -102,7 +102,7 @@ define("LAN_FORUM_1013", "Ankündigung");
 define("LAN_FORUM_1014", "Thema geschlossen");
 define("LAN_FORUM_1015", "[benutzer gelöscht]");
 define("LAN_FORUM_1016", "Umfrage");
-define("LAN_FORUM_1017", "weiter");
+define("LAN_FORUM_1017", "Gehe zu");
 define("LAN_FORUM_1018", "neues Thema");
 define("LAN_FORUM_1020", "modifizieren");
 define("LAN_FORUM_1021", "keine Antworten");
