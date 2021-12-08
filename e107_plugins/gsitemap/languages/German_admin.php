@@ -35,7 +35,7 @@ define("GSLAN_29", "Google Sitemap Konfiguration");
 define("GSLAN_32", "So verwendet man Google Sitemaps");
 define("GSLAN_33", "GSiteMap Anweisungen");
 define("GSLAN_34", "Erstellen Sie zuerst die Links, die Sie in Ihrer Sitemap aufgelistet haben möchten. Können Sie die meisten Ihrer Links importieren, indem Sie auf die Schaltfläche "Importieren" auf der rechten Seite klicken,");
-define("GSLAN_35", "Wenn Sie Ihre Links ausgewählt haben, klicken Sie auf "Importieren" und anschließend auf die Links, die Sie importieren möchten.");
+define("GSLAN_35", "Wenn Sie Ihre Links ausgewählt haben, klicken Sie auf 'Importieren' und anschließend auf die Links, die Sie importieren möchten.");
 define("GSLAN_36", "Sie können auch einzelne Links manuell eingeben, indem Sie auf 'Neuen Eintrag erstellen' klicken.");
 define("GSLAN_37", "Nachdem Sie einige Einträge haben , gehen Sie auf [URL] und geben folgende URL ein -> <b>".SITEURL."gsitemap.php</b> - Wenn diese URL nicht direkt auf Sie sieht , stellen Sie sicher, dass Ihre Website-URL in Admin korrekt ist -> Einstellungen");
 define("GSLAN_38", "Für mehe information auf Google Sitemap protocol, gehe zur [URL].");
