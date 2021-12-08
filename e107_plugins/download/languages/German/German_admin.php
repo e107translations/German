@@ -148,7 +148,7 @@ define("DOWLAN_HELP_7", "Hilfe für Mirror");
 define("DOWLAN_HELP_8", "Hilfe für Upload-Liste");
 define("DOWLAN_HELP_9", "Hilfe für Upload-Typen");
 define("DOWLAN_HELP_10", "Hilfe für Upload Optionen");
-define("DOWLAN_HELP_11", "Klicken Sie auf die Schaltfläche "Löschen", um den Bericht zu löschen. [br] [br] Klicken Sie auf die Schaltfläche "Ansicht", um den Download zu verwalten. [br] [br] Um über neue Berichte benachrichtigt zu werden, sehen Sie bitte die [Benachrichtigungseinstellungen].");
+define("DOWLAN_HELP_11", "Klicken Sie auf die Schaltfläche 'Löschen', um den Bericht zu löschen. [br] [br] Klicken Sie auf die Schaltfläche 'Ansicht', um den Download zu verwalten. [br] [br] Um über neue Berichte benachrichtigt zu werden, sehen Sie bitte die [Benachrichtigungseinstellungen].");
 define("LAN_DL_SECURITY_DESCRIPTION", "Bei Downloads können serverseitige URL-Schutzfunktionen verwendet werden, um Hotlinks zu verhindern und/oder den Link-Ablauf zu erzwingen. Msgstr " . "Dieser Abschnitt sollte vor der Konfiguration des Download-Servers konfiguriert werden, um die Möglichkeit einer Unterbrechung der Downloader zu verringern.");
 define("LAN_DL_SECURITY_MODE", "URL Schutzmodus");
 define("LAN_DL_SECURITY_MODE_NONE", "Keine (Standard)");
