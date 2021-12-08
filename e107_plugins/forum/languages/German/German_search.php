@@ -16,10 +16,8 @@
 +----------------------------------------------------------------------------+
 */
 
-define("FOR_SCH_LAN_1", "Forum");
+//define("FOR_SCH_LAN_1", "Forum");
 define("FOR_SCH_LAN_2", "Suche im Forum");
-define("FOR_SCH_LAN_3", "Alle Foren");
+//define("FOR_SCH_LAN_3", "Alle Foren");
 define("FOR_SCH_LAN_4", "Ganzer Post");
 define("FOR_SCH_LAN_5", "Als Teil des Threads");
-
-?>
