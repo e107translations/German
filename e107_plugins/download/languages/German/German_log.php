@@ -24,6 +24,3 @@ define("LAN_AL_DOWNL_08", "Downloads - log 08");
 define("LAN_AL_DOWNL_09", "Downloads - log 09");
 define("LAN_AL_DOWNL_10", "Downloads - Limit aktualisiert");
 define("LAN_AL_DOWNL_11", "Downloads - Limit entfernt");
-
-
-?>
