@@ -359,8 +359,7 @@ define("LAN_USER_PRUNE", "Prune Benutzer");
 define("LAN_USER_OPTIONS", "Benutzer Optionen");
 define("LAN_USER_RANKS", "Benutzerränge");
 define("LAN_CONTROL_PANEL", "[x]'s Konsole");
-define("LAN_CUSTOM_URL", "eigene URL
-eigene URL");
+define("LAN_CUSTOM_URL", "eigene URL");
 define("LAN_CUSTOM_URL_DISABLED", "Deaktiviere oder gebe eigene URL ein.");
 define("LAN_GENERAL", "Generell");
 define("LAN_GEN_PW", "generiere ein Passwort");
