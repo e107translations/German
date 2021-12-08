@@ -10,8 +10,5 @@
 +---------------------------------------------------------------+
 */
 
-define("LAN_PLUGIN_LINKWORDS_NAME", "Linkwords");
-define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "This plugin will link specified words with a defined link and/or tooltip.");
-
-
-?>
+define("LAN_PLUGIN_LINKWORDS_NAME", "Linkwörter");
+define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Dieses Plugin verknüpft bestimmte Wörter mit einem definierten Link und/oder Tooltip.");
