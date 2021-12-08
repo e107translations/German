@@ -18,5 +18,3 @@ define("BLOGCAL_CONF2", "Zellenfüllung");
 define("BLOGCAL_CONF4", "BlogCal Menü Konfiguration");
 //define("BLOGCAL_CONF5", "BlogCal menu configuration saved");
 define("BLOGCAL_ARCHIV1", "Archiv auswählen");
-	
-?>
