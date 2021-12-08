@@ -17,6 +17,3 @@ define("LAN_PLUGIN_GALLERY_SEF_01", "Galerie SEF");
 define("LAN_PLUGIN_GALLERY_SEF_02", "SEF URLs aktiviert.");
 define("LAN_PLUGIN_GALLERY_SEF_03", "SEF URLs deaktiviert");
 define("LAN_PLUGIN_GALLERY_SEF_04", "Galerie Standard");
-
-
-?>
