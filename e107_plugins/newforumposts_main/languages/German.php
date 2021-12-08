@@ -41,6 +41,3 @@ define("NFPM_L21", "Wichtiger Beitrag");
 define("NFPM_L22", "Geschlossener wichtiger Beitrag");
 define("NFPM_L23", "Ankündigung");
 define("NFPM_L24", "Geschlossener Beitrag");
-
-
-?>
