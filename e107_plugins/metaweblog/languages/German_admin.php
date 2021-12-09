@@ -102,4 +102,3 @@ define ('ADSTAT_LAN_84', 'This proceedure will overwrite the log statistic summa
 define ('ADSTAT_LAN_85', '[x] log files have been found. Click the button below to process these files.');
 define ('ADSTAT_LAN_86', 'Total Hits');
 
-?>
