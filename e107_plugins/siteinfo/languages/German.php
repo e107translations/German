@@ -22,6 +22,3 @@ define("COUNTER_L5", "einzigartig");
 define("COUNTER_L6", "Seite");
 define("COUNTER_L7", "Ausgabe");
 define("COUNTER_L8", "Admin Nachricht : <b> Statistik Protokollierung ist deaktiviert </ b><br /> Zum Aktivieren der Statistikaufzeichnung -Plugin von Ihrem <a href='".e_ADMIN."plugin.php'>müssen Sie im Plugin-Manager installieren</a> dann aktivieren Sie es in der<a href='".e_PLUGIN."log/admin_config.php'> Konfiguration</a> .");
-
-
-?>
