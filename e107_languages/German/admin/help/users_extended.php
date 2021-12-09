@@ -20,4 +20,3 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Mit erweiterten Benutzerfeldern können Sie zusätzliche Datentypen hinzufügen, die ein Benutzer als Teil seines Profils angeben kann. ";
 $ns -> tablerender(" Erweiterte Benutzerfelder Hilfe", $text);
-?>

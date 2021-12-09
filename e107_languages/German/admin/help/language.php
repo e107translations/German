@@ -20,4 +20,4 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Wenn Sie eine neue Sprache auswählen, erlaubt dies Ihnen Ihre Inhalte in der neuen Sprache anzeigen zu lassen.";
 $ns -> tablerender("Sprache Hilfe", $text);
-?>
+

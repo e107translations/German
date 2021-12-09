@@ -29,4 +29,4 @@ Die Eingabe einer IP-Addresse mit einem oder mehreren Platzhaltern in den EndblÃ
 Geben Sie die Adresse mane@email.de ein wird jeder, der die genannte E-Mail verwendet gesperrt und kann sich nicht registrieren. Das ist i.d.R. nur eine Person, bzw. ein Nutzerkreis, der Zugang zu den Registrierungsdaten hat.<br />
 Geben Sie jetzt *@email.de ein, dann kann NIEMAND der seine E-Mail bei der genannten Domain hat sich registrieren! Bitte seien Sie deshalb umsichtig im Umgang mit den Sperrcodes.";
 $ns -> tablerender($caption, $text);
-?>
+

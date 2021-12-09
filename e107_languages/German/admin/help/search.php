@@ -21,4 +21,4 @@ if (!defined('e107_INIT')) { exit; }
 $text = "Wenn Ihre Version MySql-Server unterstützt, können Sie zu der MySql-Sortiermethode wechseln, die schneller als die PHP-Sortiermethode ist. Siehe Voreinstellungen.<br /><br />
 Falls Sie auf Ihrer Seite Ideographic-Sprachen wie Chinesiche oder Japanisch verwenden, sollten Sie php als Suchmethode verwendenu nd schalten Sie die gesamte Wortabstimmung aus.";
 $ns -> tablerender("Such Hilfe", $text);
-?>                                        
+                                        

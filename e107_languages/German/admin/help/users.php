@@ -19,4 +19,4 @@ $text = "Hier moderieren Sie die registrierten Benutzer. Sie Können ihre Einste
 ";
 $ns -> tablerender("Benutzer Hilfe", $text);
 unset($text);
-?>
+

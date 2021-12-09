@@ -22,4 +22,4 @@ $text = "Von dieser Seite aus, können Sie eigene Seiten - eigene Menüs erstell
 // $text .= "Für Näheres besuchen Sie bitte <a href='http://docs.e107.org/Using Custom Pages and Custom Menus'>http://docs.e107.org/Using Custom Pages and Custom Menus</a> um einen Einblick in die Features dieser Möglichkeit zu erhalten.";
 
 $ns -> tablerender('Eigene Menüs/Seiten Hilfe', $text);
-?>
+

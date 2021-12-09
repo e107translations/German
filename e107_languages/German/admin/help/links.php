@@ -20,4 +20,4 @@ $text = "Geben Sie Ihre Seitenlinks hier ein. Hier eingetragene Links, werden im
 <br />
 Der Submenügenerator ist nur für e107 DHTML-Menüs sinnvoll. (TreeMenu, UltraTreeMenu, eDynamicMenu, ypSlideMenu...)";
 $ns -> tablerender("Links Hilfe", $text);
-?>
+

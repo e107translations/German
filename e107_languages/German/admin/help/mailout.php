@@ -20,4 +20,3 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Verwenden Sie diese Seite, um Ihre E-Mail-Einstellungen für Websiteweite Mailing-Funktionen zu konfigurieren. Das E-Mail-Formular ermöglicht es Ihnen auch, eine Mail-Shot an alle Ihre Benutzer senden.";
 $ns -> tablerender("Mail Hilfe", $text);
-?>

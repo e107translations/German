@@ -19,4 +19,4 @@ $text = "Bitte laden Sie die Dateien in den Ordner ".e_DOWNLOAD.", die Bilder in
 <br /><br />
 Um einen Download zu übermitteln, müssen Sie zuerst eine Hauptkategorie erstellen, z.B. Fotos. Dann erstellen Sie eine oder meherer Unterkategorien, wie z.B. JPEG-Bilder, TIFF-Bilder usw. In diese Unterkategorien können Sie dann über 'Download erstellen' Ihre Downloads zur Verfügung stellen.";
 $ns -> tablerender("Download Hilfe", $text);
-?>
+
