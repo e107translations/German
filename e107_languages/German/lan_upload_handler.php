@@ -36,4 +36,3 @@ define("LANUPLOAD_18", "Die hochgeladene Datei überschreitet das erlaubte Limit
 define("LANUPLOAD_19", "Es wurden zu viele Datein hochgeladen. Vorgang gelöscht.");
 
 
-?>

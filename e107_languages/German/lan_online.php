@@ -66,4 +66,3 @@ define("REVIEW", "Bericht");
 define("OTHER", "andere Seite");
 
 
-?>

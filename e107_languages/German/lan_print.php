@@ -29,4 +29,3 @@ define("LAN_PRINT_307", "Diese Seite drucken");
 
 define("LAN_PRINT_1", "Druckerfreundlich");
 
-?>

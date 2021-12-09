@@ -18,4 +18,3 @@
 define("LAN_SITELINKS_183", "Hauptmenü");
 define("LAN_SITELINKS_502", "Admin Bereich");
 
-?>

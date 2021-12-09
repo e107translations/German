@@ -41,4 +41,3 @@ define("SUBNEWSLAN_12", "Benutzt durch Facebook etc.");
 define("SUBNEWSLAN_13", "Medien URLs");
 
 
-?>

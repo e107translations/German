@@ -30,4 +30,3 @@ define("LAN_LIBRARY_MANAGER_31", "Verwenden Sie CDN für Kernbibliotheken");
 define("LAN_LIBRARY_MANAGER_32", "CDN Anbieter");
 
 
-?>

@@ -23,4 +23,3 @@ define("LAN_MEMBERS_3", "oder <a href='".e_SIGNUP."'>[Registrieren]</a> Sie sich
 define("LAN_MEMBERS_4", "Klicken sie hier um zur ersten Seite zurückzukehren");
 
 
-?>

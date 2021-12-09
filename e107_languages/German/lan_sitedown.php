@@ -18,4 +18,3 @@
 define("PAGE_NAME", "Vorübergehend geschlossen ");
 define("LAN_SITEDOWN_00", "ist vorübergehend geschlossen");
 define("LAN_SITEDOWN_01", "Diese Seite wurde vorübergehend geschlossen, um wichtige Wartungsarbeiten durchzuführen. Das sollte nicht lange dauern. Bitte kommen Sie bald wieder. Wir bitten um Entschuldigung für diesen Umstand.");
-?>
