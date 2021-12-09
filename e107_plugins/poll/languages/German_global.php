@@ -14,6 +14,3 @@
 
 define("LAN_PLUGIN_POLL_NAME", "Umfragen");
 define("LAN_PLUGIN_POLL_DESCRIPTION", "Dieses Plugin ermöglicht es Ihnen Umfragen/Abstimmungen zu schalten, entweder im Menü oder im Forum.");
-
-
-?>
