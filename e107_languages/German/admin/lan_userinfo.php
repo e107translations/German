@@ -23,4 +23,3 @@ define("USFLAN_5", "Klicken Sie hier um diese IP Adresse auf die Verbannungs Sei
 define("USFLAN_6", "BenutzerID");
 define("USFLAN_7", "Benutzer Information");
 
-?>

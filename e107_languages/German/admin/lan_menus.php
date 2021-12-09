@@ -60,4 +60,3 @@ define("MENLAN_59", "Bereich [x]");
 define("MENLAN_60", "Dieses Theme verwendet veraltete Elemente. Alle [x] HEADER- und [x] FOOTER-Variablen sollten aus theme.php entfernt werden.");
 
 
-?>

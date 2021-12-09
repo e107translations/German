@@ -46,4 +46,3 @@ define("NF_LAN_2", "Datei hochgeladen durch Benutzer");
 define("LAN_NOTIFY_01", "Ereignisse");
 
 
-?>

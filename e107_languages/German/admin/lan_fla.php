@@ -28,4 +28,3 @@ define("FLALAN_17", "Auto-Verbannungsliste gelöscht");
 define("FLALAN_18", "IP-Adresse konnte nicht verbannt werden --IP-- - ist auf der Weissenliste");
 
 
-?>

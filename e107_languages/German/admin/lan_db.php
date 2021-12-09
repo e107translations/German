@@ -125,4 +125,3 @@ define("DBLAN_120", "Starten der Datensicherung");
 define("DBLAN_121", "verschiebe [x] nach [y].");
 
 
-?>

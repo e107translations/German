@@ -50,4 +50,3 @@ define("LANG_LAN_120", "Bitte stellen Sie sicher, dass Sie die Standardordnernam
 define("LANG_LAN_AGR", "Hinweis: Durch die Verwendung dieser Werkzeuge, stimmen Sie zu, Ihre Sprachpaket (e) mit der e107 Gemeinschat teilen.");
 
 
-?>

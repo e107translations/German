@@ -35,4 +35,3 @@ define("LAN_VALIDATE_204", "Dateigröße ist niedriger als die erlaubte Minimalg
 define("LAN_VALIDATE_FAILMSG", "[x] validierungs Fehler: [y] [z].");
 
 
-?>
