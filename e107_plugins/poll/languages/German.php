@@ -28,6 +28,3 @@ define("POLLAN_42", "Es können nur Administratoren an Umfragen teilnehmen");
 define("POLLAN_43", "Sie haben keine Berechtigung in dieser Umfrage abzustimmen");
 define("POLLAN_50", "Aktiv von [x] bis [y]");
 define("LAN_FORUM_3029", "Wenn Sie nicht möchten, dass eine Umfrage zu Ihrem Thema hinzufügt werden soll , lassen Sie die Felder leer .");
-
-
-?>
