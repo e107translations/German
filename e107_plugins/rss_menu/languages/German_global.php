@@ -14,6 +14,3 @@ define("LAN_PLUGIN_RSS_NAME", "RSS");
 define("LAN_PLUGIN_RSS_DESCRIPTION", "RSS Feeds von deiner Seite.");
 define("LAN_PLUGIN_RSS_SUBSCRIBE", "abonnieren");
 define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "abonnieren nach [x]");
-
-
-?>
