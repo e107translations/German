@@ -21,4 +21,3 @@ define("LAN_STAT_HELP_05", "<b> Protokollierung aktivieren </ b><br /> Keine Pro
 define("LAN_STAT_HELP_06", "");
 
 
-?>
