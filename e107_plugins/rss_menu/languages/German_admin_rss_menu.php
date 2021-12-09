@@ -66,6 +66,3 @@ define("RSS_LAN_ADMIN_33", "Anzeigen Bild im News Feed?");
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@nospam.com");
 define("RSS_LAN_3", "noauthor@NOSPAM.com");
-
-
-?>
