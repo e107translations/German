@@ -37,4 +37,3 @@ define('LAN_CKUSER_18','Benutzer A');
 define('LAN_CKUSER_19','Benutzer B');
 define('LAN_CKUSER_20','');
 
-?>

@@ -40,4 +40,3 @@ define("MDCLAN_19", "");
 define("MDCLAN_20", "");
 
 
-?>

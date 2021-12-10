@@ -9,6 +9,8 @@
 |        $Author: yak $
 +---------------------------------------------------------------+
 */
+if (!defined("e107_INIT")) { exit; }
+
 define("LAN_CONVERT_03", "Sie müssen mit einer sauberen E107-Datenbank, als der Haupt Administratorbenutzer starten (ID = 1)");
 define("LAN_CONVERT_04", "Felder leer gelassen, bitte gehen Sie zurück und geben Sie die Werte erneut ein.");
 define("LAN_CONVERT_05", "Die Ausführung dieses Skripts kann viele Ihrer E107-Tabellen leeren - Stellen Sie sicher, dass Sie eine vollständige Sicherung haben, bevor Sie fortfahren!");

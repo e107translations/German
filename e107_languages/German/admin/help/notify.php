@@ -27,4 +27,3 @@ If you would like the email notifications to be sent to an alternative email add
 enter in the email address in the field provided.";
 
 $ns -> tablerender("Notify Help", $text);
-?>

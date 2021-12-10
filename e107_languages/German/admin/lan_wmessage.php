@@ -24,4 +24,3 @@ define("WMLAN_12", "Willkommennachricht Hilfe");
 define("WMLAN_13", "Auf dieser Seite können Sie eine Nachricht festlegen, die am oberen Rand Ihrer Vorderseite angezeigt wird, sobald sie aktiviert ist.Sie können eine andere Nachricht für Gäste, registrierte / angemeldeten Mitglieder und Administratoren festlegen.");
 
 
-?>

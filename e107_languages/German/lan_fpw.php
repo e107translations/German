@@ -58,4 +58,3 @@ define("LAN_FPW_101", "Machen sie sich keine Sorgen. Geben Sie einfach Ihre E-Ma
 define("LAN_FPW_102", "Passwort zurücksetzten");
 
 
-?>

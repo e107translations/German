@@ -101,4 +101,3 @@ define("ADSTAT_LAN_90", "Daten gespeichert in Datenbank mit ID: [x]");
 define("ADSTAT_LAN_91", "Die Daten konnten nicht mit der ID gespeichert werden: [x]");
 
 
-?>

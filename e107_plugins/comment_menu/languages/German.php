@@ -23,6 +23,3 @@ define("CM_L8", "Neue Kommentare Menü Konfiguration");
 define("CM_L11", "am");
 define("CM_L12", "Re:");
 define("CM_L13", "Geschrieben von");
-
-
-?>

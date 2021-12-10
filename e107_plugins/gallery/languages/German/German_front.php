@@ -11,6 +11,3 @@
 */
 define("LAN_GALLERY_FRONT_01", "Mit Rechtsklick > Ziel speichern unter");
 define("LAN_GALLERY_FRONT_02", "Erweitern Sie das Bild");
-
-
-?>

@@ -26,6 +26,3 @@ define("LAN_PLUGIN_PM_READ", "gelesen");
 define("LAN_PLUGIN_PM_DEL", "PN löschen");
 define("LAN_PLUGIN_PM_ATTACHMENT", "Anhang");
 define("LAN_PLUGIN_PM_SIZE", "Größe");
-
-
-?>

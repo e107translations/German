@@ -65,6 +65,3 @@ define("LIST_FORUM_6", "am:");
 define("LIST_LAN_1", "Keine Artikel in");
 define("LIST_DOWNLOAD_1", "Downloads");
 define("LIST_DOWNLOAD_2", "Keine Downloads");
-
-
-?>

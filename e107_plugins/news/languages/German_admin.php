@@ -22,6 +22,3 @@ define("LAN_NEWS_ADMIN_08", "Archiv Link anzeigen");
 define("LAN_NEWS_ADMIN_09", "Begrenzungen");
 define("LAN_NEWS_ADMIN_10", "Anzahl der Artikelmerkmale");
 define("LAN_NEWS_ADMIN_11", "Zugeordnete Elemente die mit einer Vorlage zugeordnet 'Nachrichten Karussell'");
-
-
-?>

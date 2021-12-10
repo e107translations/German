@@ -42,4 +42,3 @@ define("FMLAN_50", "Verschieben");
 define("FMLAN_51", "Unbekannter Fehler:");
 
 
-?>

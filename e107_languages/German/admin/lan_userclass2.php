@@ -65,4 +65,3 @@ define("UCSLAN_90", "Du kannst/nicht einige System Benutzerklassen bearbeiten!")
 define("UCSLAN_91", "Klassenstruktur");
 
 
-?>

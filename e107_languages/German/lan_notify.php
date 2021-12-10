@@ -32,4 +32,3 @@ define("NT_LAN_ND_1", "Newseintrag gelöscht");
 define("NT_LAN_ND_2", "Newseintrags Id gelöscht");
 
 
-?>

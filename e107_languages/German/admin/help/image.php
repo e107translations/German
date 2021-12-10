@@ -20,4 +20,3 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Von hier aus können Sie erlauben oder verweigern. Die Möglichkeit für Benutzer Bilder auf der Seite zu benutzen. Setzen Sie die Größenmethode und die Ansicht hochgeladener Avatare.";
 $ns -> tablerender("Bilder Hilfe", $text);
-?>

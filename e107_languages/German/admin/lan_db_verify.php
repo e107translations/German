@@ -38,4 +38,3 @@ define("DBVLAN_25", "Index fehlt!");
 define("DBVLAN_26", "[x] Tabelle(n) haben Probleme.");
 
 
-?>

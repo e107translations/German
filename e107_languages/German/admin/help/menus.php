@@ -49,4 +49,4 @@ Sollten Sie der Meinung sein, dass die Ansicht nicht Ihren Einstellungen entspri
 ";
 
 $ns -> tablerender("Menüs Hilfe", $text);
-?>
+

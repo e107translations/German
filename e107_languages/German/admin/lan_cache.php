@@ -42,4 +42,3 @@ define("CACLAN_29", "Konsolidieren und JavaScript-Dateien und Cascading Styleshe
 define("CACLAN_30", "JS/CSS Cache leeren");
 
 
-?>

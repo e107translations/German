@@ -30,4 +30,3 @@ define("LAN_NP_URLCURRENT", "derzeit angesehen");
 define("NP_CAPTION", "Seite [x] von [y]");
 
 
-?>

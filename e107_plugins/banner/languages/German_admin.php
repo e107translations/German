@@ -9,7 +9,7 @@
 |        $Author: Yak $
 +---------------------------------------------------------------+
 */
-define("BNRLAN_00", "Keine Banner noch erstellt.");
+define("BNRLAN_00", "Noch keine Banner erstellt.");
 define("BNRLAN_01", "Banner-ID nicht gefunden.");
 define("BNRLAN_11", "Kampagne");
 define("BNRLAN_12", "Kundenlogin");
@@ -17,7 +17,7 @@ define("BNRLAN_15", "Klicken Sie auf URL");
 define("BNRLAN_16", "Anzahl der Seitenaufrufe gekauft");
 define("BNRLAN_25", "Fügen Sie neuer hinzu oder wählen Sie vorhandene Kampagne");
 define("BNRLAN_28", "Fügen Sie neuer hinzu oder wählen vorhandenen client");
-define("BNRLAN_29", "Geben Sie Neukunde");
+define("BNRLAN_29", "Geben Sie Neukunde ein");
 define("BNRLAN_31", "Keine Begrenzung, wenn leer gelassen.");
 define("BNRLAN_32", "Bannerbild wählen");
 define("BNRLAN_33", "Schlüssel");

@@ -12,6 +12,3 @@
 
 define("LAN_PLUGIN_NEWSFEEDS_NAME", "Newsfeeds");
 define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Mit diesem Plugin können Sie Newsfeeds von anderen Webseiten auf Ihrer Seite einspeisen, abhängig von Ihren Voreinstellungen.");
-
-
-?>

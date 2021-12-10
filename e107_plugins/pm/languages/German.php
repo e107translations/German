@@ -100,4 +100,3 @@ define("LAN_PM_114", "Du hast keine Berechtigung diesen Benutzer eine Nachricht 
 define("LAN_PM_115", "Benutzer nicht gefunden");
 
 
-?>

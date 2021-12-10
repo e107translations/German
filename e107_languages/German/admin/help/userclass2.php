@@ -21,4 +21,4 @@ Das Gleiche machen Sie dann für die Nutzer, die Sie in bestimmte Bereich lassne
 TIPP:<br />
 Löschen Sie möglichst NIE eine ganze Klasse, wenn Sie sich nicht ABSOLUT sicher sind! Es gibt KEINE Möglichkeit einmal gelöschte Klassen wieder herzustellen!";
 $ns -> tablerender($caption, $text);
-?>
+

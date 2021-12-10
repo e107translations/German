@@ -76,4 +76,3 @@ define("BANNER_MENU_L10", "Anzeige Modus");
 define("BANNER_MENU_L18", "Menüeinstellungen aktualisieren");
 define("BANNER_MENU_L19", "Anzahl der Banner die angezeigt werden sollen:<br />nur wirksam, wenn Sie multiple Kampagnen ausgewählt haben");
 
-?>

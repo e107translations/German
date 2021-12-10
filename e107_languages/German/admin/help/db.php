@@ -20,4 +20,4 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Diese Sammlung an Tools ermöglicht es Ihnen, Ihre Datenbank zu verwalten.";
 $ns -> tablerender("Datenbank Tools", $text);
-?>
+

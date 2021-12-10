@@ -36,6 +36,3 @@ define("LAN_ONLINE_ADMIN_7", "erweiterte Mitgliederliste Online anzeigen?");
 define("LAN_ONLINE_ADMIN_8", "Zeigt eine mit Komma getrennte Liste der Mitglieder.");
 define("LAN_ONLINE_ADMIN_9", "Zeigt eine Liste der Mitglieder einer Seite angezeigt wird.");
 define("LAN_ONLINE_ADMIN_10", "Gäste online anzeigen.");
-
-
-?>

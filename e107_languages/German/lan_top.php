@@ -32,4 +32,3 @@ define("LAN_7", "Meist aktiven Threads");
 define("LAN_8", "Top Schreiber");
 
 
-?>

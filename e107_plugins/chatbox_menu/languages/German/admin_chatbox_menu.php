@@ -28,7 +28,6 @@ define("CHBLAN_12", "Anzahl der angezeigten Einträge in der Chatbox");
 //define("CHBLAN_18", "words longer than the number you set here will be wrapped");
 //define("CHBLAN_19", "Update Chatbox Settings");
 define("CHBLAN_20", "Chatbox Einstellungen");
-define("LAN_PRUNE", "Prune");
 define("CHBLAN_22", "Chatboxeinträge einer bestimmten Zeitperiode löschen");
 define("CHBLAN_23", "Chatboxeinträge löschen, die älter sind als ");
 
@@ -54,8 +53,3 @@ define("CHBLAN_38", "Use javascript code to update posts dynamically (AJAX)");
 // define('CHBLAN_40', 'Chatbox');
 // define('CHBLAN_41', 'Chatbox Menu');
 define("CHBLAN_42", "Javascript Code verwenden um Einträge dynamisch zu aktualisieren (AJAX)");
-
-
-
-
-?>

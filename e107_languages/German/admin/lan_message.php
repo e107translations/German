@@ -31,4 +31,3 @@ define("MESSLAN_12", "Nachricht");
 define("MESSLAN_13", "Link");
 
 
-?>

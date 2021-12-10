@@ -5,6 +5,4 @@
 
 define("LAN_PLUGIN__BLANK_NAME", "Leeres Plugin");
 define("LAN_PLUGIN__BLANK_DIZ",  "Ein leeres Plugin um ihnen zu helfen beim starten der Plugin Entwicklung. Mehr Details können hier hinzugefügt werden."); 
-define("LAN_PLUGIN__BLANK_LINK", "Lerrer Link");
-
-?>
+define("LAN_PLUGIN__BLANK_LINK", "Leerer Link");

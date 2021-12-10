@@ -24,4 +24,3 @@ define("UDALAN_6", "Passwort wiederholen");
 define("UDALAN_7", "Passwort ändern");
 define("UDALAN_8", "Passwort Aktualisierung für");
 
-?>

@@ -25,4 +25,3 @@ define("LANMAILH_7", " scheint gültig zu sein.");
 
 
 
-?>

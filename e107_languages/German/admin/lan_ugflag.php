@@ -26,4 +26,3 @@ define('UGFLAN_6', 'Frei lassen, um vorgegebenen Text zu verwenden.');
 define('UGFLAN_8', 'Zugriff nur für Admins');
 define('UGFLAN_9', 'Zugriff nur für Haupt Admins');
 
-?>

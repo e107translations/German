@@ -14,6 +14,3 @@ define("LAN_AL_GSMAP_01", "Importiere Seitenlinks");
 define("LAN_AL_GSMAP_02", "Sitemap Link wurde gelöscht.");
 define("LAN_AL_GSMAP_03", "Sitemap Link wurde hinzugefügt");
 define("LAN_AL_GSMAP_04", "Sitemap Link wurde aktuallisiert");
-
-
-?>

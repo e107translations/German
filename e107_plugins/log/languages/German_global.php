@@ -5,4 +5,3 @@ define("LAN_PLUGIN_LOG_DESCRIPTION", 	"Dieses Plugin zцєhlt alle Besuche auf I
 define("LAN_PLUGIN_LOG_CONFIGURE",		"Statistiken Logging konfigurieren"); 
 define("LAN_PLUGIN_LOG_LINK", 			"Statistik");
 
-?>

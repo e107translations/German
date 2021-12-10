@@ -58,6 +58,3 @@ define("LAN_LOGINMENU_48", "Menü Konfig");
 define("LAN_LOGINMENU_49", "Email:");
 define("LAN_LOGINMENU_50", "Benutzername oder Email:");
 define("LAN_LOGINMENU_51", "Anmelden");
-
-
-?>

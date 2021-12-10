@@ -28,4 +28,4 @@ Aktivieren Sie diese Einstellung, um nur den Titel auf Ihrer News Seite anzuzeig
 <br />
 Wenn Sie ein Anfangs- und enddatum auswählen wird der Newseintrag nur in diesem Zeitraum sichtbar.";
 $ns -> tablerender($caption, $text);
-?>
+

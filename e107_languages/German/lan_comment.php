@@ -83,4 +83,3 @@ define("COMLAN_501", "Falls Du noch nicht registriert bist , kannst du dich [ hi
 ");
 
 
-?>

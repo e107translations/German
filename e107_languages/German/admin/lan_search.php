@@ -50,4 +50,3 @@ define("SEALAN_48", "Diese Einstellung ist nur wirksam wenn Sie PHP als Suchmeth
 define("SEALAN_49", "Falls Sie auf Ihrer Seite Ideographic-Sprachen wie Chinesiche oder Japanisch verwenden, sollten Sie php als Suchmethode verwenden.");
 
 
-?>

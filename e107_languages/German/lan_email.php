@@ -39,4 +39,3 @@ define("LAN_EMAIL_190", "Bitte sichtbaren Code eingeben");
 define("LAN_SOCIAL_LINK_CHK", "überprüfe diesen Link:");
 
 
-?>

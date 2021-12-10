@@ -14,6 +14,3 @@
 
 define("LAN_PLUGIN_BANNER_NAME", "Werbebanner");
 define("LAN_PLUGIN_BANNER_DESCRIPTION", "Werbebanner auf Ihre Webseite hinzufügen");
-
-
-?>

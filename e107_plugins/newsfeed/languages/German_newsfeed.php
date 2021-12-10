@@ -19,6 +19,3 @@ define("NFLAN_34", "unbekannt");
 define("NFLAN_38", "Schlagzeilen");
 define("NFLAN_39", "Details:");
 define("NFLAN_48", "Ausserstande die Rohdaten in der Datenbank zu speichern");
-
-
-?>

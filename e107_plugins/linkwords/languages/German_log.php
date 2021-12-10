@@ -8,6 +8,3 @@ define("LAN_AL_LINKWD_02", "Linkword Edited");
 define("LAN_AL_LINKWD_03", "Linkword deleted");
 define("LAN_AL_LINKWD_04", "Linkword options updated");
 define("LAN_AL_LINKWD_05", "Linkwords version update");					// Used in 0.7-compatible stub only
-
-
-?>

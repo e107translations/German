@@ -10,23 +10,23 @@ define("LAN_ALT_3", "Wählen Sie alternative Zulassung");
 define("LAN_ALT_4", "Konfigurieren von Parametern für");
 define("LAN_ALT_5", "Zulassung-Parameter konfigurieren");
 define("LAN_ALT_6", "Fehlgeschlagene Verbindung Aktion");
-define("LAN_ALT_7", "Wenn ein Verbindungsfehler auf dem primären Zulassung-Typ (und nicht der lokalen e107 DB), wie soll man das umgehen?");
+define("LAN_ALT_7", "Wenn die Verbindung zum primären Autorisierungstyp fehlschlägt (und es sich nicht um die lokale e107-DB handelt), wie sollte das gehandhabt werden?");
 define("LAN_ALT_8", "Sekundäre Zulassung Typ");
-define("LAN_ALT_9", "Dies wird verwendet, wenn die primäre Zulassung-Methode den Benutzer nicht finden können");
-define("LAN_ALT_10", "Benutzer-Login-Name-Feld");
+define("LAN_ALT_9", "Dies wird verwendet, wenn die primäre Autorisierungsmethode den Benutzer nicht finden kann");
+define("LAN_ALT_10", "Feld für den Benutzernamen");
 define("LAN_ALT_11", "Benutzer-Passwort-Feld");
 define("LAN_ALT_12", "Benutzer e-Mail-Feld");
-define("LAN_ALT_13", "Verstecken Sie Email? Feld");
-define("LAN_ALT_14", "Display Name Benutzerfeld");
-define("LAN_ALT_15", "Richtigen Namen Benutzerfeld");
-define("LAN_ALT_16", "Benutzerfeld Custom-Titel");
-define("LAN_ALT_17", "Unterschriftsfeld");
-define("LAN_ALT_18", "Avatar-Feld");
-define("LAN_ALT_19", "Foto-Feld");
-define("LAN_ALT_20", "Feld 'Datum' beitreten");
-define("LAN_ALT_21", "Ban-Status-Feld");
-define("LAN_ALT_22", "Klassenfeld Mitgliedschaft");
-define("LAN_ALT_24", "Kennwortfeld Salz");
+define("LAN_ALT_13", "E-Mail-Feld ausblenden");
+define("LAN_ALT_14", "Feld für den Anzeigenamen des Benutzers");
+define('LAN_ALT_15', 'Feld für den echten Benutzernamen');
+define('LAN_ALT_16', 'Benutzerdefiniertes Titelfeld');
+define('LAN_ALT_17', 'Unterschriftenfeld');
+define('LAN_ALT_18', 'Avatar-Feld');
+define('LAN_ALT_19', 'Foto-Feld');
+define('LAN_ALT_20', 'Beitrittsdatum-Feld');
+define('LAN_ALT_21', 'Ban-Status-Feld');
+define('LAN_ALT_22', 'Feld Klassenzugehörigkeit');
+define("LAN_ALT_24", "Passwort-Salzfeld");
 define("LAN_ALT_25", "(manchmal kombiniert mit Passwort für zusätzliche Sicherheit)");
 define("LAN_ALT_26", "Datenbanktyp:");
 define("LAN_ALT_27", "Um einen Feldwert in die lokale Datenbank zu übertragen, geben Sie den Feldnamen in das entsprechende Feld unten. (Benutzername und Passwort sind immer übernommen)<br>Lassen Sie das Feld leer, damit es nicht überhaupt übertragen werden");
@@ -38,7 +38,7 @@ define("LAN_ALT_33", "Benutzername:");
 define("LAN_ALT_34", "Passwort:");
 define("LAN_ALT_35", "Datenbank:");
 define("LAN_ALT_36", "Tabelle:");
-define("LAN_ALT_37", "Username-Feld:");
+define("LAN_ALT_37", "Feld 'Benutzername:");
 define("LAN_ALT_38", "Passwort-Feld:");
 define("LAN_ALT_39", "Tabellen-Prefix:");
 define("LAN_ALT_40", "Testen Sie den Datenbankzugriff");
@@ -47,14 +47,14 @@ define("LAN_ALT_42", "Benutzername und Passwort eingegeben, wird dieser Benutzer
 define("LAN_ALT_43", "Verbindung zur Datenbank erfolgreich");
 define("LAN_ALT_44", "Verbindung zur Datenbank fehlgeschlagen");
 define("LAN_ALT_45", "Username-Lookup erfolgreich");
-define("LAN_ALT_46", "Uername Lookup fehlgeschlagen");
+define("LAN_ALT_46", "Username Lookup fehlgeschlagen");
 define("LAN_ALT_47", "Test");
 define("LAN_ALT_48", "Vorherige Validierung");
 define("LAN_ALT_49", "Username =");
 define("LAN_ALT_50", "Passwort =");
 define("LAN_ALT_51", "(leer)");
 define("LAN_ALT_52", "Authentifizierung fehlgeschlagen-");
-define("LAN_ALT_53", "unbekannter Ursache");
+define("LAN_ALT_53", "unbekannte Ursache");
 define("LAN_ALT_54", "kann nicht verbinden mit DB / Dienstleister");
 define("LAN_ALT_55", "Ungültiger Benutzer");
 define("LAN_ALT_56", "falsches Kennwort");
@@ -69,14 +69,14 @@ define("LAN_ALT_64", "Typ");
 define("LAN_ALT_65", "Alternative-Authentifizierung");
 define("LAN_ALT_66", "Dieses Plugin ermöglicht Alternative Authentifizierungsmethoden.");
 define("LAN_ALT_67", "Konfigurieren von Alt-auth");
-define("LAN_ALT_68", "Alt-Auth-Dienst ist jetzt eingerichtet.  Jetzt müssen Sie Ihre bevorzugte Methode zu konfigurieren.");
+define("LAN_ALT_68", "Der Alt-Authentifizierungsdienst ist nun eingerichtet.  Sie müssen nun Ihre bevorzugte Methode konfigurieren.");
 define("LAN_ALT_69", "");
 define("LAN_ALT_70", "Keine");
 define("LAN_ALT_71", "WAHR/FALSCH");
 define("LAN_ALT_72", "Grossbuchstaben");
 define("LAN_ALT_73", "Kleinbuchstaben");
-define("LAN_ALT_74", "Obere erste");
-define("LAN_ALT_75", "Oberen Wörter");
+define("LAN_ALT_74", "Obere erst");
+define("LAN_ALT_75", "Obere Worte");
 define("LAN_ALT_76", "Einschränkung der Benutzer-Klasse (ein numerischer Wert - NULL oder leer für alle)");
 define("LAN_ALT_77", "Nur Benutzer in dieser Klasse (in der Datenbank oben) ist der Zugriff gestattet");
 define("LAN_ALT_78", "Fehlgeschlagener Aktion");
@@ -102,7 +102,7 @@ define("LAN_ALT_CONVERSION_HELP", "Für einige Felder wählt die Dropdown-Box re
 	<b>Wahr/falsch</b> - die Worte \'TRUE\' und \'FALSE\' (und ihre untere/gemischt Fall Entsprechungen) werden konvertiert, die boolesche Werte 1 und 0 (null).<br>
 	<b>Großbuchstaben</b> - alle Buchstaben in Großbuchstaben umgewandelt<br>
 	<b>Kleinbuchstaben</b> - alle Buchstaben in Kleinbuchstaben konvertiert werden<br>
-	<b>Obere erste</b> -das erste Zeichen in Großbuchstaben konvertiert wird<br>
+	<b>Obere erst</b> -das erste Zeichen in Großbuchstaben konvertiert wird<br>
 	<b>Obere Worte</b> - der erste Buchstabe jedes Wortes ist in Großbuchstaben konvertiert.<br>
 	<br>
 	<br>");

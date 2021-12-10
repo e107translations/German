@@ -21,4 +21,3 @@ if (!defined('e107_INIT')) { exit; }
 $text = "
 Von hier aus können Sie für Benutzer erlauben/verweigern, Dateien hochzuladen und zu verwalten, die Dateien, die hochgeladen wurden.";
 $ns -> tablerender("Hilfe für öffentliches hochladen", $text);
-?>

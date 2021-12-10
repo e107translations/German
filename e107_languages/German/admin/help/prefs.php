@@ -20,4 +20,3 @@ if (!defined('e107_INIT')) { exit; }
 
 $text = "Ihre Voreinstellungen erlaubt es ihnen alle wichtigen Einstellungen auf Ihrer Seite , vom Seitennamen und der Beschreibung zum Überflutungsschutz und  der Obzönität Filterung anzugeben..";
 $ns -> tablerender("Voreinstellungs Hilfe", $text);
-?>

@@ -45,4 +45,3 @@ define("EMOLAN_37", "Gefühle nicht gesetzt");
 define("EMOLAN_38", "Leerer Gefühlwert");
 
 
-?>

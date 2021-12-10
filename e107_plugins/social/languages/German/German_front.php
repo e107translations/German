@@ -23,6 +23,3 @@ define("LAN_SOCIAL_203", "Art deines Tweet hier.");
 define("LAN_SOCIAL_204", "teilen");
 define("LAN_SOCIAL_205", "Kann Kommentare nicht rendern. Fehlende Facebook-AppID.");
 define("LAN_SOCIAL_WARNING", "Facebook Kommentare erfordert, dass Sie eine Facebook-App-ID haben.Siehe 'social login' Bereich in den Admin-Einstellungen, um einen hinzuzufügen.");
-
-
-?>

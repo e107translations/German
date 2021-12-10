@@ -23,4 +23,3 @@ define("LAN_HEADER_05", "Sprache wird im Adminbereich angezeigt");
 define("LAN_HEADER_06", "Plugin - Info");
 
 
-?>

@@ -19,11 +19,11 @@
 if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Liste neuer Einträge"); }
 
 
-define("LIST_PLUGIN_1", "Neues auflisten");
-define("LIST_PLUGIN_2", "Diese Plugin gib Ihnen eine Übersicht neuer Einträge vieler e107- Kategorien. Sie können entweder eine Liste neuer Einträge seit Ihrem letzen Besuch, oder einer generelle Liste neuer Einträge aufrufen. Obendrein könne Sie sich dieses auch in einem Menü anzeigen lassen. Jeder Bereich ist via Admin-Screen konfigurierbar.");
+//define("LIST_PLUGIN_1", "Neues auflisten");
+//define("LIST_PLUGIN_2", "Diese Plugin gib Ihnen eine Übersicht neuer Einträge vieler e107- Kategorien. Sie können entweder eine Liste neuer Einträge seit Ihrem letzen Besuch, oder einer generelle Liste neuer Einträge aufrufen. Obendrein könne Sie sich dieses auch in einem Menü anzeigen lassen. Jeder Bereich ist via Admin-Screen konfigurierbar.");
 define("LIST_PLUGIN_3", "Hauptmenü konfigurieren");
 define("LIST_PLUGIN_4", "Das List-New Plugin ist nun einsatzbereit.");
-define("LIST_PLUGIN_5", "Auflisten");
+//define("LIST_PLUGIN_5", "Auflisten");
 define("LIST_PLUGIN_6", "Dieses Plugin ist nicht installiert.");
 
 define("LIST_ADMIN_1", "Letzte");
@@ -94,11 +94,11 @@ define("LIST_ADMIN_MENU_4", "");
 
 define("LIST_ADMIN_LAN_2", "Überschrift");
 define("LIST_ADMIN_LAN_3", "Definieren Sie eine Überschrift");
-define("LIST_ADMIN_LAN_4", "");
+//define("LIST_ADMIN_LAN_4", "");
 
 define("LIST_ADMIN_LAN_5", "Icon : Benutzung");
 define("LIST_ADMIN_LAN_6", "Benutzen Sie das Icon von jedem Bereich");
-define("LIST_ADMIN_LAN_7", "");
+//define("LIST_ADMIN_LAN_7", "");
 
 define("LIST_ADMIN_LAN_8", "Zeichen");
 define("LIST_ADMIN_LAN_9", "Wählen Sie hier, wieviele Zeichen in der Überschrift angezeigt werden sollen");
@@ -122,7 +122,7 @@ define("LIST_ADMIN_LAN_22", "Legt fest, wieviele Spalten Sie verwenden möchten.
 
 define("LIST_ADMIN_LAN_23", "Willkommenstext");
 define("LIST_ADMIN_LAN_24", "Definieren Sie hier einen Willkommenstext, der oben auf der Seite angezeigt wird");
-define("LIST_ADMIN_LAN_25", "");
+//define("LIST_ADMIN_LAN_25", "");
 
 define("LIST_ADMIN_LAN_26", "Leere Bereiche");
 define("LIST_ADMIN_LAN_27", "Wählen Sie hier, ob eine Nachricht angezeigt werden soll, falls für einen Bereich keine Einträge gefunden werden ");
@@ -130,24 +130,21 @@ define("LIST_ADMIN_LAN_28", "");
 
 define("LIST_ADMIN_LAN_29", "Icon : Gesetztes");
 define("LIST_ADMIN_LAN_30", "Benutzen Sie das gesetzte Theme-Bullet falls kein Icon zur Verfügung steht oder falls die Benutzung von Icons deaktiviert ist");
-define("LIST_ADMIN_LAN_31", "");
+//define("LIST_ADMIN_LAN_31", "");
 
 define("LIST_ADMIN_LAN_32", "Zeitspanne:Tage");
 define("LIST_ADMIN_LAN_33", "Maximale Tagesanzeige, wie weit für den Benutzer zurückliegende Neuigkleiten aufgelistet werden");
-define("LIST_ADMIN_LAN_34", "");
+//define("LIST_ADMIN_LAN_34", "");
 define("LIST_ADMIN_LAN_35", "Tage");
 
 define("LIST_ADMIN_LAN_36", "Zeitspanne");
 define("LIST_ADMIN_LAN_37", "Eine Auswahlbox anzeigen lassen, wieviele Tage rückliegend aufgelistet werden sollen?");
-define("LIST_ADMIN_LAN_38", "");
+//define("LIST_ADMIN_LAN_38", "");
 
 define("LIST_ADMIN_LAN_39", "Offen, falls Einträge bestehen");
 define("LIST_ADMIN_LAN_40", "Sollten Bereiche die Einträge enthalten von vorneherein offen sein?");
-define("LIST_ADMIN_LAN_41", "");
+//define("LIST_ADMIN_LAN_41", "");
 // Admin log messages
 //-------------------
 define('LAN_AL_LISTNEW_01', 'List New Voreinstellungen aktualisiert updated');
-define('LAN_AL_LISTNEW_02', '');
-
-
-?>
+//define('LAN_AL_LISTNEW_02', '');

@@ -28,4 +28,3 @@ define("UCSLAN_10", "Glückwunsch");
 define("UCSLAN_12", "Nur für Mitglieder");
 
 
-?>

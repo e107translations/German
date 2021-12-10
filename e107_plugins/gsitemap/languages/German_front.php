@@ -58,6 +58,3 @@ define("GSLAN_37", "Once you have some entries, go to <a href='https://www.googl
 define("GSLAN_38", "For more information on Google Sitemap protocol, go to <a href='http://www.google.com/webmasters/sitemaps/docs/en/protocol.html'>http://www.google.com/webmasters/sitemaps/docs/en/protocol.html</a>.");
 define("GSLAN_39", "No links in sitemap - import sitelinks?");
 define("GSLAN_40", "Google Sitemap Entries");
-*/
-
-?>

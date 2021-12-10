@@ -28,4 +28,4 @@ $ns -> tablerender("File Key", $text);
 $text = "Der Dateiinspektor scannt und analysiert die Dateien auf Ihrem Seitenserver. Wenn der Inspektor ein e107 Kerndatei begegnet überprüft er sie auf Dateikonsistenz, um sicherzustellen dass sie nicht beschädigt ist.";
 
 $ns -> tablerender("Dateiinspektor Hilfe", $text);
-?>
+
